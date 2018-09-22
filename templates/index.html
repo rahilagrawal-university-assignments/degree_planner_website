@@ -22,7 +22,6 @@
 
   <div>
     <select id="Faculty_List" name="Faculty" onchange="this.form.submit()" required>
-
       {% for i in faculties %}
         <option id="{{i}}" name="Faculty"><a class="dropdown-item" href="#">{{i}}</a></option>
       {% endfor %}
