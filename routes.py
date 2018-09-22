@@ -31,9 +31,9 @@ def completed():
 
 @app.route('/plan', methods=["GET", "POST"])
 def plan():
-    t1 = ["COMP1511","COMPBENs"]
-    t2 = ["COMP1511"]
-    t3 = ["COMP1511"]
+    t1 = ["COmp1511"]
+    t2 = []
+    t3 = []
     if request.method == "POST":
         pass
     courseDB = searchCourse(None)
