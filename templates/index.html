@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="../css/mycss.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/mycss.css') }}">
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,115 +19,41 @@
       <div class="jumbotron jumbotron-fluid">
         <h1>UNSW Degree Planner</h1> 
       </div>
-    </div>
 
 <Form method="POST">
 
   <div class="custom-select" style="width:200px;">
     <select id="Faculty_List" name="Faculty" onchange="this.form.submit()" required>
-
       {% for i in faculties %}
         {% if i == facultySelected %}
-          <option  selected id="{{i}}" name="Faculty"><a class="dropdown-item" href="#">{{i}}</a></option>
+          <option  selected id="{{i}}" name="Faculty"><a href="#">{{i}}</a></option>
         {% else %}
           <option id="{{i}}" name="Faculty"><a class="dropdown-item" href="#">{{i}}</a></option>
         {% endif %}
       {% endfor %}
       </select>
-  </div>
-
-  <div class="custom-select" style="width:200px;">
+    </div>
+    <div class="custom-select" style="width:200px;">
       <select id="School_List" required>
         {% if schools %}
           {% for school in schools %}
             <option id="{{school}}" name="Schools"><a class="dropdown-item" href="#">{{school}}</a></option>
           {% endfor %}
         {% endif %}
-        }
       </select>
-  </div>
+    </div>
     <div class="custom-select" style="width:200px;">
       <select id="status" required>
-        <option selected id="Current" name="Schools"><a class="dropdown-item" href="#">Current</a></option>
-        <option id="New" name="Schools"><a class="dropdown-item" href="#">Starting 2019</a></option>
+        <option selected id="Current" name="Schools"><a href="#">Current</a></option>
+        <option id="New" name="Schools"><a href="#">Starting 2019</a></option>
       </select>
     </div>
 
     <button type="submit">Confirm</button>
 </Form>
-
-  <script>
-    function getFaculty(){
-      var e = document.getElementById("Faculty_List");
-      var faculty = e.options[e.selectedIndex].id;
-      console.log(faculty);
-    }
-
-    function getSchool(){
-      var e = document.getElementById("School_List");
-      var school = e.options[e.selectedIndex].id;
-      console.log(school);
-    }
-  </script>
-
-
-	<div class="container">
-		<div class="jumbotron jumbotron-fluid">
-			<h1>UNSW Degree Planner</h1>
-		</div>
-
-		<Form method="POST">
-			<div class="custom-select" style="width:200px;">
-				<select id="Faculty_List" onchange="this.form.submit()">
-					<option value=""  selected disabled hidden>Faculty</option>
-
-					<option id="Science" name="Faculty"><a class="dropdown-item" href="#">Science</a></option>
-					<option id="Engineering" name="Faculty"><a class="dropdown-item" href="#">Engineering</a></option>
-					<option id="Buisness" name="Faculty"><a class="dropdown-item" href="#">Buisness</a></option>
-					<option id="Law" name="Faculty"><a class="dropdown-item" href="#">Law</a></option>
-					<option id="Medicine" name="Faculty"><a class="dropdown-item" href="#">Medicine</a></option>
-					<option id="Art" name="Faculty"><a class="dropdown-item" href="#">Art</a></option>
-				</select>
-			</div>
-
-			<div class="custom-select" style="width:200px;">
-				<select id="School_List" onchange="">
-					<option value="" selected disabled hidden  style="display:none;">School</option>
-					<option id="COMPSCI" name="Schools"><a class="dropdown-item" href="#">Computer Science</a></option>
-					<option id="MECHENG" name="Schools"><a class="dropdown-item" href="#"> Mechanical Engineering</a></option>
-					<option id="ELECENG" name="Schools"><a class="dropdown-item" href="#"> Electrical Engineering</a></option>
-					<option id="LEBRONENG" name="Schools"><a class="dropdown-item" href="#"> Lebron Engineering</a></option>
-				</select>
-			</div>
-
-			<div class="custom-select" style="width:200px;">
-				<select id="status" onchange="">
-					<option value="" selected disabled hidden>Type of Student</option>
-					<option id="Current" name="Status"><a class="dropdown-item" href="#">Current</a></option>
-					<option id="New" name="Status"><a class="dropdown-item" href="#">Starting 2019</a></option>
-				</select>
-			</div>
-		</Form>
-
-
-
-		<script>
-			function getFaculty() {
-				var e = document.getElementById("Faculty_List");
-				var faculty = e.options[e.selectedIndex].id;
-				console.log(faculty);
-			}
-
-			function getSchool() {
-				var e = document.getElementById("School_List");
-				var school = e.options[e.selectedIndex].id;
-				console.log(school);
-			}
-		</script>
-
+</div>
 
 </body>
-
 <script>
 		var x, i, j, selElmnt, a, b, c;
 		/*look for any elements with the class "custom-select":*/
