@@ -10,19 +10,25 @@ def index():
     faculties = getFacultiesSchool()
     if request.method == "POST":
         facultySelected = request.form.get("Faculty")
-        return render_template("index.html", faculties=faculties.keys(), facultySelected=facultySelected, schools=faculties[facultySelected])
+        schoolSelected = request.form.get("School")
+        stage = request.form.get("Stage")
+        try:
+            if request.form["send"] == "true" and schoolSelected != "None":
+                return redirect(url_for("completed"))
+        except:
+            return render_template("index.html", faculties=faculties.keys(), facultySelected=facultySelected, schools=faculties[facultySelected])
 
     return render_template("index.html", faculties=faculties.keys(), facultySelected=None, schools=["None"])
 
 
-@app.route('/existing', methods=["GET", "POST"])
-def existing():
+@app.route('/completed', methods=["GET", "POST"])
+def completed():
 
-    return render_template("existing.html")
+    return render_template("completed.html")
 
 
-@app.route('/current', methods=["GET", "POST"])
-def current():
+@app.route('/plan', methods=["GET", "POST"])
+def plan():
 
     return render_template("plan.html")
 
@@ -35,3 +41,11 @@ def getFacultiesSchool():
             schools[i] = schools[i].rstrip()
         faculty[filename] = schools
     return faculty
+
+def checkPrereq(course, completed_courses):
+    prereqs = getPrereqs()
+    for prereq in prereqs:
+        if prereq not in completed_courses:
+            return False
+    return True
+

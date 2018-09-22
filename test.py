@@ -9,3 +9,10 @@ def getFacultiesSchool():
             schools[i] = schools[i].rstrip()
         faculty[filename] = schools
     return faculty
+
+def checkPrereq(course, completed_courses):
+    prereqs = getPrereqs()
+    for prereq in prereqs:
+        if prereq not in completed_courses:
+            return False
+    return True

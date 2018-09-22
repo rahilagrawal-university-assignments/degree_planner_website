@@ -23,35 +23,31 @@
         <h1>                Degree Planner</h1> 
         <p  class="lead">Uni is hard work. Don't let enrolling be.</p> 
       </div>
-      <Form method="POST">
-    <div>
-    <select id="Faculty_List" class="myselect" name="Faculty" onchange="this.form.submit()">
-      {% for i in faculties %}
-        {% if i == facultySelected %}
-          <option  selected id="{{i}}" name="Faculty"><a href="#">{{i}}</a></option>
-        {% else %}
-          <option id="{{i}}" name="Faculty"><a href="#">{{i}}</a></option>
+    <Form method="POST">
+    <div class="styled-select slate" style="width: 250%">
+      <select id="Faculty_List" name="Faculty" onchange="this.form.submit()">
+        {% for i in faculties %}
+          {% if i == facultySelected %}
+            <option  selected id="{{i}}" name="Faculty"><a href="#">{{i}}</a></option>
+          {% else %}
+            <option id="{{i}}" name="Faculty"><a href="#">{{i}}</a></option>
 
-        {% endif %}
-      {% endfor %}
+          {% endif %}
+        {% endfor %}
       </select>
-      </div>
-      <div>
-        <select id="School_List"  class="custom-select" name="School">
-            {% for school in schools %}
-              <option id="{{school}}" name="Schools"><a href="#">{{school}}</a></option>
-            {% endfor %}
-        </select>
-      </div>
-        <div class="custom-select">
-      <select id="status" class="custom-select">
-        <option id="Current" name="Schools"><a href="#">Current</a></option>
-        <option id="New" name="Schools"><a href="#">Starting 2019</a></option>
+      <select id="School_List"  name="School">
+          {% for school in schools %}
+            <option id="{{school}}" name="Schools"><a href="#">{{school}}</a></option>
+          {% endfor %}
       </select>
-      </div>
-      <br />
-    <button type="submit">Confirm</button>
-</Form>
+      <select id="status" name="Stage">
+        <option id="Current" name="Stage"><a href="#">Current</a></option>
+        <option id="New" name="Stage"><a href="#">Starting 2019</a></option>
+      </select>
+      <button name="send" value="true" type="submit">Confirm</button>
+
+    </div>
+</form>
 
 
 </div>

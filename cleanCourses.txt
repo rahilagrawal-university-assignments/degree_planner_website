@@ -1,0 +1,2132 @@
+
+Filter Messages
+Clear
+2519|2520|REGZ1111||111
+2519|2520|REGZ1112||111
+2519|2520|REGZ1510||111
+1867|2022|GENY0001||111
+1867|2022|GENY0002||000
+1867|2022|GENY0003||000
+1867|2022|REGZ9000||111
+1867|2022|REGZ9070||111
+1867|2022|REGZ9072||000
+1867|2022|REGZ9075||111
+1867|2022|REGZ9076||000
+1867|2022|REGZ9077||111
+1867|2022|REGZ9078||000
+1867|2022|REGZ9255||000
+1867|2000|ENGG0360||000
+1867|2000|ENGG1000||111
+1867|2000|ENGG1100||111
+1867|2000|ENGG1200||000
+1867|2000|ENGG4901||000
+1867|2000|ENGG4902||111
+1867|2000|ENGG4903||000
+1867|2000|ENGG4904||000
+1867|2000|ENGG4905||000
+1867|2000|ENGG4998||111
+1867|2020|ATSI0001||111
+1867|2020|ATSI0002||000
+1867|2020|ATSI1011||111
+1867|2020|ATSI1012||000
+1867|2020|ATSI2003|Prerequisite: 30 units of credit at Level 1|111
+1867|2020|ATSI2004|Prerequisite: 30 units of credit at Level 1|000
+1867|2020|ATSI2011|Prerequisite: 30 units of credit at Level 1|000
+1867|2020|ATSI2012|Prerequisite: 30 units of credit at Level 1|000
+1867|2020|ATSI2015|Prerequisite: 30 units of credit at Level 1|111
+1867|2020|ATSI3002|Prerequisite: 36 units of credit|000
+1867|2020|ATSI3003|Prerequisite: 36 units of credit|000
+1867|2020|ATSI3005|Prerequisite: 36 units of credit|000
+1867|2020|ATSI3008|Prerequisite: 120 units of credit overall, enrolment in a major in Indigenous Studies and enrolled in the final semester of an Arts Faculty single or dual degree program|000
+1867|2020|ATSI3017|Prerequisite: 36 units of credit|111
+1867|2020|ATSI4001||111
+1867|2020|ATSI4002||111
+1867|2020|ATSI4101||111
+1867|2020|ATSI4102||000
+1867|2020|ATSI4103||000
+1867|2020|ATSI4104||000
+1867|1994|ENGG1400||000
+1867|1991|ENGG1811|Prerequisite: Enrolment in a non-CSE major (no BINF, COMP, or SENG)|111
+1874|1980|ADAD2400||111
+1874|1980|ADAD2402||000
+1874|1980|ADAD2610||000
+1874|1980|ADAD3400|L2 Interactive Media Prerequisite|111
+1874|1980|ADAD3402|L2 Cross-Media Prerequisite|000
+1874|1980|ADAD4000|Must have completed SART3800, SDES2116, SOMA3616, SDES6772|111
+1874|1980|ADAD4001|Must have completed SART3800, SDES2116, SOMA3616, SDES6772|111
+1874|1980|ADAD4011|Must have completed ADAD4010|111
+1874|1980|ADAD4100||111
+1874|1980|DART1100||111
+1874|1980|DART1101||000
+1874|1980|DART1110||111
+1874|1980|DART1120||111
+1874|1980|DART1130||111
+1874|1980|DART1140||000
+1874|1980|DART1150||000
+1874|1980|DART1200||111
+1874|1980|DART1201|DART1200 - Media Arts Gateway 1 (Undergraduate)|000
+1874|1980|DART1210||111
+1874|1980|DART1220||111
+1874|1980|DART1230||000
+1874|1980|DART1240||000
+1874|1980|DART1250||111
+1874|1980|DART1300||111
+1874|1980|DART1301||000
+1874|1980|DART1302||111
+1874|1980|DART1303||000
+1874|1980|DART1310||000
+1874|1980|DART1340||111
+1874|1980|DART1350||111
+1874|1980|DART1351||000
+1874|1980|DART1390||000
+1874|1980|DART2310||111
+1874|1980|DART2311||000
+1874|1980|DART2320||000
+1874|1980|DART2321||111
+1874|1980|DART2330||111
+1874|1980|DART2331||000
+1874|1980|DART2341||000
+1874|1980|DART3310||111
+1874|1980|DART3320||000
+1874|1980|DART3321||111
+1874|1980|DART3330||000
+1874|1980|DART3331||000
+1874|1980|DART3340||000
+1874|1980|DART3341||000
+1874|1980|DART3342||000
+1874|1980|DART3390||000
+1874|1980|DART3391||111
+1874|1980|DART4101||111
+1874|1980|DART4102||000
+1874|1980|DART4201||111
+1874|1980|DART4202||000
+1874|1980|DART4300||111
+1874|1980|DART4301||111
+1874|1980|DDES1100||111
+1874|1980|DDES1101||000
+1874|1980|DDES1110||111
+1874|1980|DDES1120||111
+1874|1980|DDES1130||111
+1874|1980|DDES1140||111
+1874|1980|DDES1150||111
+1874|1980|DDES1160||111
+1874|1980|DDES1200||111
+1874|1980|DDES1201||000
+1874|1980|DDES1290||000
+1874|1980|DDES2180||111
+1874|1980|DDES4101||111
+1874|1980|DDES4102||000
+1874|1980|DDES4200||111
+1874|1980|SAHT4211||111
+1874|1980|SAHT4213|Prerequisite: SAHT4211 Thesis A.|000
+1874|1980|SART2400||111
+1874|1980|SART2401||111
+1874|1980|SART2402||000
+1874|1980|SART2403||000
+1874|1980|SART2404||111
+1874|1980|SART2405||000
+1874|1980|SART2406||111
+1874|1980|SART2407||111
+1874|1980|SART2408||111
+1874|1980|SART2409||000
+1874|1980|SART2410||111
+1874|1980|SART2411||000
+1874|1980|SART2412||111
+1874|1980|SART2413||000
+1874|1980|SART2414||111
+1874|1980|SART2415||000
+1874|1980|SART2416||111
+1874|1980|SART2417||000
+1874|1980|SART2818||000
+1874|1980|SART2819|Prerequisite: SART2818.|000
+1874|1980|SART2829||000
+1874|1980|SART2832||000
+1874|1980|SART2845||111
+1874|1980|SART3400|L2 Painting Prerequisite|111
+1874|1980|SART3401|L2 Painting Prerequisite|111
+1874|1980|SART3402|L2 Painting Prerequisite|000
+1874|1980|SART3403|L2 Painting Prerequisite|000
+1874|1980|SART3404|L2 Printmaking Prerequisite|111
+1874|1980|SART3406|L2 Printmaking Prerequisite|000
+1874|1980|SART3408|L2 SPI Prerequisite|111
+1874|1980|SART3409|L2 SPI Prerequisite|000
+1874|1980|SART3410|L2 SPI Prerequisite|111
+1874|1980|SART3411|L2 SPI Prerequisite|000
+1874|1980|SART3412|L2 Drawing Prerequisite|111
+1874|1980|SART3413|L2 Drawing Prerequisite|000
+1874|1980|SART3414|L2 Photography Prerequisite|111
+1874|1980|SART3415|L2 Photography Prerequisite|000
+1874|1980|SART3416|L2 Photography Prerequisite|111
+1874|1980|SART3417|L2 Photography Prerequisite|000
+1874|1980|SART3800||111
+1874|1980|SDES1111||111
+1874|1980|SDES1211||000
+1874|1980|SDES2116|SDES2116 is reserved for students in the Bachelor of Design (4802, Faculty of Art & Design), Bachelor of Architectural Computing (3267, FBE), Diploma in Innovation Management (3451, ASB) and Design Honours (4809, Faculty of Art & Design)|111
+1874|1980|SDES2167||111
+1874|1980|SDES2168||000
+1874|1980|SDES2170||111
+1874|1980|SDES2184||000
+1874|1980|SDES2203||000
+1874|1980|SDES2400||111
+1874|1980|SDES2401||000
+1874|1980|SDES2402||111
+1874|1980|SDES2403||000
+1874|1980|SDES2404||111
+1874|1980|SDES2405||000
+1874|1980|SDES2406||111
+1874|1980|SDES2407||000
+1874|1980|SDES2408||111
+1874|1980|SDES2409||000
+1874|1980|SDES2410||111
+1874|1980|SDES2411||000
+1874|1980|SDES2412||111
+1874|1980|SDES2413||000
+1874|1980|SDES2414||111
+1874|1980|SDES2415||000
+1874|1980|SDES2416||000
+1874|1980|SDES2463||000
+1874|1980|SDES3166||111
+1874|1980|SDES3172||000
+1874|1980|SDES3174||000
+1874|1980|SDES3400|L2 Textiles Prerequisite|111
+1874|1980|SDES3401|L2 Textiles Prerequisite|000
+1874|1980|SDES3402|L2 Textiles Prerequisite|111
+1874|1980|SDES3403|L2 Textiles Prerequisite|000
+1874|1980|SDES3404|L2 Ceramics Prerequisite|111
+1874|1980|SDES3405|L2 Ceramics Prerequisite|000
+1874|1980|SDES3406|L2 Graphics Prerequisite|111
+1874|1980|SDES3407|L2 Graphics Prerequisite|000
+1874|1980|SDES3408|L2 Jewellery Prerequisite|111
+1874|1980|SDES3409|L2 Jewellery Prerequisite|000
+1874|1980|SDES3410|L2 Object Design Prerequisite|111
+1874|1980|SDES3411|L2 Object Design Prerequisite|000
+1874|1980|SDES3412|L2 Spatial Design Prerequisite|111
+1874|1980|SDES3413|L2 Spatial Design Prerequisite|000
+1874|1980|SDES3414|L2 Design Prerequisite|000
+1874|1980|SDES3801||111
+1874|1980|SDES4205||000
+1874|1980|SOMA2408||111
+1874|1980|SOMA2409||000
+1874|1980|SOMA2410||111
+1874|1980|SOMA2411||000
+1874|1980|SOMA2412||111
+1874|1980|SOMA2413||111
+1874|1980|SOMA2414||000
+1874|1980|SOMA2415||000
+1874|1980|SOMA2416||111
+1874|1980|SOMA2417||000
+1874|1980|SOMA2605||000
+1874|1980|SOMA2816|Intro to Motion Graphics - Must have completed SOMA2410 or SOMA2408 or SOMA3410 or SOMA3408 or SOMA2411 or SOMA3411|111
+1874|1980|SOMA3408|L2 Animation Prerequisite|111
+1874|1980|SOMA3409|L2 Animation Prerequisite|000
+1874|1980|SOMA3410|L2 Animation Prerequisite|000
+1874|1980|SOMA3411|L2 Animation Prerequisite|000
+1874|1980|SOMA3412|Must have completed at least 1 L2 course in VSI|111
+1874|1980|SOMA3413|Must have completed 1 x L2 VSI course.|111
+1874|1980|SOMA3414|Must have completed at least 1 x L2 Video Sound Image course.|000
+1874|1980|SOMA3415|Must have completed at least 1 x L2 Video Sound Image course.|000
+1874|1980|SOMA3416|L2 Animation Prerequisite|111
+1874|1980|SOMA3417|L2 Animation Prerequisite|000
+1874|1980|SOMA3616||111
+1519|1985|EDST0306||111
+1519|1985|EDST1101||000
+1519|1985|EDST1104||111
+1519|1985|EDST1108||000
+1519|1985|EDST2002|Prerequisite: 66 uoc overall, including EDST1101, EDST1104 and EDST2003, and enrolment in a dual award Education program. Students must have passed the Literacy and Numeracy Test for Initial Teacher Education in order to enrol into this course|111
+1519|1985|EDST2003|Prerequisite: 24 units of credit at Level 1 including EDST1101 or EDST1104 and enrolment in one of the following teaching Programs 3446, 3462, 4053, 4054, 4058, 4059, 4061, 4062 or 4076|111
+1519|1985|EDST2044|Prerequisite: 24 units of credit at Level 1|000
+1519|1985|EDST2070|Prerequisite: 24 units of credit at Level 1|000
+1519|1985|EDST2091|Prerequisite: 24 units of credit at Level 1|111
+1519|1985|EDST2094|Prerequisite: 24 units of credit at Level 1, and enrolment in an Education program. Please contact the School of Education for enrolment.|000
+1519|1985|EDST4080|Prerequisite: 84 units of credit overall, including EDST2002 and EDST2003, and enrolment in a dual award Education program|000
+1519|1985|EDST4084|Prerequisite: 84 units of credit overall, including EDST2002 and EDST2003, and enrolment in a dual award Education program|111
+1519|1985|EDST4096|Prerequisite: 84 units of credit overall, including EDST2002 and EDST2003, and enrolment in a dual award Education program|111
+1519|1985|EDST4501|Prerequisite: Enrolment in the Education honours program|111
+1519|1985|EDST4502|Prerequisite: Enrolment in the Education honours program|111
+1519|1985|EDST4503|Prerequisite: Enrolment in the Education honours program|111
+1519|1985|EDST4504|Prerequisite: Enrolment in the Education honours program|111
+1519|1985|EDST4505|Prerequisite: Enrolment in the Education honours program|111
+1519|1985|EDST4506|Prerequisite: Enrolment in the Education honours program|111
+1519|1985|EDST4507|Prerequisite: Enrolment in the Education honours program|111
+1519|1985|EDST6700|Prerequisite: Enrolment in one of the following teaching programs, 5926, 7327 or 8926|111
+1519|1985|EDST6701|Prerequisite: Enrolment in one of the following teaching programs, 5926, 7327 or 8926|111
+1519|1985|EDST6702|Prerequisite: Enrolment in one of the following teaching programs, 5926, 7327 or 8926|111
+1519|1985|EDST6704|Prerequisite: Enrolment in one of the following teaching programs, 5926, 7327 or 8926|111
+1519|1985|EDST6705|Prerequisite: Enrolment in one of the following teaching programs, 5926, 7327 or 8926|111
+1519|1985|EDST6706|Prerequisite: Enrolment in one of the following teaching programs, 5926, 7327 or 8926|111
+1519|1985|EDST6707|Prerequisite: Enrolment in one of the following teaching programs, 5926, 7327 or 8926|111
+1519|1985|EDST6708|Prerequisite: Enrolment in one of the following teaching programs, 5926, 7327 or 8926|111
+1519|1985|EDST6710|Prerequisite: Enrolment in one of the following teaching programs, 5926, 7327 or 8926|111
+1519|1985|EDST6711|Prerequisite: Enrolment in one of the following teaching programs, 5926, 7327 or 8926|111
+1519|1985|EDST6713|Prerequisite: Enrolment in Program 5926 or 8926|111
+1519|1985|EDST6714|Prerequisite: Enrolment in one of the following teaching programs, 5926, 7327 or 8926|111
+1519|1985|EDST6715|Prerequisite: Enrolment in one of the following teaching programs, 5926, 7327 or 8926|111
+1519|1985|EDST6716|Prerequisite: Enrolment in one of the following teaching programs, 5926, 7327 or 8926|111
+1519|1985|EDST6717|Prerequisite: Enrolment in one of the following teaching programs, 5926, 7327 or 8926|111
+1519|1985|EDST6718|Prerequisite: Enrolment in one of the following teaching programs, 5926, 7327 or 8926|111
+1519|1985|EDST6719|Prerequisite: Enrolment in one of the following teaching programs, 5926, 7327 or 8926|111
+1519|1985|EDST6720|Prerequisite: Enrolment in one of the following teaching programs, 5926, 7327 or 8926|111
+1519|1985|EDST6722|Prerequisite: Enrolment in one of the following teaching programs, 5926, 7327 or 8926|111
+1519|1985|EDST6723|Prerequisite: Enrolment in a English Double Method specialisation in program 5926 or 8926|111
+1519|1985|EDST6724|Prerequisite: Enrolment in a History Double Method specialisation in program 5926 or 8926|111
+1519|1985|EDST6725|Prerequisite: Enrolment in one of the following teaching programs, 5926, 7327 or 8926|111
+1519|1985|EDST6726|Prerequisite: Enrolment in a Mathematics Double Method specialisation in program 5926 or 8926|111
+1519|1985|EDST6727|Prerequisite: Enrolment in one of the following teaching programs, 5926, 7327 or 8926|111
+1519|1985|EDST6728|Prerequisite: Enrolment in a Music Double Method specialisation in program 5926 or 8926|111
+1519|1985|EDST6730|Prerequisite: EDST6700 and EDST6760|000
+1519|1985|EDST6731|Prerequisite: EDST6701 and EDST6760|000
+1519|1985|EDST6732|Prerequisite: EDST6702 and EDST6760|000
+1519|1985|EDST6734|Prerequisite: EDST6704 and EDST6760|000
+1519|1985|EDST6735|Prerequisite: EDST6705 and EDST6760|000
+1519|1985|EDST6736|Prerequisite: EDST6706 and EDST6760|000
+1519|1985|EDST6737|Prerequisite: EDST6707 and EDST6760|000
+1519|1985|EDST6738|Prerequisite: EDST6708 and EDST6760|000
+1519|1985|EDST6740|Prerequisite: EDST6710 and EDST6760|000
+1519|1985|EDST6741|Prerequisite: EDST6711 and EDST6760|000
+1519|1985|EDST6743|Prerequisite: EDST6713 and EDST6760|000
+1519|1985|EDST6744|Prerequisite: EDST6714 and EDST6760|000
+1519|1985|EDST6745|Prerequisite: EDST6715 and EDST6760|000
+1519|1985|EDST6746|Prerequisite: EDST6716 and EDST6760|000
+1519|1985|EDST6747|Prerequisite: EDST6717 and EDST6760|000
+1519|1985|EDST6748|Prerequisite: EDST6718 and EDST6760|000
+1519|1985|EDST6749|Prerequisite: EDST6719 and EDST6760|000
+1519|1985|EDST6750|Prerequisite: EDST6720 and EDST6760|000
+1519|1985|EDST6752|Prerequisite: EDST6722 and EDST6760|000
+1519|1985|EDST6753|Prerequisite: EDST6723 and EDST6760|000
+1519|1985|EDST6754|Prerequisite: EDST6724 and EDST6760|000
+1519|1985|EDST6755|Prerequisite: EDST6725 and EDST6760|000
+1519|1985|EDST6756|Prerequisite: EDST6726 and EDST6760|000
+1519|1985|EDST6757|Prerequisite: EDST6727 and EDST6760|000
+1519|1985|EDST6758|Prerequisite: EDST6728 and EDST6760|000
+1519|1985|EDST6760|Prerequisite: Enrolment in 8925 Master of Teaching (Primary) and EDST5133, EDST5151, EDST6779, and EDST6781. Or Enrolment in 8926 Master of Teaching (Secondary) and corerequisite courses EDST5112, EDST5133 and 12 UOC Method 1 courses|111
+1519|1985|EDST6765|Prerequisite: 72 uoc including EDST6760 and enrolment in 8925. Or EDST6760, 12 uoc in Teaching Method courses and enrolment in 8926. Students must have passed the Literacy and Numeracy Test for Initial Teacher Education. Excluded: EDST4081, EDST5132.|111
+1519|1985|EDST6771|Prerequisite: Enrolment in program 7327 or 8926|111
+1519|1985|EDST6772|Prerequisite: EDST6771 and EDST6760|000
+1519|1985|EDST6775|Prerequisite: Enrolment in program 7327 or 8926|111
+1519|1985|EDST6776|Prerequisite: EDST6775 and EDST6760|000
+1519|1985|EDST6777|Prerequisite: Enrolment in a Visual Arts Double Method specialisation in program 8926|111
+1519|1985|EDST6778|Prerequisite: EDST6777 and EDST6760|000
+1519|1985|EDST6920||111
+1519|1985|EDST6921||111
+1519|1985|EDST6922||111
+1519|1985|EDST6923||111
+1519|1985|EDST6924||111
+1519|1985|EDST6925||111
+1519|1985|EDST6926||111
+1519|1985|EDST6927||111
+1519|1985|EDST6950||000
+1519|1985|EDST6951||000
+1519|1985|EDST6952||000
+1519|1985|EDST6953||000
+1519|1985|EDST6954||000
+1519|1985|EDST6955||000
+1519|1985|EDST6956||000
+1519|1985|EDST6957||000
+1519|1983|ARTS1190||000
+1519|1983|ARTS1210||000
+1519|1983|ARTS1211||000
+1519|1983|ARTS1240||111
+1519|1983|ARTS1241||000
+1519|1983|ARTS1270||000
+1519|1983|ARTS1271||111
+1519|1983|ARTS1360||111
+1519|1983|ARTS1361||000
+1519|1983|ARTS1362||000
+1519|1983|ARTS1450||111
+1519|1983|ARTS1451|Prerequisite: ARTS1450 or language placement approval|000
+1519|1983|ARTS1452||111
+1519|1983|ARTS1453|Prerequisite: ARTS1452 or language placement approval|000
+1519|1983|ARTS1480|Excluded: HSC Beginners, Continuers or Extension French, FREN1000, FREN1101, GENT0425|111
+1519|1983|ARTS1481|Prerequisite: ARTS1480 or language placement approval|000
+1519|1983|ARTS1510||111
+1519|1983|ARTS1511|Prerequisite: ARTS1510 or language placement approval|000
+1519|1983|ARTS1540||000
+1519|1983|ARTS1541|Prerequisite: ARTS1540 or language placement approval|000
+1519|1983|ARTS1570||111
+1519|1983|ARTS1571|Prerequisite: ARTS1570 or language placement approval|000
+1519|1983|ARTS1620||000
+1519|1983|ARTS1621|Prerequisite: ARTS1620 or language placement approval|000
+1519|1983|ARTS1630||111
+1519|1983|ARTS1631|Prerequisite: ARTS1630 or language placement approval|000
+1519|1983|ARTS1660||111
+1519|1983|ARTS1661|Prerequisite: ARTS1660 or language placement approval|000
+1519|1983|ARTS1690||111
+1519|1983|ARTS1691||000
+1519|1983|ARTS1780||000
+1519|1983|ARTS1782||000
+1519|1983|ARTS1900||000
+1519|1983|ARTS2150|Prerequisite: 24 units of credit at Level 1|000
+1519|1983|ARTS2210|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a History extended minor in Arts/Education (4053)|111
+1519|1983|ARTS2211|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a History or Korean Studies extended minor in Arts/Education (4053)|111
+1519|1983|ARTS2212|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a History or Indonesian Studies extended minor in Arts/Education (4053)|000
+1519|1983|ARTS2213|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Chinese Studies extended minor in Arts/Education (4053)|000
+1519|1983|ARTS2240|Prerequisite: 30 units of credit at Level 1|111
+1519|1983|ARTS2242|Prerequisite: 30 units of credit at Level 1|000
+1519|1983|ARTS2243|Prerequisite: 30 units of credit at Level 1|000
+1519|1983|ARTS2244|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Philosophy minor in Arts/Law (4782)|000
+1519|1983|ARTS2270|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in an Australian Studies minor in Arts/Law (4782) or a History extended minor in Arts/Education (4053)|000
+1519|1983|ARTS2271|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in an Australian Studies minor in Arts/Law (4782) or a History extended minor in Arts/Education (4053)|111
+1519|1983|ARTS2272|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a History extended minor in Arts/Education (4053)|000
+1519|1983|ARTS2282|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a History extended minor in Arts/Education (4053)|000
+1519|1983|ARTS2283|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a History extended minor in Arts/Education (4053)|111
+1519|1983|ARTS2285|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a German Studies or History extended minor in Arts/Education (4053)|000
+1519|1983|ARTS2360|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Philosophy minor in Arts/Law (4782)|111
+1519|1983|ARTS2362|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Philosophy minor in Arts/Law (4782)|000
+1519|1983|ARTS2363|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Philosophy minor in Arts/Law (4782)|000
+1519|1983|ARTS2375|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Philosophy minor in Arts/Law (4782). Excluded: ARTS2366|000
+1519|1983|ARTS2383|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Philosophy minor in Arts/Law (4782)|000
+1519|1983|ARTS2384|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Philosophy minor in Arts/Law (4782)|111
+1519|1983|ARTS2450|Prerequisite: ARTS1451 or language placement approval|111
+1519|1983|ARTS2451|Prerequisite: ARTS2450 or language placement approval|000
+1519|1983|ARTS2452|Prerequisite: ARTS3451 or ARTS3452 or ARTS3453 or equivalent or language placement approval|111
+1519|1983|ARTS2453|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Chinese Studies extended minor in Arts/Education (4053)|111
+1519|1983|ARTS2455|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Chinese Studies extended minor in Arts/Education (4053) or a Women's & Gender Studies minor in Arts/Law (4782)|000
+1519|1983|ARTS2457|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Chinese Studies or History extended minor in Arts/Education (4053)|000
+1519|1983|ARTS2461|Prerequisite: ARTS1453 or language placement approval|111
+1519|1983|ARTS2462|Prerequisite: ARTS2461 or language placement approval|000
+1519|1983|ARTS2464|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Chinese Studies extended minor in Arts/Education (4053) or a Women's & Gender Studies minor in Arts/Law (4782)|111
+1519|1983|ARTS2480|Prerequisite: ARTS1481 or language placement approval|111
+1519|1983|ARTS2481|Prerequisite: ARTS2480 or language placement approval|000
+1519|1983|ARTS2482|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a French Studies extended minor in Arts/Education (4053)|111
+1519|1983|ARTS2484|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a French Studies extended minor in Arts/Education (4053)|111
+1519|1983|ARTS2485|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a French Studies extended minor in Arts/Education (4053)|000
+1519|1983|ARTS2486|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a French Studies extended minor in Arts/Education (4053)|000
+1519|1983|ARTS2510|Prerequisite: ARTS1511 or language placement approval|111
+1519|1983|ARTS2511|Prerequisite: ARTS2510 or language placement approval|111
+1519|1983|ARTS2570|Prerequisite: ARTS1571 or language placement approval|111
+1519|1983|ARTS2571|Prerequisite: ARTS2570 or language placement approval|000
+1519|1983|ARTS2630|Prerequisite: ARTS1631 or language placement approval|111
+1519|1983|ARTS2631|Prerequisite: ARTS2630 or language placement approval|000
+1519|1983|ARTS2660|Prerequisite: ARTS1661 or language placement approval|111
+1519|1983|ARTS2661|Prerequisite: ARTS2660 or language placement approval|000
+1519|1983|ARTS2663|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Japanese Studies or Korean Studies extended minor in Arts/Education (4053)|000
+1519|1983|ARTS2690|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Linguistics extended minor in Arts/Education (4053)|000
+1519|1983|ARTS2692|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Linguistics extended minor in Arts/Education (4053)|111
+1519|1983|ARTS2693|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Linguistics extended minor in Arts/Education (4053)|000
+1519|1983|ARTS2694|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Linguistics extended minor in Arts/Education (4053)|000
+1519|1983|ARTS2696|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Linguistics extended minor in Arts/Education (4053)|000
+1519|1983|ARTS2698|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Linguistics extended minor in Arts/Education (4053)|111
+1519|1983|ARTS2750|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a History or Spanish & Latin American Studies extended minor in Arts/Education (4053)|000
+1519|1983|ARTS2781|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a History extended minor in Arts/Education (4053)|000
+1519|1983|ARTS2785|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a French Studies, German Studies, History, or Spanish and Latin American Studies extended minor in Arts/Education (4053)|111
+1519|1983|ARTS2788|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a German Studies extended minor in Arts/Education (4053)|000
+1519|1983|ARTS2900|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a History extended minor in Arts/Education (4053) or a Women's & Gender Studies minor in Arts/Law (4782)|111
+1519|1983|ARTS2904|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a History extended minor in Arts/Education (4053) or a Women's & Gender Studies minor in Arts/Law (4782)|000
+1519|1983|ARTS2906|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a History extended minor in Arts/Education (4053) or a Women's & Gender Studies minor in Arts/Law (4782)|000
+1519|1983|ARTS2908|Prerequisite: 30 units of credit at Level 1. Or 24 units of credit and enrolment in a History or Japanese extended minor in Arts/Education (4053) or a Women's & Gender Studies minor in Arts/Law (4782)|111
+1519|1983|ARTS3212|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Asian Studies, Development Studies or History|000
+1519|1983|ARTS3216|Prerequisite: 48 UOC including 6 UOC at level 1 and 6 UOC at level 2 in Asian Studies. Or 48 UOC including 12 UOC in Chinese Studies language courses. Or 48 UOC and enrolment in an International Studies single or dual program (2017 onwards)|111
+1519|1983|ARTS3217|Prerequisite: 48 UOC including 6 UOC at level 1 and 6 UOC at level 2 in Asian Studies or History. Or 48 UOC incuding 12 UOC in Chinese Studies language courses.Or 48 UOC and enrolment in an International Studies single or dual program (2017 onwards)|111
+1519|1983|ARTS3218|Prerequisiste: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Asian Studies, History, or Women's and Gender Studies; or 48 UOC overall, including 12 UOC in Japanese Studies language courses|000
+1519|1983|ARTS3220|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Asian Studies or History. Or 48 UOC overall and enrolment in an International Studies single or dual program (2017 onwards)|000
+1519|1983|ARTS3240|Prerequisite: 72 uoc overall and enrolment in an Environmental Humanities major or minor|000
+1519|1983|ARTS3242|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Environmental Humanities or History. Or 48 UOC overall and enrolment in an International Studies single or dual program (2017 onwards)|111
+1519|1983|ARTS3243|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Environmental Humanities|111
+1519|1983|ARTS3270|Prerequisite: 72uoc overall, including ARTS1270 and enrolment in a History major or minor|000
+1519|1983|ARTS3283|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, History|111
+1519|1983|ARTS3289|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, History|000
+1519|1983|ARTS3290|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, History|000
+1519|1983|ARTS3292|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Australian Studies or History. Or 48 UOC and enrolment in an International Studies single or dual program (2017 onwards)|111
+1519|1983|ARTS3295|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, European Studies or History; or 48 UOC overall, including 12 UOC in German Studies language courses|000
+1519|1983|ARTS3330|Prerequisite: 72 units of credit overall, and enrolment in a language major stream - Chinese Studies, French Studies, German Studies, Japanese Studies, Korean Studies, or Spanish and Latin American Studies|000
+1519|1983|ARTS3360|Prerequisite: 72uoc overall, including ARTS1360 and ARTS1361, and enrolment in a Philosophy major or minor|000
+1519|1983|ARTS3366|Prerequisite: 24 units of credit in the Philosophy stream|000
+1519|1983|ARTS3450|Prerequisite: ARTS2451 or ARTS2462 or language placement approval|111
+1519|1983|ARTS3451|Prerequisite: ARTS3450 or language placement approval|000
+1519|1983|ARTS3452|Prerequisite: ARTS3451 or language placement approval|111
+1519|1983|ARTS3453|Prerequisite: ARTS3452 or language placement approval|000
+1519|1983|ARTS3454|Prerequisite: ARTS2452 or ARTS3451 or ARTS3452 or ARTS3453 or language placement approval|000
+1519|1983|ARTS3455|Prerequisite: ARTS3451 or ARTS3452 or ARTS3453 or equivalent or language placement approval|111
+1519|1983|ARTS3456|Prerequisite: ARTS2452 or ARTS3451 or ARTS3452 or ARTS3453 or ARTS3454 or language placement approval|000
+1519|1983|ARTS3458|Prerequisite: 72uoc overall, including ARTS3453, ARTS2452, or ARTS3454 and enrolment in an Advanced Chinese Studies major/minor; or 72uoc overall, including ARTS2451 or ARTS2462 and enrolment in a Chinese Studies major/minor|000
+1519|1983|ARTS3480|rerequisite: ARTS2481 or language placement approval|111
+1519|1983|ARTS3481|Prerequisite: ARTS3480 or language placement approval|000
+1519|1983|ARTS3482|Prerequisite: ARTS3481 or language placement approval|111
+1519|1983|ARTS3483|Prerequisite: ARTS3482 or language placement approval|000
+1519|1983|ARTS3484|Prerequisite: ARTS3481 or ARTS3482 or ARTS3483|000
+1519|1983|ARTS3486|Prerequisite: ARTS3481 or ARTS3482 or ARTS3483|111
+1519|1983|ARTS3510|Prerequisite: ARTS2511 or language placement approval|111
+1519|1983|ARTS3511|Prerequisite: ARTS3510 or language placement approval|000
+1519|1983|ARTS3570|Prerequisite: ARTS2571 or language placement approval|111
+1519|1983|ARTS3571|Prerequisite: ARTS3570 or language placement approval|000
+1519|1983|ARTS3574|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Spanish & Latin American Studies extended minor in Arts/Education (4053)|000
+1519|1983|ARTS3575|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Spanish & Latin American Studies extended minor in Arts/Education (4053)|111
+1519|1983|ARTS3630|Prerequisite: ARTS2631 or language placement approval|111
+1519|1983|ARTS3631|Prerequisite: ARTS3630 or language placement approval|000
+1519|1983|ARTS3632|Prerequisite: ARTS3631 or language placement approval|111
+1519|1983|ARTS3633|Prerequisite: ARTS3632 or language placement approval|000
+1519|1983|ARTS3634|Prerequisite: ARTS3631 or ARTS3632 or ARTS3633|000
+1519|1983|ARTS3636|Prerequisite: 72uoc overall, including ARTS3633 and enrolment in an Advanced Japanese Studies major/minor; or 72uoc overall, including ARTS2631 and enrolment in a Japanese Studies major/minor|000
+1519|1983|ARTS3638|Prerequisite: ARTS3631 or ARTS3632 or ARTS3633|000
+1519|1983|ARTS3639|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Japanese Studies extended minor in Arts/Education (4053)|000
+1519|1983|ARTS3640|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Japanese Studies or Korean Studies extended minor in Arts/Education (4053)|111
+1519|1983|ARTS3660|Prerequisite: ARTS2661 or language placement approval|111
+1519|1983|ARTS3661|Prerequisite: ARTS3660 or language placement approval|000
+1519|1983|ARTS3663|Prerequisite: ARTS3661 or ARTS3662 or ARTS3664 or ARTS3665|111
+1519|1983|ARTS3664|Prerequisite: ARTS3661 or ARTS3662 or ARTS3663 or ARTS3665 or language placement approval|111
+1519|1983|ARTS3667|Prerequisite: ARTS3661, ARTS3662, ARTS3663, ARTS3664, or ARTS3665|000
+1519|1983|ARTS3690|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Linguistics|000
+1519|1983|ARTS3695|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Linguistics|111
+1519|1983|ARTS3780|Prerequisite: 48 UOC including 6 UOC at level 1 and 6 UOC at level 2 in European Studies or History. Or 48 UOC including 12 UOC in German Studies language courses. Or 48 UOC and enrolment in an International Studies single or dual program (2017 onwards)|111
+1519|1983|ARTS3786|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, European Studies or History; or 48 UOC overall, including 12 UOC in German Studies language courses|000
+1519|1983|ARTS3900|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, History or Women's & Gender Studies|111
+1519|1983|ARTS3991|Prerequisite: 96 uoc overall, and enrolment in an Arts & Social Sciences major in an Arts & Social Sciences single degree program. Or 72 uoc overall, and enrolment in an Arts & Social Sciences major in an Arts & Social Sciences dual degree program|111
+1519|1983|ARTS4247|Prerequisite: Enrolment in a Humanities and Languages honours program|111
+1519|1983|ARTS4248|Prerequisite: Enrolment in a Humanities and Languages honours program|111
+1519|1983|ARTS4700|Prerequisite: Enrolment in Environmental Studies honours program|111
+1519|1983|ARTS4701|Prerequisite: Enrolment in Environmental Studies honours program|111
+1519|1983|ARTS4702|Prerequisite: Enrolment in Environmental Studies honours program|111
+1519|1983|ARTS4703|Prerequisite: Enrolment in Environmental Studies honours program|111
+1519|1983|ARTS4704|Prerequisite: Enrolment in the History honours program|111
+1519|1983|ARTS4705|Prerequisite: Enrolment in the History honours program|111
+1519|1983|ARTS4706|Prerequisite: Enrolment in the History honours program|111
+1519|1983|ARTS4707|Prerequisite: Enrolment in the History honours program|111
+1519|1983|ARTS4712|Prerequisite: Enrolment in the Philosophy honours program|111
+1519|1983|ARTS4713|Prerequisite: Enrolment in the Philosophy honours program|111
+1519|1983|ARTS4714|Prerequisite: Enrolment in the Philosophy honours program|111
+1519|1983|ARTS4715|Prerequisite: Enrolment in the Philosophy honours program|111
+1519|1983|ARTS4810|Prerequisite: Enrolment in the Asian Studies honours program|111
+1519|1983|ARTS4811|Prerequisite: Enrolment in the Asian Studies honours program|111
+1519|1983|ARTS4812|Prerequisite: Enrolment in the Asian Studies honours program|111
+1519|1983|ARTS4813|Prerequisite: Enrolment in the Asian Studies honours program|111
+1519|1983|ARTS4814|Prerequisite: Enrolment in the Chinese Studies honours program|111
+1519|1983|ARTS4815|Prerequisite: Enrolment in the Chinese Studies honours program|111
+1519|1983|ARTS4816|Prerequisite: Enrolment in the Chinese Studies honours program|111
+1519|1983|ARTS4817|Prerequisite: Enrolment in the Chinese Studies honours program|111
+1519|1983|ARTS4818|Prerequisite: Enrolment in the French Studies honours program|111
+1519|1983|ARTS4819|Prerequisite: Enrolment in the French Studies honours program|111
+1519|1983|ARTS4820|Prerequisite: Enrolment in the French Studies honours program|111
+1519|1983|ARTS4821|Prerequisite: Enrolment in the French Studies honours program|111
+1519|1983|ARTS4822|Prerequisite: Enrolment in the Spanish and Latin American Studies honours program|111
+1519|1983|ARTS4823|Prerequisite: Enrolment in the Spanish and Latin American Studies honours program|111
+1519|1983|ARTS4824|Prerequisite: Enrolment in the Spanish and Latin American Studies honours program|111
+1519|1983|ARTS4825|Prerequisite: Enrolment in the Spanish and Latin American Studies honours program|111
+1519|1983|ARTS4826|Prerequisite: Enrolment in the Japanese Studies honours program|111
+1519|1983|ARTS4827|Prerequisite: Enrolment in the Japanese Studies honours program|111
+1519|1983|ARTS4828|Prerequisite: Enrolment in the Japanese Studies honours program|111
+1519|1983|ARTS4829|Prerequisite: Enrolment in the Japanese Studies honours program|111
+1519|1983|ARTS4830|Prerequisite: Enrolment in the Korean Studies honours program|111
+1519|1983|ARTS4831|Prerequisite: Enrolment in the Korean Studies honours program|111
+1519|1983|ARTS4832|Prerequisite: Enrolment in the Korean Studies honours program|111
+1519|1983|ARTS4833|Prerequisite: Enrolment in the Korean Studies honours program|111
+1519|1983|ARTS4834|Prerequisite: Enrolment in the Linguistics honours program|111
+1519|1983|ARTS4835|Prerequisite: Enrolment in the Linguistics honours program|111
+1519|1983|ARTS4836|Prerequisite: Enrolment in the Linguistics honours program|111
+1519|1983|ARTS4837|Prerequisite: Enrolment in the Linguistics honours program|111
+1519|1983|ARTS4838|Prerequisite: Enrolment in the German honours program|111
+1519|1983|ARTS4839|Prerequisite: Enrolment in the German honours program|111
+1519|1983|ARTS4840|Prerequisite: Enrolment in the German honours program|111
+1519|1983|ARTS4841|Prerequisite: Enrolment in the German honours program|111
+1519|1983|ARTS4904|Prerequisite: Enrolment in the European Studies honours program|111
+1519|1983|ARTS4905|Prerequisite: Enrolment in the European Studies honours program|111
+1519|1983|ARTS4906|Prerequisite: Enrolment in the European Studies honours program|111
+1519|1983|ARTS4907|Prerequisite: Enrolment in the European Studies honours program|111
+1519|1983|HUMS1005||000
+1519|1983|HUMS1007|Prerequisite: 24 UOC required. In exceptional circumstances, students who are enrolled in, but have yet to complete 24 UOC may be considered if they can provide strong evidence of meeting the selection criteria. School consent required.|000
+1519|1983|INST1005|Prerequisite: Enrolment in an International Studies single or dual program|111
+1519|1983|INST1006|Prerequisite: INST1005 and enrolment in an International Studies single or dual program (2017 onwards)|000
+1519|1983|INST1007||111
+1519|1983|INST2003|Prerequisite: Enrolment in an International Studies single or dual program (pre-2017) . Or INST1005 and INST1006 and enrolment in an International Studies single or dual program (2017 onwards)|111
+1519|1983|INST3900|Prerequisite: 96 units of credit and enrolment in an International Studies single or dual award program|000
+1519|1984|ARTS1750||111
+1519|1984|ARTS1753||000
+1519|1984|ARTS1810||111
+1519|1984|ARTS1811||000
+1519|1984|ARTS1846||000
+1519|1984|ARTS1870||111
+1519|1984|ARTS2751|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Development Studies minor in Arts/Law (4782)|000
+1519|1984|ARTS2752|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Development Studies minor in Arts/Law (4782)|111
+1519|1984|ARTS2754|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Development Studies minor in Arts/Law (4782)|000
+1519|1984|ARTS2755|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Development Studies minor in Arts/Law (4782)|111
+1519|1984|ARTS2813|Prerequisite: 30 units of credit at Level 1|000
+1519|1984|ARTS2815|Prerequisite: 30 units of credit at Level 1|000
+1519|1984|ARTS2816|Prerequisite: 30 units of credit at Level 1|111
+1519|1984|ARTS2817|Prerequisite: 30 units of credit at Level 1|000
+1519|1984|ARTS2818||111
+1519|1984|ARTS2819||000
+1519|1984|ARTS2820||000
+1519|1984|ARTS2821||111
+1519|1984|ARTS2845|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in an Australian Studies or Women's & Gender Studies minor in Arts/Law (4782)|000
+1519|1984|ARTS2870|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in an Australian Studies minor in Arts/Law (4782)|000
+1519|1984|ARTS2871|Prerequisite: 30 units of credit at Level 1|000
+1519|1984|ARTS2873|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in an Australian Studies minor in Arts/Law (4782)|000
+1519|1984|ARTS2874|Prerequisite: 30 units of credit at Level 1|000
+1519|1984|ARTS2876|Prerequisite: 30 units of credit at Level 1|111
+1519|1984|ARTS2877|Prerequisite: 30 units of credit at Level 1|111
+1519|1984|ARTS3750|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Development Studies|111
+1519|1984|ARTS3751|Prerequisite: 96 units of credit overall, enrolled in a Development Studies major or specialisation and in the final semester of a single degree or in the final semester of the Arts component of dual degree|000
+1519|1984|ARTS3755|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Development Studies|000
+1519|1984|ARTS3756|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Development Studies|000
+1519|1984|ARTS3758|Prerequisite: WAM of 75, and 30 uoc in one of the following majors: Development Studies, International Relations, Politics, Politics & International Relations, or Sociology & Anthropology. Corequisites: ARTS3759. School consent required for enrolment.|111
+1519|1984|ARTS3759|Corerequisite: ARTS3758. School consent required for enrolment|111
+1519|1984|ARTS3783|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Development Studies, International Relations, Politics, or Politics and International Relations|111
+1519|1984|ARTS3810|Prerequisite: 96 uoc overall, enrolment in an IR or Politics & IR major, and in the final semester of a single Arts & Social Sciences program or in the final semester of the Arts & Social Sciences component of a dual program|000
+1519|1984|ARTS3812|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Development Studies, International Relations, Politics, or Politics and International Relations|000
+1519|1984|ARTS3814|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Australian Studies, International Relations, Politics, or Politics and International Relations|000
+1519|1984|ARTS3819|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, International Relations, Politics, or Politics and International Relations|111
+1519|1984|ARTS3820||000
+1519|1984|ARTS3821||000
+1519|1984|ARTS3822||111
+1519|1984|ARTS3870|Prerequisite: 96 uoc overall, enrolment in a Sociology & Anthropology major or extended minor, and in the final semester of a single Arts & Social Sciences program or the final semester of the Arts & Social Sciences component of a dual degree program|000
+1519|1984|ARTS3872|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Media, Culture & Technology or Sociology & Anthropology|000
+1519|1984|ARTS3874|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Australian Studies, Development Studies, Globalisation Studies, orSociology & Anthropology|000
+1519|1984|ARTS3875|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Australian Studies, Development Studies, or Sociology & Anthropology|111
+1519|1984|ARTS3883|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Asian Studies or Sociology & Anthropology|111
+1519|1984|ARTS3885|Prerequisites: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Sociology & Anthropology|000
+1519|1984|ARTS4266|Prerequisite: Enrolment in a Faculty of Arts and Social Sciences honours program|111
+1519|1984|ARTS4267||111
+1519|1984|ARTS4900|Prerequisite: Enrolment in the Development Studies honours program|111
+1519|1984|ARTS4901|Prerequisite: Enrolment in the Development Studies honours program|111
+1519|1984|ARTS4902|Prerequisite: Enrolment in the Development Studies honours program|111
+1519|1984|ARTS4903|Prerequisite: Enrolment in the Development Studies honours program|111
+1519|1984|ARTS4912|Prerequisite: Enrolment in the International Relations honours program|111
+1519|1984|ARTS4913|Prerequisite: Enrolment in the International Relations honours program|111
+1519|1984|ARTS4914|Prerequisite: Enrolment in the International Relations honours program|111
+1519|1984|ARTS4915|Prerequisite: Enrolment in the International Relations honours program|111
+1519|1984|ARTS4916|Prerequisite: Enrolment in the Politics honours program|111
+1519|1984|ARTS4917|Prerequisite: Enrolment in the Politics honours program|111
+1519|1984|ARTS4918|Prerequisite: Enrolment in the Politics honours program|111
+1519|1984|ARTS4919|Prerequisite: Enrolment in the Politics honours program|111
+1519|1984|ARTS4920|Prerequisite: Enrolment in the Sociology and Anthropology honours program|111
+1519|1984|ARTS4921|Prerequisite: Enrolment in the Sociology and Anthropology honours program|111
+1519|1984|ARTS4922|Prerequisite: Enrolment in the Sociology and Anthropology honours program|111
+1519|1984|ARTS4923|Prerequisite: Enrolment in the Sociology and Anthropology honours program|111
+1519|1984|CRIM1010||111
+1519|1984|CRIM1011||000
+1519|1984|CRIM2014|Prerequisite: 30 units of credit at Level 1 including CRIM1010 and CRIM1011|111
+1519|1984|CRIM2020|Prerequisite: 24units of credit at Level 1 including CRIM1010 and CRIM1011; Excluded: Students in all Law Faculty programs|111
+1519|1984|CRIM2021|Prerequisite: CRIM2020, not available to students in Law programs|000
+1519|1984|CRIM2031|Prerequisite: 30 units of credit at Level 1 including CRIM1010 or CRIM1011|000
+1519|1984|CRIM2034|Prerequisite: 30 units of credit at Level 1 including CRIM1010 or CRIM1011|000
+1519|1984|CRIM2036|Prerequisite: 30 units of credit at Level 1 including CRIM1010 or CRIM1011|000
+1519|1984|CRIM2037|Prerequisite: 30 units of credit at Level 1 including CRIM1010 or CRIM1011|111
+1519|1984|CRIM2038|Prerequisite: 30 units of credit at Level 1 including CRIM1010 and CRIM1011|000
+1519|1984|CRIM2042|CRIM1010 - Criminology: An Introduction (Undergraduate), CRIM1011 - Introduction to Criminal Justice (Undergraduate)|000
+1519|1984|CRIM3000|Prerequisite: 96 units of credit overall, and enrolment in a Criminology major or a Criminology & Criminology Justice single or dual program|000
+1519|1984|CRIM3011|Prerequisite: 48 UOC overall, including 6 UOC at lv1 and 6 UOC at lv2 in Criminology stream; or enrolment in program 3422 or 4763 and 12 UOC lv2 SRAP and 18 UOC lv2 CRIM; or enrolment in Program 4034 and 30 UOC at lv2 including 12 UOC lv2 CRIM|111
+1519|1984|CRIM3012|Prerequisite: 48 UOC, including 6 UOC at lv1 and 6 UOC at lv2 in Criminology stream. Or 12 UOC lv2 SRAP and 18 UOC lv2 CRIM and enrolled in 3422 or 4763. Or 30 UOC at lv2 including 12 UOC lv2 CRIM and enrolled in 4034. Or 84 UOC and enrolled in 4787|000
+1519|1984|CRIM3015|Prerequisite: CRIM2021 or LAWS1022|000
+1519|1984|CRIM3019|Prerequisite: 48 UOC overall, including 6 UOC at lv1 and 6 UOC at lv2 in Criminology stream; or enrolment in program 3422 or 4763 and 12 UOC lv2 SRAP and 18 UOC lv2 CRIM; or enrolment in Program 4034 and 30 UOC at lv2 including 12 UOC lv2 CRIM|000
+1519|1984|CRIM3020|Prerequisite: 48 UOC overall, including 6 UOC at lv1 and 6 UOC at lv2 in Criminology stream; or enrolment in program 3422 or 4763 and 12 UOC lv2 SRAP and 18 UOC lv2 CRIM; or enrolment in Program 4034 and 30 UOC at lv2 including 12 UOC lv2 CRIM|000
+1519|1984|CRIM3022|Prerequisite: 48 UOC, including 6 UOC at lv1 and 6 UOC at lv2 in Criminology stream. Or 12 UOC lv2 SRAP and 18 UOC lv2 CRIM and enrolled in 3422 or 4763. Or 30 UOC at lv2 including 12 UOC lv2 CRIM and enrolled in 4034. Or 84 UOC and enrolled in 4787|111
+1519|1984|CRIM3024|Prerequisite: CRIM2021 or LAWS1022|000
+1519|1984|CRIM3025||000
+1519|1984|CRIM4001|Prerequisite: Enrolment in the Criminology honours program|111
+1519|1984|CRIM4002|Prerequisite: Enrolment in the Criminology honours program|111
+1519|1984|CRIM4003|Prerequisite: Enrolment in the Criminology honours program|111
+1519|1984|CRIM4004|Prerequisite: Enrolment in the Criminology honours program|111
+1519|1984|SOCW1001||111
+1519|1984|SOCW1004||000
+1519|1984|SOCW2003|Prerequisite: SOCW1001 and SOCW1004, and enrolment in a Social Work program|111
+1519|1984|SOCW2006|Prerequisite: SOCW1001 and enrolment in a Social Work Program|000
+1519|1984|SOCW2008|Prerequisite: SOCW1001 and SOCW1004, and enrolment in a Social Work program|111
+1519|1984|SOCW2009|Prerequisite: SOCW2003 and enrolment in a Social Work Program|000
+1519|1984|SOCW2100|Prerequisite: SOCW1001 and enrolment in a Social Work Program|111
+1519|1984|SOCW3006|Prerequisite: SOCW3009, SOCW3011 and enrolment in a Social Work program. Excluded: Students enrolled in 4787 Social Work (Honours)/Law.|000
+1519|1984|SOCW3009|Prerequisite: ARTS1871, PSYC1001, SOCW2006, SOCW2008, SOCW2009, SOCW2100, SRAP1000, SRAP1001, SRAP2002 and enrolment in a Social Work program Corequisite: SOCW3011|111
+1519|1984|SOCW3010|Prerequisite: SOCW3009, SOCW3011 and enrolment in a Social Work Program|000
+1519|1984|SOCW3012||111
+1519|1984|SOCW3013||000
+1519|1984|SOCW4003|Prerequisite: SOCW3006, SOCW3010, SRAP3000 and enrolment in a Social Work program. Or SOCW3010, SRAP3000 and enrolment in a Social Work/Law program|111
+1519|1984|SOCW4011|Prerequisite: SOCW3006, SOCW3010, SRAP3000 and enrolment in a Social Work program. Or SOCW3010, SRAP3000 and enrolment in a Social Work/Law program|111
+1519|1984|SOCW4012|Prerequisite: SOCW3006, SOCW3010, SRAP3000 and enrolment in a Social Work program. Or SOCW3010, SRAP3000 and enrolment in a Social Work/Law program|111
+1519|1984|SOCW4013|Prerequisite: SOCW3006, SOCW3010, SRAP3000 and enrolment in a Social Work program. Or SOCW3010, SRAP3000 and enrolment in a Social Work/Law program|000
+1519|1984|SOCW4015|Prerequisite: 168 UOC overall, SOCW4003, SOCW4011, SOCW4012, SOCW4013, enrolment in a Social Work program and an overall WAM of 70|111
+1519|1984|SOCW4016|Prerequisite: 168uoc overall including SOCW4003, SOCW4011, SOCW4012, and SOCW4013, and enrolment in Social Work program|000
+1519|1984|SOCW4017||000
+1519|1984|SOCW4018||000
+1519|1984|SRAP1000||111
+1519|1984|SRAP1001||000
+1519|1984|SRAP2001|Prerequisite: SRAP1001 or SLSP1001|111
+1519|1984|SRAP3001|Prerequisite: SRAP1001 or SLSP1001|000
+1519|1984|SRAP3002|Prerequisite: SRAP2002, SRAP3000 and SRAP3001; or SLSP2002, SLSP3000 and  SLSP3001; or SRAP2001 and SRAP2002 or SLSP2001 and SLSP2002.|111
+1519|1984|SRAP3003||000
+1519|1984|SRAP3006|Prerequisite: SRAP1000, SRAP1001, SRAP2001, SRAP2002, DIPP1112 and enrolment in a Bachelor of Social Research and Policy|000
+1519|1984|SRAP4051|Prerequisite: Enrolment in the Social Science and Policy honours program|111
+1519|1984|SRAP4052|Prerequisite: Enrolment in the Social Science and Policy honours program|111
+1519|1984|SRAP4053|Prerequisite: Enrolment in the Social Science and Policy honours program|111
+1519|1984|SRAP4054|Prerequisite: Enrolment in the Social Science and Policy honours program|111
+1519|1982|ARTS0209||111
+1519|1982|ARTS0212||111
+1519|1982|ARTS0225||111
+1519|1982|ARTS0229||111
+1519|1982|ARTS1010||111
+1519|1982|ARTS1011||000
+1519|1982|ARTS1030||111
+1519|1982|ARTS1031||000
+1519|1982|ARTS1032||000
+1519|1982|ARTS1060||111
+1519|1982|ARTS1062||000
+1519|1982|ARTS1063||000
+1519|1982|ARTS1090||111
+1519|1982|ARTS1091||000
+1519|1982|ARTS1092||000
+1519|1982|ARTS1120||111
+1519|1982|ARTS1121||000
+1519|1982|ARTS2020|Prerequisite: 30 units of credit at level 1; or 24 units of credit and enrolment in a Creative Writing minor in Arts/Law (4782). Equivalent: ARTS2032|000
+1519|1982|ARTS2021|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Creative Writing minor in Arts/Law (4782)|000
+1519|1982|ARTS2031|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in an Australian Studies or Creative Writing minor in Arts/Law (4782)|000
+1519|1982|ARTS2033|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Creative Writing minor in Arts/Law (4782)|000
+1519|1982|ARTS2034|Prerequisite: 30 units of credit at Level 1|111
+1519|1982|ARTS2035|Prerequisite: 30 units of credit at Level 1|000
+1519|1982|ARTS2036|Prerequisite: 30 units of credit at Level 1|000
+1519|1982|ARTS2040|Prerequisite: 30 units of credit at Level 1|111
+1519|1982|ARTS2050|Prerequisite: 12uoc at Level 1, and enrolment in an Arts and Social Sciences or Art and Design single or dual award program. Excluded: ARTS5503|000
+1519|1982|ARTS2061|Prerequisite: 30 units of credit at Level 1|111
+1519|1982|ARTS2062|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in an Australian Studies minor in Arts/Law (4782)|000
+1519|1982|ARTS2063|Prerequisite: 30 units of credit at Level 1|000
+1519|1982|ARTS2064|Prerequisite: 30 units of credit at Level 1|000
+1519|1982|ARTS2065|Prerequisite:30 uoc at Level 1 including ARTS1060 or ARTS1062|000
+1519|1982|ARTS2066|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Creative Writing minor in Arts/Law (4782)|111
+1519|1982|ARTS2091|Prerequisite: 30 units of credit at Level 1|000
+1519|1982|ARTS2092|Prerequisite: 30 units of credit at Level 1|000
+1519|1982|ARTS2093|Prerequisite: 30 units of credit at Level 1|000
+1519|1982|ARTS2094|Prerequisite: 30 units of credit at Level 1|000
+1519|1982|ARTS2095|Prerequisite: 30 units of credit at Level 1|111
+1519|1982|ARTS2096|Prerequisite: 30 units of credit at Level 1|000
+1519|1982|ARTS2120|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Theatre and Performance Studies extended minor in Arts/Education (4053) or a Creative Writing minor in Arts/Law (4782)|000
+1519|1982|ARTS2121|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Theatre & Performance Studies extended minor in Arts/Education (4053)|111
+1519|1982|ARTS2122|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Theatre & Performance Studies extended minor in Arts/Education (4053)|111
+1519|1982|ARTS2123|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Theatre & Performance Studies extended minor in Arts/Education (4053)|000
+1519|1982|ARTS2125|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Theatre & Performance Studies extended minor in Arts/Education (4053)|111
+1519|1982|ARTS2126|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Theatre and Performance Studies extended minor in Arts/Education (4053) or a Creative Writing minor in Arts/Law (4782)|000
+1519|1982|ARTS2127|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Theatre & Performance Studies extended minor in Arts/Education (4053)|000
+1519|1982|ARTS2128|Prerequisite: 30 units of credit at Level 1; or 24 units of credit and enrolment in a Theatre & Performance Studies extended minor in Arts/Education (4053)|000
+1519|1982|ARTS3013|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Dance Studies or TPS. Or 96 UOC overall and enrolment in a Music major or single/dual degree. Students must have a WAM of at least 70%|000
+1519|1982|ARTS3021|Prerequisite: 72 units of credit overall, including 18 units of credit in Creative Writing courses and enrolment in a Creative Writing major|111
+1519|1982|ARTS3022|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Creative Writing or English Equivalent: ARTS3046|111
+1519|1982|ARTS3023|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Creative Writing or English Equivalent: ARTS3051|000
+1519|1982|ARTS3025|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Creative Writing or English Equivalent: ARTS3034|000
+1519|1982|ARTS3030|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, English|000
+1519|1982|ARTS3040|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, English|000
+1519|1982|ARTS3047|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, English|000
+1519|1982|ARTS3049|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, English or Media, Culture & Technology|111
+1519|1982|ARTS3052|Prerequisite: 72 units of credit overall including 18 units of credit in English courses and enrolment in an English major|111
+1519|1982|ARTS3054|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, English|111
+1519|1982|ARTS3061|Prerequisite: 48 UOC overall, including ARTS1060 and ARTS2065; or 90 UOC overall, and enrolment in Media (MP), Media (S&S), or Media (S&SP) single or dual program|111
+1519|1982|ARTS3064|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Film Studies or MCT; or ARTS1060, at least 6 UOC in level 2 Film Studies electives and enrolment in a Media single or dual program|000
+1519|1982|ARTS3065|Prerequisite: 72uoc overall, including ARTS1060, ARTS1062 and ARTS2061, and enrolment in a Film Studies major or minor|000
+1519|1982|ARTS3067|Prerequisite: 72 units of credit overall including 18 units of credit in Film Studies and enrolment in a Film Studies major|111
+1519|1982|ARTS3068|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Film Studies; or ARTS1060, at least 6uoc in level 2 Film Studies electives and enrolment in a Media single or dual program|111
+1519|1982|ARTS3090|Prerequisite: 72uoc overall, including ARTS1090 and either ARTS1062, ARTS1091 or ARTS1121, and enrolment in a Media, Culture and Technology major or minor|000
+1519|1982|ARTS3091|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, MCT; or ARTS1090, at least 6 UOC in level 2 Prescribed Media Electives/Core courses and enrolment in a Media single or dual program|111
+1519|1982|ARTS3092|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, MCT; or ARTS1090, at least 6 UOC in level 2 Prescribed Media Electives/Core courses and enrolment in a Media single or dual program|000
+1519|1982|ARTS3093|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, MCT; or ARTS1090, at least 6 UOC in level 2 Prescribed Media Electives/Core courses and enrolment in a Media single or dual program|000
+1519|1982|ARTS3095|Prerequisite: 72 units of credit overall including 18 units of credit in Media, Culture & Technology courses and enrolment in a Media, Culture & Technology Major|111
+1519|1982|ARTS3096|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, MCT; or ARTS1090, at least 6 UOC in level 2 Prescribed Media Electives/Core courses and enrolment in a Media single or dual program|000
+1519|1982|ARTS3097|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, MCT; or ARTS1090, at least 6 UOC in level 2 Prescribed Media Electives/Core courses and enrolment in a Media single or dual program|111
+1519|1982|ARTS3122|Prerequisite: 72 uoc overall, including ARTS1120, ARTS1121 and ARTS2121, and enrolment in TPS major/minor; or 72 uoc overall, including ARTS1005, ARTS2005, and ARTS2006, and enrolment in a Dance Studies major/minor|000
+1519|1982|ARTS3123|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Dance Studies or Theatre & Performance Studies|000
+1519|1982|ARTS3124|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Theatre & Performance Studies|000
+1519|1982|ARTS3125|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Dance Studies, Media, Culture and Technology, or Theatre & Performance Studies|111
+1519|1982|ARTS3130|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Dance Studies or Theatre & Performance Studies. Or 72 UOC overall and enrolment in an Art & Design program|000
+1519|1982|ARTS3131|Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Australian Studies or Theatre & Performance Studies. Excluded: ARTS2124|111
+1519|1982|ARTS3132|Prerequisites: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Creative Writing or Theatre and Performance Studies|000
+1519|1982|ARTS4100|Prerequisite: Enrolment in a Faculty of Arts and Social Sciences honours program|111
+1519|1982|ARTS4201|Prerequisite: Enrolment in an honours program in one the following areas, Media, Culture and Technology, Music, Theatre & Performance Studies, Film, Media or Music|111
+1519|1982|ARTS4600|Prerequisite: Enrolment in the Dance Studies honours program|111
+1519|1982|ARTS4601|Prerequisite: Enrolment in the Dance Studies honours program|111
+1519|1982|ARTS4602|Prerequisite: Enrolment in the Dance Studies honours program|111
+1519|1982|ARTS4603|Prerequisite: Enrolment in the Dance Studies honours program|111
+1519|1982|ARTS4604|Prerequisite: Enrolment in the English honours program|111
+1519|1982|ARTS4605|Prerequisite: Enrolment in the English honours program|111
+1519|1982|ARTS4606|Prerequisite: Enrolment in the English honours program|111
+1519|1982|ARTS4607|Prerequisite: Enrolment in the English honours program|111
+1519|1982|ARTS4608|Prerequisite: Enrolment in the Film Studies honours program|111
+1519|1982|ARTS4609|Prerequisite: Enrolment in the Film Studies honours program|111
+1519|1982|ARTS4610|Prerequisite: Enrolment in the Film Studies honours program|111
+1519|1982|ARTS4611|Prerequisite: Enrolment in the Film Studies honours program|111
+1519|1982|ARTS4612|Prerequisite: Enrolment in Media, Culture and Technology honours program|111
+1519|1982|ARTS4613|Prerequisite: Enrolment in Media, Culture and Technology honours program|111
+1519|1982|ARTS4614|Prerequisite: Enrolment in Media, Culture and Technology honours program|111
+1519|1982|ARTS4615|Prerequisite: Enrolment in Media, Culture and Technology honours program|111
+1519|1982|ARTS4616|Prerequisite: Enrolment in Theatre and Performance Studies honours program|111
+1519|1982|ARTS4617|Prerequisite: Enrolment in Theatre and Performance Studies honours program|111
+1519|1982|ARTS4618|Prerequisite: Enrolment in Theatre and Performance Studies honours program|111
+1519|1982|ARTS4619|Prerequisite: Enrolment in Theatre and Performance Studies honours program|111
+1519|1982|ARTS4620||111
+1519|1982|ARTS4621||111
+1519|1982|ARTS4622||111
+1519|1982|ARTS4623||111
+1519|1982|HUMS1006||000
+1519|1982|HUMS1008||000
+1519|1982|HUMS2000|Prerequisite: 30 units of credit at Level 1|111
+1519|1982|HUMS2003||111
+1519|1982|MDIA1000|Prerequisite: Enrolment in a single or dual award Media program|000
+1519|1982|MDIA1002|Prerequisite: Enrolment in a single or dual award Media program|111
+1519|1982|MDIA1003|Prerequisite: Enrolment in a single or dual award Media program|000
+1519|1982|MDIA1004|Prerequisite: Enrolment in a single or dual award Media program|000
+1519|1982|MDIA1005|Prerequisite: Enrolment in a single or dual award Media program|000
+1519|1982|MDIA1006|Prerequisite: Enrolment in a single or dual award Media program|000
+1519|1982|MDIA1007||000
+1519|1982|MDIA2000|Prerequisite: 30 units of credit at level 1, including MDIA1000 or MDIA1005 or MDIA1006|111
+1519|1982|MDIA2001|Prerequisite: 30 units of credit at level 1, including MDIA1000 or MDIA1005 or MDIA1006; Or 30 units of credit at Level 1 including either (ARTS1005 and ARTS1121) or (ARTS1005 and ARTS1006)|000
+1519|1982|MDIA2002|Prerequisite: 30 units of credit at level 1 including MDIA1002 or MDIA1004|000
+1519|1982|MDIA2003|Prerequisite: 30 units of credit at level 1 including MDIA1002 or MDIA1004|111
+1519|1982|MDIA2005|Prerequisite: 30 units of credit at level 1 including MDIA1002 or MDIA1003|111
+1519|1982|MDIA2006|Prerequisite: 30 units of credit at level 1 including MDIA1002 or MDIA1003|111
+1519|1982|MDIA2007|Prerequisite: 30 units of credit at level 1 including MDIA1002 or MDIA1003|111
+1519|1982|MDIA2008|Prerequisite: 30 units of credit at level 1, and enrolment in a single or dual award Media program|000
+1519|1982|MDIA2010|Prerequiste: 30 units of credit at level 1, and enrolment in a single or dual award Media program or enrolment in a Creative Writing major. Equivalent: MDIA3001|111
+1519|1982|MDIA2011|Prerequisite: 30 units of credit at level 1 including MDIA1002 or MDIA1003. Or 30 units of credit at level 1 and enrolment in a Development Studies major|111
+1519|1982|MDIA3000|Prerequisite: 96 units of credit overall including MDIA2005 or MDIA2006|000
+1519|1982|MDIA3002|Prerequisite: 96 units of credit overall, including MDIA2002 or MDIA2003|111
+1519|1982|MDIA3003|Prerequisite: 96 units of credit overall, including 6 units of credit Level 2 MDIA core courses and enrolment in a Media (Communication & Journalism) or Media (PR & Advertising) program.|000
+1519|1982|MDIA3004|Prerequisite: 96 units of credit overall, and enrolment in a single or dual award Media program|111
+1519|1982|MDIA3005|Prerequisite: 96 units of credit overall including MDIA2005 or MDIA2006|000
+1519|1982|MDIA3007|Prerequisite: 96 units of credit overall, and enrolment in a Media single or dual award program. Students must have a WAM of 65 to be eligible for this course|111
+1519|1982|MDIA3008|Prerequisite: 96 units of credit overall including MDIA2005 or MDIA2006|000
+1519|1982|MDIA3009|Prerequisite: 96 units of credit overall including MDIA2005 or MDIA2006|111
+1519|1982|MDIA3010|Prerequisite: 96 units of credit overall, including MDIA2002 or MDIA2003|111
+1519|1982|MDIA3011|Prerequisite: 66 units of credit overall, including ARTS2093 or ARTS2094, and enrolment in a single or dual award Media program|111
+1519|1982|MDIA3012||000
+1519|1982|MDIA4000|Prerequisite: Enrolment in honours in Media, Culture and Technology or honours in a Media degree program|111
+1519|1982|MDIA4001|Prerequisite: Enrolment in honours in Media, Culture and Technology or honours in a Media degree program|111
+1519|1982|MDIA4002|Prerequisite: Enrolment in honours in Media, Culture and Technology or honours in a Media degree program|111
+1519|1982|MDIA4003|Prerequisite: Enrolment in honours in Media, Culture and Technology or honours in a Media degree program|111
+1519|1982|MUSC0206||111
+1519|1982|MUSC0306||111
+1519|1982|MUSC1101|Excluded: MUSC1001 and MUSC2111|111
+1519|1982|MUSC1602||111
+1519|1982|MUSC1603||000
+1519|1982|MUSC1604||000
+1519|1982|MUSC1707||111
+1519|1982|MUSC1708||111
+1519|1982|MUSC2115|Prerequisite: 30 units of credit at Level 1 including MUSC1302 or MUSC1312 or MUSC2111 or MUSI1142; Excluded: MUSC2112|111
+1519|1982|MUSC2116|Prerequisite: 30 units of credit at Level 1|000
+1519|1982|MUSC2602|Prerequisite: MUSC1602 and MUSC1603|111
+1519|1982|MUSC2603|Prerequisite: 30 units of credit at level 1, including MUSC2602|000
+1519|1982|MUSC2703||111
+1519|1982|MUSC2801|Prerequisite: Enrolment in the Music Creative Practice Stream in a Music program|000
+1519|1982|MUSC2802|Prerequisite: 36uoc at Level 1 and enrolment in the Music Pedagogy stream in a Music Program|000
+1519|1982|MUSC2803|Prerequisites: 36uoc at level 1 and enrolment in one of the following; Music single or dual degree program, Media (MP), Media (S&S), or Music major/minor|000
+1519|1982|MUSC2804|Prerequisite: 36uoc in Level 1 Music courses, and enrolment in a Music single or dual degree program. Or 30uoc at level 1 and enrolment in a Music major/minor|000
+1519|1982|MUSC3104|Prerequisite: 24 units of credit at Level 1|111
+1519|1982|MUSC3105|Prerequisite: 24 units of credit in Music courses, including 12 at Level 1 and enrolment in a single or dual Music program. Or 48 UOC overall, including 6 UOC level 1 Music and 6 UOC level 2 Music and enrolment in a Music major or minor|000
+1519|1982|MUSC3162|Prerequisite: 24 units of credit in Music courses|111
+1519|1982|MUSC3302|Prerequisite: 24 UOC in Music courses and enrolment in a Music single or dual degree program. Or 48 UOC overall, including 6 UOC level 1 Music and 6 UOC level 2 Music and enrolment in a Music major, or minor in Bachelor of Arts (pre 2016)|111
+1519|1982|MUSC3705||111
+1519|1982|MUSC3706||111
+1519|1982|MUSC3801|Prerequisite: MUSC2801 and enrolment in the Music Creative Practice stream in a Music single or dual program|000
+1519|1982|MUSC3802|Prerequisite: 24uoc in MUSC courses and enrolment in one of the following streams, Music Creative Practice, Music Inquiry, Music Pedagogy, Musicology, or Sonic Arts|000
+1519|1982|MUSC3804|Prerequisite: 24uoc in MUSC courses and enrolment in the Music Pedagogy stream in a Music single or dual program|000
+1519|1982|MUSC3805|Prerequisite: 24uoc in MUSC courses and enrolment in a Music single or dual program; or 72uoc overall and enrolment in Media (MP), Media (S&S), or Media (S&SP) single or dual program|000
+1519|1982|MUSC3806|Prerequisite: MUSC2803 and enrolment in the Sonic Arts stream in a Music single or dual program; or 72uoc overall, including MDIA1005 and enrolment in Media (S&SP) single or dual program|000
+1519|1982|MUSC3807|Prerequisite: 24uoc in MUSC courses, and enrolment in a Music single or dual program|000
+1519|1982|MUSC3808|Prerequisite: MUSC2802|000
+1519|1982|MUSC4009|Prerequisite: Enrolment in the Music honours program|111
+1519|1982|MUSC4010|Prerequisite: Enrolment in the Music honours program|111
+1519|1982|MUSC4011|Prerequisite: Enrolment in the Music honours program|111
+1519|1982|MUSC4012|Prerequisite: Enrolment in the Music honours program|111
+1519|1982|MUSC4013|Prerequisite: 144 units of credits overall, including level 1, 2, and 3 core Music courses and enrolment in a Music (Honours) program|111
+1519|1982|MUSC4014|Prerequisite: 144 units of credits overall, including level 1, 2, and 3 core Music courses and enrolment in a Music (Honours) program|111
+1519|1982|MUSC4015|Prerequisite: Enrolment in the Music honours program|111
+1519|1982|MUSC4016|Prerequisite: Enrolment in the Music honours program|111
+1519|1982|MUSC4017|Prerequisite: Enrolment in the Music honours program|111
+1519|1982|MUSC4101|Prerequisite: Level 1, 2 and 3 core Music courses and enrolment in a Music single or dual degree program; or 48 UoC overall including MUSC1602 or MUSC1604, and MUSC2116 and enrolment in a Music major|111
+1519|1982|MUSC4102|Prerequisite: MUSC4101, and enrolment in a Music single or dual program. Or Level 1, 2 and 3 core Music courses and enrolment in Music/Education program. Or 48 UOC overall including MUSC1602 or MUSC1604, and MUSC2116 and enrolment in a Music major|000
+1519|1982|MUSC4103|Prerequisite: 30uoc at level 1 including MUSC1603 and MUSC1604|111
+1519|1982|MUSC4104|Prerequisite: MUSC4103. Or 30uoc at level 1 including MUSC1603 and MUSC1604, and enrolment in Music/Education program|000
+1519|1982|MUSC4705||111
+1519|1982|MUSC4706||111
+1519|1982|PPEC1001||111
+1517|1987|ARCH1080||111
+1517|1987|ARCH1101|Currently enrolled in program 3261 Architectural Studies, 3267 Architecture Computing, 3268 Computational Design, 3624 Civil Engineering with Architecture or 3635 Civil Engineering with Architecture (Hons)|111
+1517|1987|ARCH1102|Prerequisite: ARCH1101|000
+1517|1987|ARCH1121|Currently enrolled in program 3261 Architectural Studies or 3267 Architecture Computing or Civil Engineering with Architecture 3624|000
+1517|1987|ARCH1142|Currently enrolled in program 3261 Architectural Studies or 3267 Architecture Computing or Civil Engineering with Architecture 3624|111
+1517|1987|ARCH1161||000
+1517|1987|ARCH1162||000
+1517|1987|ARCH1201|Prequisite: ARCH1102 or ARCH1390|111
+1517|1987|ARCH1202|Prerequisite: ARCH1201|000
+1517|1987|ARCH1222||000
+1517|1987|ARCH1261|Prerequisite: ARCH1162|000
+1517|1987|ARCH1302|Prerequisite: ARCH1202, ARCH1311|000
+1517|1987|ARCH1311|Prerequisite: ARCH1202; Co-Requisite : ARCH1361|111
+1517|1987|ARCH1322||000
+1517|1987|ARCH1331|Pre-requisites: ARCH1202, ARCH1261|111
+1517|1987|ARCH1361|Prerequisite: ARCH1161.|000
+1517|1987|ARCH1481||111
+1517|1987|ARCH1482||111
+1517|1987|INTA2411|Prerequisite: INTA3272, INTA2302, INTA3322|111
+1517|1987|LAND2311||111
+1517|1987|LAND2411||111
+1517|2444|BLDG4501||111
+1517|1988|BEIL0001|Prerequisite: 96 unit of credits completed|111
+1517|1988|BEIL0003|Prerequisite: 96 unit of credits completed|000
+1517|1988|BEIL0005|Prerequisite: 96 unit of credits completed|000
+1517|1988|BEIL0006|Prerequisite: 96 unit of credits completed|000
+1517|1988|BEIL0007|Prerequisite: 96 unit of credits completed|000
+1517|1988|BEIL0008|Prerequisite: 96 units of credit completed in Built Environment|000
+1517|1988|BEIL0009|Prerequisite: 96 unit of credits completed|000
+1517|1988|BEIL0010|Prerequisite: 96 unit of credits completed|000
+1517|1988|BEIL0011|Prerequisite: 96 unit of credits completed|000
+1517|1988|BEIL0013|Prerequisite: 96 unit of credits completed|111
+1517|1988|BEIL0014|Prerequisite: 96 unit of credits completed|111
+1517|1988|BEIL0015|Prerequisite: 96 unit of credits completed|000
+1517|1988|BEIL0016|Prerequisite: 96 unit of credits completed|111
+1517|1988|BEIL0018|Prerequisite: 96 unit of credits completed|000
+1517|1988|BEIL6001||111
+1517|1988|BEIL6002||000
+1517|1988|BEIL6005||111
+1517|1988|BEIL6006||000
+1517|1988|BENV1043||000
+1517|1988|BENV1072|Prerequisite: 72 units of credit|000
+1517|1988|BENV2000||000
+1517|1988|BENV2112||000
+1517|1988|BENV2137|Prerequisite: 96 unit of credits completed|111
+1517|1988|BENV2219||000
+1517|1988|BENV2220||000
+1517|1988|BENV2255||111
+1517|1988|BENV2409||111
+1517|1988|BENV2708||000
+1517|1988|BENV2814|Currently enrolled in 3331 Construction Management & Property Program|111
+1517|1988|BENV2938||000
+1517|1988|BENV2942||000
+1517|1988|BENV6713||111
+1517|1988|BENV6800||111
+1517|1988|BLDG1011||111
+1517|1988|BLDG1012||111
+1517|1988|BLDG1013||111
+1517|1988|BLDG1014||000
+1517|1988|BLDG1021|Prerequisite: BLDG1011|000
+1517|1988|BLDG1022||000
+1517|1988|BLDG1023||000
+1517|1988|BLDG1024||000
+1517|1988|BLDG2011||000
+1517|1988|BLDG2012||000
+1517|1988|BLDG2013||111
+1517|1988|BLDG2021|Pre: BLDG1011 and BLDG1021|000
+1517|1988|BLDG2022|Prerequisite: BLDG2012|000
+1517|1988|BLDG2023||111
+1517|1988|BLDG3011||111
+1517|1988|BLDG3012||111
+1517|1988|BLDG3013|Pre: BLDG2013 and BLDG2023|000
+1517|1988|BLDG3021|Prerequisite: BLDG2013|000
+1517|1988|BLDG3022|Pre: BLDG1023, BLDG2013 and BLDG2023|000
+1517|1988|BLDG3023||111
+1517|1988|BLDG4018||111
+1517|1988|BLDG4019||000
+1517|1988|BLDG4020||000
+1517|1988|BLDG4022||000
+1517|1988|BLDG4023||000
+1517|1988|BLDG4024||111
+1517|1988|BLDG4504|Prerequisite: BLDG4501 - Thesis Foundation (Undergraduate)|000
+1517|1988|CODE1110||111
+1517|1988|CODE1150|Co-Req: BENV0001|111
+1517|1988|CODE1161||000
+1517|1988|CODE1210|Prerequisite: CODE1110|111
+1517|1988|CODE1230||000
+1517|1988|CODE1231||111
+1517|1988|CODE1240|Prerequisite: CODE1161, CODE1150|000
+1517|1988|CODE2110|Prerequisite: CODE1110|111
+1517|1988|CODE2120||000
+1517|1988|CODE2121|Prerequisite: CODE1150, ARCH1101, CODE1231, BENV0001|111
+1517|1988|CODE2170||111
+1517|1988|CODE2210||111
+1517|1988|CODE2230|Prerequisite: CODE1150, CODE1231|000
+1517|1988|CODE2250|Prerequisite: CODE2121, CODE1110|000
+1517|1988|CODE2270||000
+1517|1988|CODE3100|Pre: year 1 & 2 core courses|000
+1517|1988|CODE3201|Pre: CODE3100 and CODE2256 or CODE3156|000
+1517|1988|CODE3202|Pre: CODE3100 and CODE2256 or CODE3156|000
+1517|1988|CODE4100||111
+1517|1988|CODE4200||000
+1517|1988|IDES3231|Prerequisite: IDES2171|000
+1517|1988|IDES3235||000
+1517|1988|LAND1422||000
+1517|1988|PLAN2122||000
+1517|2449|IDES1071||000
+1517|2449|IDES1122||111
+1517|2449|IDES1211||111
+1517|2449|IDES1212||000
+1517|2449|IDES1213||000
+1517|2449|IDES1261||111
+1517|2449|IDES1262||000
+1517|2449|IDES2021||111
+1517|2449|IDES2023||000
+1517|2449|IDES2072||111
+1517|2449|IDES2171||000
+1517|2449|IDES2201||000
+1517|2449|IDES2221|Prerequisites: IDES1211, IDES1212, IDES1213|111
+1517|2449|IDES2222||000
+1517|2449|IDES2223||000
+1517|2449|IDES3021||111
+1517|2449|IDES3321|Pre-requisites: IDES2221, IDES2222, IDES2223|111
+1517|2449|IDES3322|Pre-requisites: IDES2221, IDES2222, IDES2223|000
+1517|2449|IDES4100||111
+1517|2449|IDES4111||111
+1517|2449|IDES4112||000
+1517|2450|INTA1000||111
+1517|2450|INTA1001||111
+1517|2450|INTA1002||000
+1517|2450|INTA1003|Pre-requisites: INTA1001, INTA1002|000
+1517|2450|INTA2000|Co-Req: BENV0001|000
+1517|2450|INTA2001||000
+1517|2450|INTA2002||000
+1517|2450|INTA2003||000
+1517|2450|INTA3000|Prerequisites: INTA1000, INTA2000, BENV0001|111
+1517|2450|INTA3001||111
+1517|2450|INTA3002||000
+1517|2450|INTA3003||111
+1517|2450|INTA3004||000
+1517|2450|INTA3272||000
+1517|2450|INTA4000|Prerequisites: INTA1000, INTA2000, BENV0001|000
+1517|2450|INTA4004||111
+1517|2450|INTA5000|Prerequisites: INTA3000, INTA4000|111
+1517|2450|INTA6000||000
+1517|2450|INTA7000||111
+1517|2450|INTA8000||000
+1517|2446|LAND1141||111
+1517|2446|LAND1322|Pre-requisite: LAND2301, LAND1351|000
+1517|2446|LAND1351|Pre-requisite: LAND2152|111
+1517|2446|LAND1421|Prerequisite: LAND1322|111
+1517|2446|LAND1482||000
+1517|2446|LAND2101||000
+1517|2446|LAND2102|Pre-requisite: LAND2101|000
+1517|2446|LAND2121||111
+1517|2446|LAND2122|Prerequisite: LAND2121|000
+1517|2446|LAND2142|Pre-requisite: LAND1141|000
+1517|2446|LAND2151||111
+1517|2446|LAND2152|Prerequisite: LAND2151|000
+1517|2446|LAND2201|Prerequisite: LAND2152 and LAND2102|111
+1517|2446|LAND2202|Prerequisite: LAND2201, LAND2271|000
+1517|2446|LAND2251||111
+1517|2446|LAND2271|Pre-requisite: LAND2102|111
+1517|2446|LAND2272|Prerequisite: LAND2271|000
+1517|2446|LAND2421|Pre-requisite: LAND1322|111
+1517|1989|PLAN1001||111
+1517|1989|PLAN1002||000
+1517|1989|PLAN1003||111
+1517|1989|PLAN1004||111
+1517|1989|PLAN1005||000
+1517|1989|PLAN1006||000
+1517|1989|PLAN1007||000
+1517|1989|PLAN2001||111
+1517|1989|PLAN2002|Pre-requisite: PLAN1006|111
+1517|1989|PLAN2003||111
+1517|1989|PLAN2004|Pre-requisite: PLAN1003|000
+1517|1989|PLAN2005||000
+1517|1989|PLAN2006||000
+1517|1989|PLAN2007||000
+1517|1989|PLAN3001||111
+1517|1989|PLAN3002||111
+1517|1989|PLAN3003||111
+1517|1989|PLAN3004||111
+1517|1989|PLAN3005||111
+1517|1989|PLAN4001|Prerequisite : 144 unit of credits|111
+1517|1989|PLAN4002||111
+1517|1989|PLAN4003|Pre-requisite: PLAN4001|000
+1479|2000|ENGG4102|Pre-requisite: ENGG3001 and ARTS2755|111
+1479|2000|ENGG4913||111
+1479|2000|ENGG4999||111
+1479|1992|BIOM1010||000
+1479|1992|BIOM2451|Excluded: All engineering students|111
+1479|1992|BIOM5001||111
+1479|1992|BIOM5003||111
+1479|1992|BIOM5910||111
+1479|1992|BIOM5911||111
+1479|1992|BIOM5930||111
+1479|1992|BIOM5932||111
+1479|1992|BIOM5950|Prerequisite: Completion of at least 126uc in program 3728 or 3757.|111
+1479|1992|BIOM5951|Prerequisite: BIOM5950|111
+1479|1992|BIOM5960|Prerequisite: Stage 4 of BE Software Engineering MBiomedE program 3749.|111
+1479|1992|BIOM5961|Prerequisite: BIOM5960|111
+1479|1992|BIOM9020||111
+1479|1992|BIOM9021||111
+1479|1992|BIOM9027||000
+1479|1992|BIOM9311||000
+1479|1992|BIOM9332||000
+1479|1992|BIOM9333||000
+1479|1992|BIOM9410||111
+1479|1992|BIOM9420||000
+1479|1992|BIOM9450||000
+1479|1992|BIOM9541||000
+1479|1992|BIOM9551||000
+1479|1992|BIOM9561||000
+1479|1992|BIOM9621||000
+1479|1992|BIOM9640||000
+1479|1992|BIOM9650||111
+1479|1992|BIOM9660||000
+1479|1992|BIOM9701||111
+1479|1992|BIOM9711||111
+1479|1992|BIOM9914||111
+1479|1993|CEIC1000||000
+1479|1993|CEIC2000|Pre-requisites: PHYS1121 or PHY1131|111
+1479|1993|CEIC2001|Pre-requisites: PHYS1121 or PHY1131|111
+1479|1993|CEIC2002|Prerequisite:CEIC2001|000
+1479|1993|CEIC2004|Pre-requisites: CHEM1021 or CHEM1041 or CEIC1001 (Engineering Chemistry)|000
+1479|1993|CEIC2005|Prerequisite: CEIC2000|000
+1479|1993|CEIC2007||000
+1479|1993|CEIC2009||000
+1479|1993|CEIC3000|Prerequisite: CEIC2002 and CEIC2005|111
+1479|1993|CEIC3001|Pre-requisites: CEIC2000, CEIC2001, CEIC2002, CEIC2005|111
+1479|1993|CEIC3004|Pre-requisites: CEIC2000, CEIC2001, CEIC2002, CEIC3001|000
+1479|1993|CEIC3005|Pre-requisites: CEIC2000, CEIC2001, CEIC2002|111
+1479|1993|CEIC3006|Pre-requisites: CEIC2000, MATH2018 or MATH2019, MATH2089|000
+1479|1993|CEIC3007||000
+1479|1993|CEIC4000||111
+1479|1993|CEIC4001|Prerequisite: at least 144 Units taken in Chemical Eng or Industrial Chem programs and excludes CEIC4005|111
+1479|1993|CEIC4002|Prerequisite: at least 144 Units taken in Chemical Eng or Industrial Chem programs and excludes CEIC4005|111
+1479|1993|CEIC4003|Prerequisite: CEIC4002|111
+1479|1993|CEIC4005|Prerequisite: at least 144 Units taken in Chemical Eng or Industrial Chem programs and INDC2003 CEIC3003|111
+1479|1993|CEIC4007||111
+1479|1993|CEIC4008||000
+1479|1993|CEIC4200||111
+1479|1993|CEIC4201||111
+1479|1993|CEIC6005|Prerequisites:MATS1101/CHEM1011/CHEM1021, CEIC2000,CEIC2002|111
+1479|1993|CEIC6711||111
+1479|1993|CEIC8102||000
+1479|1993|CEIC8204||000
+1479|1993|CEIC8341||000
+1479|1993|CHEN6701||000
+1479|1993|CHEN6703||000
+1479|1993|CHEN6706||111
+1479|1993|FOOD1120||111
+1479|1993|FOOD1130||000
+1479|1993|FOOD1360|Prerequisites: PHYS1111, MATH1031, MATH1041|111
+1479|1993|FOOD2320||000
+1479|1993|FOOD3010|Prerequisites: CHEM1021 or CHEM1041|111
+1479|1993|FOOD3020|Co-requisite: FOOD3010|111
+1479|1993|FOOD3030||000
+1479|1993|FOOD3220|Prerequisite: BIOC2181 or BIOC2101|111
+1479|1993|FOOD3801|Prerequisite: FOOD1360, FOOD3010|000
+1479|1993|FOOD4110|Prerequisite: CHEM2921|000
+1479|1993|FOOD4403|Prerequisite: BIOC2181 or BIOC2101|000
+1479|1993|GSOE9740||000
+1479|1993|POLY3000|Pre-requisites: CHEM2021 or CEIC2004|000
+1479|1994|CVEN1701||000
+1479|1994|CVEN2002|Prerequisite: MATH1231 or MATH1241.|000
+1479|1994|CVEN2101||000
+1479|1994|CVEN2303|Prerequisites: CVEN1300 and CVEN2301 (Pre-requisite only applicable to UG cohort taking this course).|000
+1479|1994|CVEN2401||000
+1479|1994|CVEN2402||000
+1479|1994|CVEN2701|Prerequisite: CHEM1011 or CHEM1031.|000
+1479|1994|CVEN3031||000
+1479|1994|CVEN3101||000
+1479|1994|CVEN3202||111
+1479|1994|CVEN3203|Prerequisite:CVEN2201 or CVEN3202|000
+1479|1994|CVEN3303||111
+1479|1994|CVEN3304||000
+1479|1994|CVEN3501||111
+1479|1994|CVEN3502|Prerequisite: CVEN2501.|000
+1479|1994|CVEN3701||111
+1479|1994|CVEN3702||000
+1479|1994|CVEN4002|Pre Req: 132UOC + CVEN (Pass) Programs|111
+1479|1994|CVEN4003|Pre Req: 132UOC + CVEN (Pass) Programs|000
+1479|1994|CVEN4030|Prerequisite: 132 units of credit completed and WA of 63.|111
+1479|1994|CVEN4031|Prerequisite: CVEN4030.|111
+1479|1994|CVEN4032|Pre: 132UOC and Minimum WAM of 80|111
+1479|1994|CVEN4033|Prerequisite: CVEN4032.|111
+1479|1994|CVEN4040|Minimum WAM of 70 and completion of 132UOC|111
+1479|1994|CVEN4041|Prerequisite: CVEN4040|111
+1479|1994|CVEN4050|Prerequisite: 132 UOCs needed to enrol into this course and BE Hons Programs only|111
+1479|1994|CVEN4051|Prerequisite CVEN4050|000
+1479|1994|CVEN4102||111
+1479|1994|CVEN4103||000
+1479|1994|CVEN4106|Prerequisite: CVEN2101 & CVEN3101|000
+1479|1994|CVEN4201||111
+1479|1994|CVEN4202||000
+1479|1994|CVEN4204||000
+1479|1994|CVEN4300|Pre-requisite: 2303, 3303 & 3304|000
+1479|1994|CVEN4301||000
+1479|1994|CVEN4308||000
+1479|1994|CVEN4309||111
+1479|1994|CVEN4402||000
+1479|1994|CVEN4404|Prerequisite/s: CVEN2401 OR CVEN3401 OR CVEN2402 OR CVEN3402.|111
+1479|1994|CVEN4503||111
+1479|1994|CVEN4504|Prerequisite: CVEN3502|000
+1479|1994|CVEN4507||000
+1479|1994|CVEN4701||000
+1479|1994|CVEN4703||000
+1479|1994|CVEN4705||000
+1479|1994|CVEN4800||111
+1479|1994|CVEN4999||111
+1479|1994|CVEN9405||000
+1479|1994|CVEN9415||000
+1479|1994|CVEN9612||000
+1479|1994|CVEN9620||000
+1479|1994|CVEN9640||111
+1479|1994|CVEN9809||111
+1479|1994|CVEN9818||000
+1479|1994|CVEN9820||000
+1479|1994|CVEN9822||000
+1479|1994|CVEN9824||000
+1479|1994|CVEN9881||000
+1479|1994|CVEN9884||000
+1479|1994|ENGG2400||111
+1479|1994|ENGG2500||111
+1479|1994|ENGG3001|Prerequisite: Completion of 96UOC|000
+1479|1994|ENGG4060|Prerequisite 96 UOC|000
+1479|1994|GMAT1110||000
+1479|1994|GMAT2120|Prerequisite: GMAT1110|000
+1479|1994|GMAT2500|Prerequisites: GMAT1110|000
+1479|1994|GMAT2550|Prerequisite: MATH1231 or MATH1241.|000
+1479|1994|GMAT2700|Prerequisites: GMAT1110|111
+1479|1994|GMAT3100|Pre: GMAT2120 AND GMAT2550|111
+1479|1994|GMAT3150|Pre: GMAT2500 AND GMAT2550|111
+1479|1994|GMAT3220|Prerequisites: GMAT1110|111
+1479|1994|GMAT3420|Pre: GMAT2500|000
+1479|1994|GMAT3500||000
+1479|1994|GMAT3700|Pre:GMAT2700 AND GMAT2550|000
+1479|1994|GMAT4150|Prerequisite: GMAT3150|000
+1479|1994|GMAT4220||000
+1479|1994|GMAT4400|Pre: GMAT2500|111
+1479|1994|GMAT9300||000
+1479|1994|GMAT9600||000
+1479|1994|GMAT9606||000
+1479|1991|BINF2010|Prerequisite: BABS1201|000
+1479|1991|BINF3010|Prerequisite: BIOC2201.|000
+1479|1991|BINF6111|Prerequisite: BINF9010 and COMP9021|000
+1479|1991|BINF6112||000
+1479|1991|COMP1000||000
+1479|1991|COMP1400|Prerequisite: Enrolment in a non-CSE major (no BINF, COMP, or SENG)|000
+1479|1991|COMP1511||111
+1479|1991|COMP1521|Prerequisite: COMP1511 or COMP1911 or COMP1917|000
+1479|1991|COMP1531|Prerequisite: COMP1511 or COMP1917 or COMP1921|111
+1479|1991|COMP1911|Prerequisite: Enrolment in a non-CSE major (no BINF, COMP, or SENG)|111
+1479|1991|COMP2041|Prerequisite: COMP1511 or COMP1917 or COMP1921|000
+1479|1991|COMP2111|Prerequisite: MATH1081, and COMP1511 or COMP1917 or COMP1921|111
+1479|1991|COMP2121|Prerequisite: COMP1917 or COMP1921 or COMP1511 or COMP1521, or (COMP1911 and MTRN2500)|111
+1479|1991|COMP2511|Prerequisite: COMP1927, or (COMP1531 or SENG1031, and COMP2521)|000
+1479|1991|COMP2521|Prerequisite: COMP1511 or COMP1917 or COMP1921|111
+1479|1991|COMP3121|Prerequisite: COMP1927 or COMP2521|111
+1479|1991|COMP3131|Prerequisite: COMP2511 or COMP2911|111
+1479|1991|COMP3141|Prerequisite: COMP1927 or COMP2521|000
+1479|1991|COMP3151|Prerequisite: COMP1927, or COMP1521 and COMP2521|000
+1479|1991|COMP3153|Prerequisite: A mark of at least 65 in COMP1927 or COMP2521|111
+1479|1991|COMP3161|Prerequisite: COMP2521 or COMP1927|000
+1479|1991|COMP3211|Prerequisite: COMP3222 or ELEC2141.|111
+1479|1991|COMP3222|Prerequisite: COMP2121, or (ELEC1111 or ELEC1112, and COMP1521 or COMP1927)|000
+1479|1991|COMP3231|Prerequisite: COMP1521 or COMP2121, and COMP2521 or COMP1927|111
+1479|1991|COMP3311|Prerequisite: COMP1531 or COMP1927|111
+1479|1991|COMP3331|Prerequisite: COMP1921 or COMP1927 or MTRN3500, or (COMP1521, and COMP2521 or MTRN3500)|111
+1479|1991|COMP3411|Prerequisite: COMP2521 or COMP1927|111
+1479|1991|COMP3421|Prerequisite: COMP2511 or COMP2911|000
+1479|1991|COMP3431|Prerequisite: COMP2521 or COMP1927, and a WAM of at least 70|000
+1479|1991|COMP3511|Prerequisite: Completion of 48 UOC|000
+1479|1991|COMP3601|Prerequisite: COMP2121|000
+1479|1991|COMP3821|Prerequisite: A mark of at least 65 in COMP1927 or COMP2521|000
+1479|1991|COMP3891|Prerequisite: COMP1521 or COMP2121, and COMP2521 or COMP1927, and a WAM of at least 75|111
+1479|1991|COMP3900|Prerequisite: COMP1531, and COMP2521 or COMP1927, and enrolled in a BSc Computer Science major.|111
+1479|1991|COMP3901|Prerequisite: 80+ WAM in COMP, SENG or BINF courses, completion of all first and second year core requirements a CSE program, and agreement from a suitable CSE academic supervisor.|111
+1479|1991|COMP3902|Prerequisite: 80+ WAM in COMP, SENG or BINF courses, completion of all first and second year core requirements a CSE program, and agreement from a suitable CSE academic supervisor.|111
+1479|1991|COMP4121|Prerequisite: COMP9101 or COMP9801.|000
+1479|1991|COMP4128|Co-equisite: COMP3821, or COMP3121 and a 75WAM|000
+1479|1991|COMP4141|Prerequisite: COMP9020 and COMP9024|111
+1479|1991|COMP4161|Prerequisite: Completion of 48 UOC|000
+1479|1991|COMP4336|Prerequisite: COMP3331.|000
+1479|1991|COMP4337|Prerequisite: COMP3331.|111
+1479|1991|COMP4418|Prerequisite: COMP9414 or COMP9814 or COMP4415|000
+1479|1991|COMP4511|Prerequisite: a mark of at least 70 in COMP9511 and a mark of at least 65 in COMP9021|000
+1479|1991|COMP4601|Prerequisite: COMP3222 and COMP3601.|111
+1479|1991|COMP4920|Prerequisite: COMP2511 or COMP2911, and in the final year of the BSc Computer Science or BE / BE (Hons) Bioinformatics Engineering or Computer Engineering. Software Engineering students enrol in SENG4920.|000
+1479|1991|COMP4930|Prerequisite: Enrolment in Bachelor of Science (Honours) program 4515, or 126 units of credit completed in BE Computer Engineering, BE Bioinformatics or Bioinformatics Engineering, or BE (Honours) Software Engineering.|111
+1479|1991|COMP4931|Prerequisite: COMP4930. Excluded: Program 4515.|111
+1479|1991|COMP4941|Prerequisite: COMP4930 and [75 WAM or enrolment in Computer Science Honours]|111
+1479|1991|COMP6324|Prerequisite: COMP9021 and COMP9311|111
+1479|1991|COMP6441|Prerequisite: Completion of 48 UOC|000
+1479|1991|COMP6443|Prerequisite: COMP6441 or COMP6841 or COMP9441|111
+1479|1991|COMP6445|Prerequisite: COMP6441 or COMP6841 or COMP9441, and COMP9201 or COMP9283|000
+1479|1991|COMP6447|Prerequisite: A mark of at least 65 in COMP6841, or a mark of at least 75 in COMP6441 or COMP9441|000
+1479|1991|COMP6714|Prerequisite: COMP9020 and COMP9021|000
+1479|1991|COMP6733|Prerequisite: 65 WAM and COMP9331|000
+1479|1991|COMP6741|Prerequisite: COMP9101 or COMP9801.|000
+1479|1991|COMP6752|Prerequisite: COMP9024.|000
+1479|1991|COMP6771|Prerequisite: COMP9024.|000
+1479|1991|COMP6841|Prerequisite: COMP9024.|000
+1479|1991|COMP6843|Prerequisite: COMP6441 or COMP6841 or COMP9441|111
+1479|1991|COMP6845|Prerequisite: COMP6441 or COMP6841 or COMP9441, and COMP9201 or COMP9283|000
+1479|1991|COMP9242|Prerequisite: a mark of at least 75 in either COMP9201 or COMP9283.|000
+1479|1991|COMP9243|Prerequisite: COMP9201 or COMP9283, and COMP9331.|000
+1479|1991|COMP9313|Prerequisite: COMP9024 and COMP9311|000
+1479|1991|COMP9315|Prerequisite: COMP9024 and COMP9311.|000
+1479|1991|COMP9318|Prerequisite: COMP9020 and COMP9024 and COMP9311|111
+1479|1991|COMP9319|Prerequisite: COMP9024.|000
+1479|1991|COMP9321|Prerequisite: COMP9021 and COMP9311|111
+1479|1991|COMP9322|Prerequisite: COMP9321.|111
+1479|1991|COMP9323|Prerequisite: COMP9021 and COMP9311 and > 65 WAM|000
+1479|1991|COMP9332|Prerequisite: COMP9331.|000
+1479|1991|COMP9334|Prerequisite: COMP9021|111
+1479|1991|COMP9417|Prerequisite: (COMP9020 and COMP9021) or COMP9024|000
+1479|1991|COMP9418|Prerequisite: COMP9417.|000
+1479|1991|COMP9444|Prerequisite: COMP9024.|000
+1479|1991|COMP9517|Prerequisite: COMP9024.|000
+1479|1991|COMP9596||111
+1479|1991|SENG2011|Prerequisite: COMP2111.|000
+1479|1991|SENG2021|Prerequisite: SENG1031 or COMP1531, and enrolment in a BE or BE(Hons) Software Engineering major.|111
+1479|1991|SENG3011|Prerequisite: SENG2021|111
+1479|1991|SENG4910|Prerequisite: 126 units of credit completed in BE Software Engineering (SENGA1)|111
+1479|1991|SENG4911|Prerequisite: SENG4910.|111
+1479|1991|SENG4920|Prerequisite: SENG3011|000
+1479|1995|ELEC0390||000
+1479|1995|ELEC1111||111
+1479|1995|ELEC2117|Pre-Requisite:(elec1111 or elec1112) and (elec2141 or elec1041) and (comp1511 or comp1911 or comp1917)|111
+1479|1995|ELEC2133|Prerequisite: ELEC2134|000
+1479|1995|ELEC2134|Co-Requisite: elec1111 or elec1112|111
+1479|1995|ELEC2141|Pre-Requisite: elec1111 or elec1112|111
+1479|1995|ELEC2142|Prerequisite: ELEC2141and COMP1921|000
+1479|1995|ELEC2146|Prerequisite: (COMP1911 or COMP1917) and ELEC2134|000
+1479|1995|ELEC3104|Prerequisite: ELEC2134|111
+1479|1995|ELEC3105|Prerequisite/s: ELEC2134 and ELEC3115|000
+1479|1995|ELEC3106|Prerequisite/s: ELEC2133 and ELEC2141|111
+1479|1995|ELEC3111|Prerequisite: ELEC2134|000
+1479|1995|ELEC3114|Prerequisite: ELEC2134|000
+1479|1995|ELEC3115||111
+1479|1995|ELEC3117|Prereq: ELEC2133|000
+1479|1995|ELEC3145|Pre-req:(comp1911 or comp1917) and (elec2141 or mtrn3200 or comp3222)|000
+1479|1995|ELEC3705|Pre Requisite : math2099 & (phys1231 or phys1221)|000
+1479|1995|ELEC4120|Prerequisite: ELEC3117 and 120 units of credit|111
+1479|1995|ELEC4121|Prerequisite: ELEC4120|111
+1479|1995|ELEC4122|Prerequisite: 120 units of credit|111
+1479|1995|ELEC4123||111
+1479|1995|ELEC4445|Prerequisite: 132 units of credit.|000
+1479|1995|ELEC4601|Prereq: ELEC3106|000
+1479|1995|ELEC4602|Prereq: ELEC3106|000
+1479|1995|ELEC4603|Prereq: ELEC2133|000
+1479|1995|ELEC4604|Prereq: ELEC3106|111
+1479|1995|ELEC4605|Pre-Requisite: Elec3705|000
+1479|1995|ELEC4611|Prereq: ELEC3105|111
+1479|1995|ELEC4612|Prereq: ELEC3105|111
+1479|1995|ELEC4613|Prereq: ELEC3105|000
+1479|1995|ELEC4614|Prereq: ELEC2133|111
+1479|1995|ELEC4617|Pre-Requisite: elec4612|000
+1479|1995|ELEC4621|Prereq: ELEC3104|111
+1479|1995|ELEC4622|Prereq: ELEC3104|000
+1479|1995|ELEC4623|Prereq: ELEC3104|000
+1479|1995|ELEC4631|Prereq: ELEC3114|000
+1479|1995|ELEC4632|Prereq: ELEC3114|000
+1479|1995|ELEC4633|Prereq: ELEC3114|111
+1479|1995|PHTN4661|Prereq: ELEC3115|111
+1479|1995|PHTN4662|Prereq: TELE3113 or ELEC3115|000
+1479|1995|TELE3113|Prereq: ELEC2134|000
+1479|1995|TELE3118|Prereq: ELEC2142|000
+1479|1995|TELE3119|Prereq: TELE3118|111
+1479|1995|TELE4642|Prereq: TELE3118|000
+1479|1995|TELE4651|Prereq: TELE3113|000
+1479|1995|TELE4652|Prereq: TELE3113|000
+1479|1995|TELE4653|Prereq: TELE3113|111
+1479|1990|AERO3110|Prerequisite: MMAN2100|000
+1479|1990|AERO3410|Prerequisite: MMAN2400 or CVEN2301|111
+1479|1990|AERO3630|Prerequisite: MMAN2600|111
+1479|1990|AERO3660|Prerequisite: MMAN2600 and MMAN2700 and (MMAN1300 or CVEN1300)|111
+1479|1990|AERO4110|Prerequisite: AERO3110|000
+1479|1990|AERO4620|Prerequisite: AERO3660 and MMAN3200|111
+1479|1990|AERO9500|Exclusion: AERO4500|000
+1479|1990|AERO9610||111
+1479|1990|AERO9660||000
+1479|1990|AVEN1920||000
+1479|1990|ENGG1300||000
+1479|1990|GSOE9712||111
+1479|1990|MANF3100|Prerequisite: ENGG1000 and (MMAN1130 or MMAN2130)|111
+1479|1990|MANF3510|Prerequisite: MMAN1130 or MMAN2130|000
+1479|1990|MANF4100||111
+1479|1990|MANF4430||111
+1479|1990|MANF4611||000
+1479|1990|MANF6860||111
+1479|1990|MECH3091|Prerequisite: 144 units of credit|000
+1479|1990|MECH3092|Prerequisite: 144 units of credit|000
+1479|1990|MECH3110|Prerequisite: MMAN2100, MMAN2400|111
+1479|1990|MECH3610|Prerequisite: MMAN2600 and MMAN2700|000
+1479|1990|MECH4100||000
+1479|1990|MECH4305||000
+1479|1990|MECH4320||000
+1479|1990|MECH4620||111
+1479|1990|MECH4880||000
+1479|1990|MECH4900||000
+1479|1990|MECH9325||000
+1479|1990|MECH9420||111
+1479|1990|MECH9650||000
+1479|1990|MECH9660||000
+1479|1990|MECH9720||000
+1479|1990|MECH9761||000
+1479|1990|MMAN2100|Pre-requisite: ENGG1000|000
+1479|1990|MMAN2130||000
+1479|1990|MMAN2300|Prerequisite: (CVEN1300 or MINE1300 or MMAN1300) AND MATH2019 or MATH2018 or MATH2111 and MATH2221 or MATH2011 and MATH2121 or MATH2069 and MATH2121; Exclusion: MECH2300, MECH3300|000
+1479|1990|MMAN2700|Prerequisite: MATH1131 or MATH1141 and PHYS1121 or PHYS1131|111
+1479|1990|MMAN3000||000
+1479|1990|MMAN3200|Prerequisite: MATH2019 or MATH2018 AND (MMAN1300 or CVEN1300) Exclusion: MECH3211, MTRN3212|000
+1479|1990|MMAN3400|Prerequisite: MATH2019 OR MATH2018 AND MMAN2400; Exclusion: MECH2412, MECH3400|111
+1479|1990|MMAN4010|Prerequisite: 132 Units of Credits|111
+1479|1990|MMAN4020|Prerequisite: MMAN4010|111
+1479|1990|MMAN4200||000
+1479|1990|MMAN4400||000
+1479|1990|MMAN4410||111
+1479|1990|MTRN2500|Prerequisite: COMP1917 or COMP1511 or COMP1911|000
+1479|1990|MTRN3020|Prerequisite: MMAN3200 or ELEC3114|111
+1479|1990|MTRN3500|pre-requisite MTRN2500|000
+1479|1990|MTRN4010||111
+1479|1990|MTRN4030|Prerequisite: NAVL3100, NAVL3600, NAVL3610 Corequisite: NAVL4000, NAVL4100, NAVL4700|111
+1479|1990|MTRN4110||111
+1479|1990|MTRN4230||000
+1479|1997|MINE1010||000
+1479|1997|MINE2010|Prerequsite: MINE1010|000
+1479|1997|MINE2610||000
+1479|1997|MINE2810|Prerequsite: GEOS1111 or CVEN3201|000
+1479|1997|MINE3220|Prerequsite: MINE2010 or CVEN3201|111
+1479|1997|MINE3230|Prerequsite: MINE3220|000
+1479|1997|MINE3310|Prerequisite: MINE2310 or CVEN2301|111
+1479|1997|MINE3430|Prerequisite: MINE2010 or CVEN3031|111
+1479|1997|MINE3440|Prerequsite: MINE3430|000
+1479|1997|MINE3510|Prerequisite: MINE2500 or CVEN2501 or MATS2005|000
+1479|1997|MINE3630|Prerequsite: MINE3430|000
+1479|1997|MINE3800||000
+1479|1997|MINE3910||000
+1479|1997|MINE4250|Prerequisite: MINE3230|111
+1479|1997|MINE4260|Prerequisite: MINE4250|000
+1479|1997|MINE4310|Prerequisite: MINE3310|111
+1479|1997|MINE4440|Prerequsite: MINE3430|111
+1479|1997|MINE4450|Prerequisite: MINE4440|111
+1479|1997|MINE4510|Prerequsite: MINE3510|000
+1479|1997|MINE4610|Prerequsite: MINE3430|000
+1479|1997|MINE4710|Prerequsite: MINE3430|000
+1479|1997|MINE4910|Prerequsite: MINE3910|000
+1479|1998|PTRL2010||000
+1479|1998|PTRL2019||111
+1479|1998|PTRL2020||000
+1479|1998|PTRL2030||000
+1479|1998|PTRL3001|Prerequisite:PTRL2019|000
+1479|1998|PTRL3015||111
+1479|1998|PTRL3022|Prerequisite:CEIC2001|000
+1479|1998|PTRL3025||111
+1479|1998|PTRL3030||000
+1479|1998|PTRL3040||111
+1479|1998|PTRL3050||000
+1479|1998|PTRL4010|Prerequisite: PTRL2010,PTRL3002,PTRL3003,PTRL3023,PTRL3025|111
+1479|1998|PTRL4011|Prerequisite:PTRL4010|000
+1479|1998|PTRL4012|Prerequisites: PTRL3002|111
+1479|1998|PTRL4017|Prerequisite:PTRL3015|000
+1479|1998|PTRL4020|Prerequisite:PTRL3001|111
+1479|1998|PTRL4021|Prerequisite:PTRL3001|000
+1479|1998|PTRL4024|Prerequisite:PTRL3003,PTRL3015|000
+1479|1998|PTRL4040|Minimum WAM of 70 and completion of 132UOC|111
+1479|1998|PTRL4041|Prerequisites: PTRL4040|111
+1479|1998|PTRL5119||000
+1479|1999|SOLA1070||000
+1479|1999|SOLA2051||000
+1479|1999|SOLA2052|Prerequisite: SOLA2051|000
+1479|1999|SOLA2060||111
+1479|1999|SOLA2540|Prerequisite 48 UOC|111
+1479|1999|SOLA3010||000
+1479|1999|SOLA3020||000
+1479|1999|SOLA3507||111
+1479|1999|SOLA4012||000
+1479|1999|SOLA4910|Prerequisite 96 UOC|111
+1479|1999|SOLA4911|Prerequisite: SOLA4910|111
+1479|1999|SOLA5050||111
+1479|1999|SOLA5051||000
+1479|1999|SOLA5052||000
+1479|1999|SOLA5053||111
+1479|1999|SOLA5056||000
+1479|1999|SOLA5057||111
+1752|2001|LAWS1021|Currently enrolled in a program in the Faculty of Law.|111
+1752|2001|LAWS1022|Prerequisite: LAWS1021 or JURD7121 or LAWS1001 or JURD7101|000
+1752|2001|LAWS1052|This course is strictly for students undertaking Law programs only.|111
+1752|2001|LAWS1061|Prerequisite: LAWS1052 or LAWS1051; JURD7152|000
+1752|2001|LAWS1075|Pre-requisite: Principles of Private Law (any one of LAWS1071, LAWS1150, JURD7150, or JURD7171)|111
+1752|2001|LAWS1091|Prerequisite: Equity and Trusts (LAWS2385/JURD7285)|111
+1752|2001|LAWS1141|Currently enrolled in a program in the Faculty of Law.|000
+1752|2001|LAWS1150|Currently enrolled in a program in the Faculty of Law.|000
+1752|2001|LAWS1160|Pre-requisite: Principles of Public Law (LAWS1141/JURD7141) or Public Law (LAWS1140/JURD7140).|111
+1752|2001|LAWS1230|Pre-requisite: 24 UOC completed in LLB courses or 24 UOC completed in Juris Doctor courses.|111
+1752|2001|LAWS2150|Prerequisite: Principle of Public Law (LAWS1141/JURD7141) and Administrative Law (LAWS1160/JURD7160)|111
+1752|2001|LAWS2270|Prerequisite:Completion of 78 UOC in LAWS courses including Equity and Trusts (LAWS2385). This course is open ONLY to the students who commenced their program from 2013.|000
+1752|2001|LAWS2351|Pre-requisite: Criminal Laws (LAWS1022/JURD7122) or Criminal Law 2 (LAWS1011/JURD7111)|000
+1752|2001|LAWS2371|Prerequisite: Principles of Private Law (LAWS1150/JURD7150) and Contracts (LAWS1075/ JURD7175)|111
+1752|2001|LAWS2383|Prerequisite: Equity and Trusts (LAWS2385/JURD7285)|000
+1752|2001|LAWS2385|Pre-requisite: LAWS1075 or JURD7175
+ Pre-requisite: LAWS1072 or JURD7172|000
+1789|2002|ANAT1521|Prerequisite: BABS1201|000
+1789|2002|ANAT2111|Prerequisites: A pass in BABS1201 plus either a pass in ANAT2241 or BABS1202 or BABS2202 or BABS2204 or BIOC2201 or BIOC2291 or BIOS1101 or HESC1501 or PHSL2101 or PHSL2121 or VISN1101|111
+1789|2002|ANAT2241|Prerequisite: BABS1201, Minimum Program WAM 55 Excluded: ANAT2511|000
+1789|2002|ANAT2341|Pre req ANAT2241 or BABS2202|000
+1789|2002|ANAT2451|Prerequisites: ANAT1551 or ANAT2111|111
+1789|2002|ANAT2511|Excluded: ANAT2111, ANAT2151, ANAT2200, ANAT2241|000
+1789|2002|ANAT3121|Prerequisite: ANAT2111 or ANAT1521 or a minimum of a credit in ANAT2511 or ANAT1551|111
+1789|2002|ANAT3131|Prerequisite: ANAT2111 or ANAT1521 or a minimum of a credit in ANAT2511 or ANAT1551|000
+1789|2002|ANAT3141|Prerequisite: ANAT2111 or ANAT1521 or a minimum of a credit in ANAT2511 or ANAT1551|000
+1789|2002|ANAT3411|Prerequisite: ANAT1521 or a minimum mark of 55 in ANAT2111 or ANAT2511|111
+1789|2002|HESC1501|Prerequisite: 3871 program|111
+1789|2002|HESC1511|Pre req: HESC1501 and PSYC1001|000
+1789|2002|HESC2452|Prerequisites: ANAT2451 and BIOM2451|000
+1789|2002|HESC2501|Prerequisites: BIOC2181and PHSL2501|000
+1789|2002|HESC3501|Prerequisites: HESC1511, HESC2501 and HESC2452|000
+1789|2002|HESC3504|Prerequisites: HESC2501, HESC1511, HESC3511 and PHAR3111|000
+1789|2002|HESC3511|Prerequisite: PSYC1001|111
+1789|2002|HESC3532|Prerequisites: ANAT2451, BIOM2451 and NEUR3101|000
+1789|2002|HESC3541|Prerequisites: HESC2501, PHSL2502, PATH2202 or PATH2201, PHSL2501|111
+1789|2002|HESC3581|Prerequisites: HESC3541, HESC3504|000
+1789|2002|HESC3592|Prerequisites: ANAT2451, BIOM2451 and NEUR3101|000
+1789|2002|HESC3641|Prerequisites: HESC2501|000
+1789|2002|HESC4501|Prerequisite: MATH1041|111
+1789|2002|HESC4502|Prerequisite: HESC2452 and HESC3532|111
+1789|2002|HESC4551|Prerequisite: MATH1041 and HESC4501|000
+1789|2002|HESC4561||000
+1789|2002|HESC4571|Prerequisite: MATH1041|000
+1789|2002|HESC4611|Prerequisites: HESC3504, HESC3541, HESC3532, HESC3592|111
+1789|2002|HESC4622|Prerequisite: HESC4611|111
+1789|2002|NEUR2201|Prerequisite:12UOC of BABS or BIOS courses; or 12UOC of PSYC courses|000
+1789|2002|NEUR3101|Prerequisites: PHSL2101 or PHSL2121 or PHSL2501 or NEUR2201|000
+1789|2002|NEUR3121|Prerequisite: PHSL2101 or PHSL2121 or PHSL2501|111
+1789|2002|NEUR3211|Prerequisite: ANAT3411 or NEUR3121|000
+1789|2002|NEUR3221|Prerequisite: PHSL2101 or PHSL2121 or PHSL2501|000
+1789|2002|NEUR4411|Prerequisite: Enrolled in Neuroscience Honours Plan|111
+1789|2002|NEUR4421|Prerequisite: Enrolled in Neuroscience Honours Plan|000
+1789|2002|NEUR4441|Prerequisite: Enrolled in Neuroscience Honours Plan|111
+1789|2002|NEUR4442|Prerequisite: Enrolled in Neuroscience Honours Plan|111
+1789|2002|NEUR4443|Prerequisite: Enrolled in Neuroscience Honours|111
+1789|2002|PATH2201|Prerequisite: ANAT2241 plus any one of ANAT2111, ANAT1521, PHSL2101, BIOC2101, BIOC2181.|000
+1789|2002|PATH2202|Prerequisite: ANAT2111 or ANAT1551 and BIOC2181 and PHSL2501|000
+1789|2002|PATH3205|Prerequisite: PATH2201 or PATH2202|111
+1789|2002|PATH3206|Prerequisite: PATH2201 or PATH2202|000
+1789|2002|PATH3207|Prerequisite: PATH2201 or PATH2202, ANAT2111 or ANAT2511 or ANAT1521 or ANAT1551|000
+1789|2002|PHAR2011|Prerequisite: 6UOC level 1 Biology (preferably BABS1201), 12 UOC level 1 Chemistry, 6 UOC level 1 Mathematics and Physiology 1A (Note: Medicinal Chemistry students receive a special exemption from requiring Physiology 1A)|000
+1789|2002|PHAR3101|Prerequisite PHAR2011 or PHAR2211, recommended PHAR3102|000
+1789|2002|PHAR3102|Prerequisite: PHAR2011 or PHAR2211. Highly recommended BIOC2201 or BIOC2291 or BIOC2101 or BIOC2181|111
+1789|2002|PHAR3111|Prerequisite: PHSL2101 or 2121 or 2501 or 2201 or 2221 or 2502|111
+1789|2002|PHAR3202|Prerequisite: PHAR2011 or NEUR2201|000
+1789|2002|PHAR3251|Prerequisite:PHAR2011 or PHAR2211, Highly recommended PHSL2201 and BIOC 2101 or BIOC2181 or BIOC2201 or BIOC2291|111
+1789|2002|PHAR3306|Prerequisite: VISN2111, PHSL2101, PHSL2201|000
+1789|2002|PHSL2101|Prerequisite: 6 UOC from level 1 Biology (BABS1201 pref); and 6 UOC of Level 1 CHEM; and 6 UOC Level 1 MATH; Recommended : BIOC2101 or BIOC2181.|111
+1789|2002|PHSL2121||111
+1789|2002|PHSL2201|Prerequisite PHSL2101. Recommended; BIOC2201 or BIOC2291|000
+1789|2002|PHSL2221|Prerequisite: PHSL2121|000
+1789|2002|PHSL2501|Prerequisites: BABS1201 AND CHEM1831 AND MATH1041; Recommended :BIOC2101 or BIOC2181|111
+1789|2002|PHSL2502|Prerequisite: PHSL2501.|000
+1789|2002|PHSL3211|Prerequisite: PHSL2101 or PHSL2121 or PHSL 2501, PHSL2201 or PHSL2221 or PHSL2502|000
+1789|2002|PHSL3221|Prerequisite: PHSL2101 or PHSL2121 or PHSL2501, PHSL2201 or PHSL2221 or PHSL2502|000
+1789|2002|SOMS3001||000
+1789|2002|SOMS3232|Prerequisite: BIOC2101 or BIOC2181 or BABS2202 or ANAT3231|000
+1789|2002|SOMS4001|Enrolled in SOMS Hons Plan|111
+1789|2002|SOMS4884||111
+1789|2002|SOMS4888||111
+1789|2003|GENM0295||000
+1789|2003|GENM0510|Excluded: Not available to Undergraduate Faculty of Medicine single/dual program students|111
+1789|2003|GENM0519|Excluded: Not available to Undergraduate Faculty of Medicine single/dual program students|000
+1789|2003|GENM0520|Excluded: Not available to Undergraduate Faculty of Medicine single/dual program students|000
+1789|2003|GENM0703|Excluded: Not available to Undergraduate Faculty of Medicine single/dual program students|111
+1789|2003|GENM0707|Excluded: Not available to Undergraduate Faculty of Medicine single/dual program students|000
+1789|2003|GENM0708|Excluded: Not available to Undergraduate Faculty of Medicine single/dual program students|111
+1789|2003|GENM0709|Excluded: Not available to Undergraduate Faculty of Medicine single/dual program students|111
+1789|2003|PHCM1001|Currently enrolled in program 3880 Bachelor of International Public Health|000
+1789|2003|PHCM2001||111
+1789|2003|PHCM2002||111
+1789|2003|PHCM2003||000
+1789|2003|PHCM2004||000
+1789|2003|PHCM2005||000
+1789|2003|PHCM2006||000
+1789|2003|PHCM2007||000
+1789|2003|PHCM2009||000
+1789|2003|PHCM4013|Prerequisite: HESC3504|000
+1474|2015|MSCI6681||111
+1474|2015|SCIF1131|Enrolment in BSc (Adv. Science), BAdvSci(Hons), BSc (Adv. Maths), BSc(AdvMath)(Hons), (incl. associated dual degrees), or BMedSci|111
+1474|2015|SCIF2199|Prerequisite: 48 units of credit. Students must have a WAM of 65 or above to be eligible for this course|111
+1474|2007|AVIA1111||000
+1474|2007|AVIA1321||111
+1474|2007|AVIA1401||000
+1474|2007|AVIA1901||111
+1474|2007|AVIA1902||000
+1474|2007|AVIA2101||000
+1474|2007|AVIA2111||111
+1474|2007|AVIA2112||111
+1474|2007|AVIA2113||111
+1474|2007|AVIA2114||000
+1474|2007|AVIA2115||000
+1474|2007|AVIA2116||000
+1474|2007|AVIA2117||000
+1474|2007|AVIA2401||000
+1474|2007|AVIA2501||111
+1474|2007|AVIA2601||000
+1474|2007|AVIA2701||000
+1474|2007|AVIA2801||000
+1474|2007|AVIA2910|Prerequisite: AVIA1901|111
+1474|2007|AVIA3013||000
+1474|2007|AVIA3101|Prerequisite: AVIA1900, AVIA2004, AVIA2014 or 1901 ; Excluded: AVIA3002.|111
+1474|2007|AVIA3111||000
+1474|2007|AVIA3112||000
+1474|2007|AVIA3113||000
+1474|2007|AVIA3114||000
+1474|2007|AVIA3201|Prerequisite: AVIA3101|000
+1474|2007|AVIA3301||111
+1474|2007|AVIA3401||111
+1474|2007|AVIA3410|Prerequisite: AVIA2401 or AVIA2013|000
+1474|2007|AVIA3710|Excl: PROF3001, AVIA3700 and 90 Units of Credit|000
+1474|2007|AVIA3851|Prerequisite: AVIA1850 or 2701|000
+1474|2007|AVIA4001|Prerequisite: Enrolled in AVIA Honours|111
+1474|2007|AVIA4002|Prerequisite: Enrolled in AVIA Honours|111
+1474|2007|AVIA4003||111
+1474|2007|AVIA4004||111
+1474|2007|GENS5013||000
+1474|2009|BEES0006||111
+1474|2009|BEES0010||000
+1474|2009|BEES2041|Exclusion: MATH2099 & PSYC2001|111
+1474|2009|BEES2741||000
+1474|2009|BEES3041||000
+1474|2009|BEES4514||111
+1474|2009|BEES4516||111
+1474|2009|BEES4517||000
+1474|2009|BEES4522||000
+1474|2009|BEES4523|Pre: Enrolled in BEES Honours Plan|111
+1474|2009|BEES6601||000
+1474|2009|BEES6741||000
+1474|2009|BEES6800||111
+1474|2009|BIOS1101||000
+1474|2009|BIOS1301||111
+1474|2009|BIOS2011||000
+1474|2009|BIOS2031||000
+1474|2009|BIOS2051||000
+1474|2009|BIOS2061||000
+1474|2009|BIOS2123|Prerequisite: BIOS1301|000
+1474|2009|BIOS2500||000
+1474|2009|BIOS3011||000
+1474|2009|BIOS3061|Prerequisite: BIOS2011|000
+1474|2009|BIOS3081||111
+1474|2009|BIOS3091||000
+1474|2009|BIOS3161|6 UOC from BIOS2031 or BIOS2051 or BIOS2061|111
+1474|2009|BIOS3171|Prerequisite: BIOS2011|000
+1474|2009|BIOS3221|Prerequisite: BIOS1101|000
+1474|2009|BIOS3601|Pre-Requisite: At least 6UOC from BIOS2031 or BIOS2051 or BIOS2061|111
+1474|2009|BIOS3681||111
+1474|2009|BIOS6671||000
+1474|2009|BIOS6692||111
+1474|2009|BIOS6723||000
+1474|2009|CLIM1001||000
+1474|2009|CLIM2001|(PHYS1111 or PHYS1121 or PHYS1131 or PHYS1141 or PHYS1211) and (MATH1011 or MATH1031 or MATH1131 or MATH1141 or MATH1151)|111
+1474|2009|CLIM3001|Prerequisite: CLIM2001 or PHYS2801 or GEOS2711 or MATH2241|000
+1474|2009|GENS0401||000
+1474|2009|GEOS1111||000
+1474|2009|GEOS1211||111
+1474|2009|GEOS1701||000
+1474|2009|GEOS2021||000
+1474|2009|GEOS2071||111
+1474|2009|GEOS2131|Pre-requisites: GEOL1111/GEOS1111 or GEOL1211/GEOS1211 or GEOS1701|111
+1474|2009|GEOS2181||000
+1474|2009|GEOS2241||000
+1474|2009|GEOS2291||000
+1474|2009|GEOS2641||111
+1474|2009|GEOS2711|Prerequisite: GEOS1701|000
+1474|2009|GEOS2721|Prerequisite: GEOS1701|000
+1474|2009|GEOS2821|Excl: GEOG2821, GEOS2811|000
+1474|2009|GEOS3071|Prerequisite: BIOS1101 or GEOS1211|000
+1474|2009|GEOS3141|Pre-requisite: GEOL1111/GEOS1111 or GEOL1211/GEOS1211 or GEOS1701 or GEOL5321 or GEOL5200.|000
+1474|2009|GEOS3171||000
+1474|2009|GEOS3281||000
+1474|2009|GEOS3611||000
+1474|2009|GEOS3721||000
+1474|2009|GEOS3731||111
+1474|2009|GEOS3733||000
+1474|2009|GEOS3761||000
+1474|2009|GEOS3811||000
+1474|2009|GEOS3821||111
+1474|2009|GEOS3911||111
+1474|2009|GEOS3921||000
+1474|2009|MSCI0501|Excluded: GENS4625, MSCI2001,GENB5001
+ Not available to students in Science Programs|000
+1474|2009|MSCI2001||111
+1474|2009|MSCI3001||000
+1474|2009|SCIF1111|Enrolment in the Bachelor of Medical Science (3991) or the Bachelor of Medicinal Chemistry (3992) or the bachelor of Medicinal Chemistry (Honours) (3999)|111
+1474|2009|SCIF2041|Pre: Minimum 48 UoC completed and 70 WAM|111
+1474|2009|SCIF3041||111
+1474|2008|BABS1111||000
+1474|2008|BABS1201||111
+1474|2008|BABS1202||000
+1474|2008|BABS2011|Prerequisite: BABS1201 or BABS1202|111
+1474|2008|BABS2202|Pre-requisite: BABS1201 and CHEM1011 or CHEM1031|000
+1474|2008|BABS2204|Prerequisite: BABS1201|000
+1474|2008|BABS2264|Prerequisite: BABS1201|000
+1474|2008|BABS3021|Pre-req: 12 UoC from MICR2011 or BIOS2021/BABS2204 or BIOS2621/BABS2264 or BIOC2201|000
+1474|2008|BABS3031|Prerequisite: completion of at least 48 UoC|000
+1474|2008|BABS3041|Prerequisite: BIOC2101 or (BIOC2181and MICR2011) or (BIOC2181 and BABS2202)|111
+1474|2008|BABS3061|Prerequisites: BIOC2101 or LIFE2101, BIOC2201|000
+1474|2008|BABS3071||111
+1474|2008|BABS3081|Prerequisite: BABS1201 & MICR2011|000
+1474|2008|BABS3121|Prerequisite: BIOC2201, BIOC2101 or BABS2204 or BABS2264 or BABS2202 or MICR2011|111
+1474|2008|BABS3151|Prerequisite: BABS2204 or BABS2264|111
+1474|2008|BABS3200||000
+1474|2008|BABS3281|Prerequisite: BIOC2201|000
+1474|2008|BABS3291|Prerequisite: BABS2204 or BABS2264|000
+1474|2008|BABS3301||111
+1474|2008|BABS3631|Prerequisite: completion of at least 48 UoC|000
+1474|2008|BABS4516||111
+1474|2008|BIOC2101|Prerequisite: BABS1201 and CHEM1011 or CHEM1031 or CHEM1051 and CHEM1021 or CHEM1041 or CHEM1061|000
+1474|2008|BIOC2181|BABS1201 and CHEM1011 or CHEM1031 or CHEM1831|000
+1474|2008|BIOC2201|Prerequisite: BABS1201 and CHEM1011 or CHEM1031 or CHEM1051 and CHEM1021 or CHEM1041 or CHEM1061|000
+1474|2008|BIOC3111|Prerequisites: BIOC2101 or LIFE2101, BIOC2201|000
+1474|2008|BIOC3261|Prerequisite: BIOC2101, BIOC2201|000
+1474|2008|BIOC3271|Prerequisite: BIOC2101, BIOC2201|000
+1474|2008|BIOC3671|Prerequisite: BIOC2101, BIOC2201. Restricted to Advanced Science programs (3985, 3990, 3962, 3972, 3973, 3986, 3931, 3936)|000
+1474|2008|GENS1111||000
+1474|2008|MICR2011|Prerequisite: BABS1201|111
+1474|2008|MICR3061|Prerequisite: BABS1201 & MICR2011|000
+1474|2008|MICR3071|Prerequisite: MICR2011|111
+1474|2008|MICR3621|Pre-req: 12 UoC from MICR2011 or BIOS2021/BABS2204 or BIOS2621/BABS2264 or BIOC2201|000
+1474|2010|CHEM1001|Exclusion: CHEM1011, CHEM1031, CHEM1051, CHEM1831|111
+1474|2010|CHEM1011||111
+1474|2010|CHEM1021|Prerequisite: CHEM1011 or CHEM1031.	|111
+1474|2010|CHEM1031||111
+1474|2010|CHEM1041|Prerequisite: CHEM1031, or CHEM1011 with a credit or above.|000
+1474|2010|CHEM1051|Prerequisite: Enrolment in the Bachelor of Medicinal Chemistry (3999 or 3992) program|111
+1474|2010|CHEM1061|Prerequisite: Enrolment in the Bachelor of Medicinal Chemistry (3992 or 3999) program and completion of either CHEM1051 or CHEM1031 or CHEM1011 with a credit or above.|000
+1474|2010|CHEM1151|Enrolment in Medicinal Chemistry (3992) & (3999)|111
+1474|2010|CHEM1811|Exclusion: CHEM1011 and CHEM1031 and CHEM1051 and CEIC1001 and MATS1101|111
+1474|2010|CHEM1821|Prerequisite: CHEM1811 Exclusion: CHEM1021 and CHEM1041 and CHEM1061 and CEIC1001 and MATS1101|000
+1474|2010|CHEM1829|Prerequisite: CHEM1031, and enrolment in 3952 Optometry / Science or a Vision Science major.|000
+1474|2010|CHEM1831||000
+1474|2010|CHEM2011|Prerequisite: CHEM1011 or CHEM1031 or CHEM1021 or CHEM1041 and MATH1011 or MATH1031 or MATH1131 or MATH1141 or MATH1231 or MATH1241.|000
+1474|2010|CHEM2021|Prerequisite: CHEM2041|000
+1474|2010|CHEM2031|Prerequisite: CHEM2041 Exclusion: CHEM2828, CHEM2839|000
+1474|2010|CHEM2041|Prerequisite: CHEM1011 or CHEM1031 or CHEM1811, CHEM1021 or CHEM1041 or CHEM1821, MATH1031 or MATH1041 or MATH1131 or MATH1141 or MATH1231 or MATH1241|111
+1474|2010|CHEM2921|Prerequisite: CHEM1011 or CHEM1031 or CHEM1051 and CHEM1021 or CHEM1041 or CHEM1061|111
+1474|2010|CHEM2999||111
+1474|2010|CHEM3011|Prerequisite: CHEM2011 or NANO2002|000
+1474|2010|CHEM3021|Prerequisite: CHEM2021|111
+1474|2010|CHEM3031|Prerequisite: CHEM2031 or CHEM2839|000
+1474|2010|CHEM3051|Pre-requisite: CHEM3021|000
+1474|2010|CHEM3061||000
+1474|2010|CHEM3071||000
+1474|2010|CHEM3901|Prerequisite: CHEM1011 or CHEM1031.	|000
+1474|2010|CHEM3997||111
+1474|2010|CHEM3998||111
+1474|2010|CHEM4501|Prerequisite: Enrolled in CHEM Honours|111
+1474|2010|CHEM4502||111
+1474|2010|CHEM4503|Prerequisite: Enrolled in Medicinal Chemistry Honours|111
+1474|2010|CHEM4506||111
+1474|2010|CHEM4512|Prerequisite: Enrolled in Medicinal Chemistry Honours|111
+1474|2010|CHEM4518|Prerequisite: Enrolled in CHEM Honours|111
+1474|2010|CHEM4524||111
+1474|2010|CHEM6041|Prerequisite: CHEM2041|111
+1474|2010|CHEM6701|12 UOC of CHEM2011, CHEM2021, CHEM2031, CHEM2839, CHEM2041 & CHEM2828|111
+1474|2010|CHEM6702|12 UOC of CHEM2011, CHEM2021, CHEM2031, CHEM2839, CHEM2041 & CHEM2828|000
+1474|2010|NANO2002||000
+1474|2010|NANO4004|Prerequisite: Enrolled in Medicinal Chemistry Honours|111
+1474|2010|NANO4012||111
+1474|2010|SCIF1004||000
+1474|2014|MATS1101||000
+1474|2014|MATS1192||111
+1474|2014|MATS1902||111
+1474|2014|MATS1903||000
+1474|2014|MATS2001|Prerequisite: MATH1131 or MATH1141 and MATH1231 or MATH1241 and PHYS1121 or PHYS1131 and CHEM1011 or CHEM1031|111
+1474|2014|MATS2003||111
+1474|2014|MATS2004|Prerequisite: MATS1101 or MATS1192|000
+1474|2014|MATS2005||000
+1474|2014|MATS2006||000
+1474|2014|MATS2007||000
+1474|2014|MATS2008|Prerequisite: CHEM1011 or CHEM1031 or MATS1101|000
+1474|2014|MATS3001|Prerequisite: MATS2003 and MATS2004|111
+1474|2014|MATS3002|Prerequisite: MATS2003 and MATS2008|111
+1474|2014|MATS3003||111
+1474|2014|MATS3004||000
+1474|2014|MATS3005|Prerequisite: MATS2003 and MATS2006 and MATS2008|111
+1474|2014|MATS3006||000
+1474|2014|MATS3007||000
+1474|2014|MATS4001||000
+1474|2014|MATS4002|Prerequisite: MATS3002|111
+1474|2014|MATS4003|Prerequisite: MATS3003|000
+1474|2014|MATS4004||000
+1474|2014|MATS4005||000
+1474|2014|MATS4006|Prerequisite: MATS3004|000
+1474|2014|MATS4007||000
+1474|2014|MATS4008|Prerequisite: MATS3001 and MATS3002 and MATS3004|111
+1474|2014|MATS4009|Prerequisite: MATS3001 and MATS3002 and MATS3004|000
+1474|2014|MATS4100|Prerequisite: MATS3001 and MATS3002 and MATS3004|111
+1474|2014|MATS4503|Prerequisite: Enrolled in Materials Science Honours Plan|000
+1474|2014|MATS4504|Prerequisite: Enrolled in Materials Science Honours Plan|111
+1474|2014|MATS4505||111
+1474|2014|MATS5001||111
+1474|2014|MATS5002||111
+1474|2014|MATS5003|Prerequisite : MATS5001|111
+1474|2014|NANO3001||111
+1474|2013|DATA1001||000
+1474|2013|DATA1099||111
+1474|2013|DATA3001||000
+1474|2013|MATH1011|Exclusion: Not enrolled in 3991 or any UNSW Business Program|111
+1474|2013|MATH1031||111
+1474|2013|MATH1041|Excluded: MATH2841|111
+1474|2013|MATH1081|Corequisite: MATH1131 or MATH1141 or MATH1151.|111
+1474|2013|MATH1099|Co-Op Scholar enrolled in 3956 or 3959|111
+1474|2013|MATH1131||111
+1474|2013|MATH1141||111
+1474|2013|MATH1151||111
+1474|2013|MATH1231|Prerequisite: MATH1131 or MATH1141.|111
+1474|2013|MATH1241|Prerequisite: MATH1131 CR or MATH1141 CR.|111
+1474|2013|MATH1251|Prerequisite: MATH1151.|000
+1474|2013|MATH2011|Prerequisite: MATH1231 or MATH1241 or MATH1251; Exclusion: MATH2019, MATH2049, MATH2069, MATH2100, MATH2110.|111
+1474|2013|MATH2018|Prerequisite: MATH1231 or MATH1241 or MATH1251.|111
+1474|2013|MATH2019|Prerequisite: MATH1231 or MATH1241 or MATH1251.|111
+1474|2013|MATH2069|Prerequisite: MATH1231 or MATH1241 or MATH1251; Exclusions: MATH2011, MATH2111, MATH2510, MATH2610, MATH2520 & MATH2620|000
+1474|2013|MATH2089|Prerequisite: MATH1231 or MATH1241 or MATH1251. Exclusions: CVEN2002, CVEN2025, CVEN2702,ECON3209, MATH2049, MATH2829, MATH2839, MATH2899, and MINE2700|111
+1474|2013|MATH2099|Prerequisite: MATH1231 or MATH1241 or MATH1251. Exclusions: MATH2501 and MATH2601.|000
+1474|2013|MATH2111|Prerequisite: MATH1231 or MATH1241 or MATH1251 each with a mark of at least 70; Excluded: MATH2019, MATH2049, MATH2069, MATH2100, MATH2110.|111
+1474|2013|MATH2121|Prerequisite: MATH1231 or MATH1241 or MATH1251|000
+1474|2013|MATH2221|Prerequisite: MATH1231 or MATH1241 or MATH1251 each with a mark of 70.|000
+1474|2013|MATH2241|Prerequisite: MATH1231 or MATH1241 or MATH1251|111
+1474|2013|MATH2301|Prerequisite: MATH1031 (CR) or MATH1231 or MATH1241 or MATH1251. Exclusions: MATH2089, CVEN2002, and CVEN2702|111
+1474|2013|MATH2400|Prerequisite: MATH1081 or MATH1231 or MATH1241 or MATH1251|000
+1474|2013|MATH2501|Prerequisite: MATH1231 or MATH1241 or MATH1251; Exclusion: MATH2099|000
+1474|2013|MATH2521|Prerequisite: MATH1231 or MATH1241 or MATH1251; Exclusion: MATH2069.|000
+1474|2013|MATH2601|Prerequisite: MATH1231 or MATH1241 or MATH1251 each with a mark of 70 or greater; Exclusion: MATH2099|000
+1474|2013|MATH2621|Prerequisite: MATH1231 or MATH1241 or MATH1251 each with a mark of at least 70; Exclusion: MATH2069|000
+1474|2013|MATH2701|Prerequisite: MATH1231 or MATH1241 or MATH1251 with at least a CR, enrolment in an advanced maths or advanced science program|000
+1474|2013|MATH2801|Prerequisite: MATH1231 or MATH1241 or MATH1251 (or enrolment in program 3653 Software Engineering / Commerce and completion of either MATH1131 or MATH1141). Exclusion: CVEN2002, CVEN2025, CVEN2702, ECON2215, ECON1203|000
+1474|2013|MATH2831|Prerequisite: MATH2801 or MATH2901.|000
+1474|2013|MATH2859|Prerequisite: MATH1231 or MATH1241 (or, in program 3648 or 3651 or 3652 or 3653 or 3749 or 3982, MATH1131 or MATH1141); Exclusion: MATH2099.|000
+1474|2013|MATH2871|Prerequisite: MATH1041 or ECON1203 or ECON2292 or PSYC2001 or MATH1231 or MATH1241 or MATH1251 or equivalent.|111
+1474|2013|MATH2901|Prerequisite: MATH1231 or MATH1241 or MATH1251 (or enrolment in program 3653 Software Engineering / Commerce and completion of either MATH1131 or MATH1141). Exclusion: CVEN2002, CVEN2025, CVEN2702, ECON2215, ECON1203|000
+1474|2013|MATH2931|Prerequisite: MATH2901 or MATH2801(DN)|000
+1474|2013|MATH3000|Prerequisite: 12 units of credit in Level 2 Maths courses.|111
+1474|2013|MATH3001|Prerequisite: 12 units of credit in Level 2 Maths courses.|111
+1474|2013|MATH3002|Prerequisite: 12 units of credit in Level 2 Maths courses.|111
+1474|2013|MATH3041|Prerequisite: 12 units of credit in Level 2 Maths courses.|000
+1474|2013|MATH3101|Prerequisite: 12 units of credit in Level 2 Math courses including MATH2011 or MATH2111 or MATH2510, and MATH2120 or MATH2130, or both MATH2019(DN) and MATH2089, or both MATH2069(CR) and MATH2099.|000
+1474|2013|MATH3121|Prerequisite: 12 units of credit in Level 2 Math courses including MATH2011 or MATH2111, and MATH2120 or MATH2130, or both MATH2019(DN) and MATH2089, or both MATH2069(DN) or MATH2099.|111
+1474|2013|MATH3161|Prerequisite: 12 units of credit in Level 2 Mathematics courses including MATH2011 or MATH2111 or MATH2510, and MATH2501 or MATH2601, or both MATH2019(DN) and MATH2089, or both MATH2069(CR) and MATH2099.|111
+1474|2013|MATH3171||000
+1474|2013|MATH3201|Prerequisite: 12 units of credit in Level 2 Mathematics courses including MATH2120 or MATH2130, and MATH2501 or MATH2601, or both MATH2019(DN) and MATH2089, or both MATH2069(CR) and MATH2099.|000
+1474|2013|MATH3261|Prerequisite: 12 units of credit in Level 2 Math courses including MATH2011 or MATH2111, and MATH2120 or MATH2130, or both MATH2019(DN) and MATH2089, or both MATH2069(DN) or MATH2099.|111
+1474|2013|MATH3311|Prerequisite: MATH2120 or MATH2130 or MATH2111and MATH2501 or MATH2601 and MATH2801 or MATH2901 or MATH2871 or MATH2841|000
+1474|2013|MATH3361||111
+1474|2013|MATH3411|Prerequisite: MATH1081 or MATH1090.|000
+1474|2013|MATH3511|Prerequisite: 12 units of credit in Level 2 Math courses|000
+1474|2013|MATH3521|Prerequisite: 12 units of credit in Level 2 Math courses.|111
+1474|2013|MATH3560|Prerequisite: 6 units of credit in Level 2 Math courses.|111
+1474|2013|MATH3570|Prerequisite: 12 units of credit in Level 2 Math courses.|111
+1474|2013|MATH3611|Prerequisite: 12 UOC of Level 2 Mathematics with an average mark of at least 70, including MATH2111 or MATH2011 (CR) or MATH2510 (CR), or permission from the Head of Department.|000
+1474|2013|MATH3701|Prerequisite: 12 UOC of Level 2 Mathematics with an average mark of at least 70, including MATH2111 or MATH2011 (CR) or MATH2510 (CR) and MATH2601 or MATH2501 (CR), or permission from Head of Department.|000
+1474|2013|MATH3711|Prerequisite: 12 UOC of Level 2 Mathematics with an average mark of at least 70, including MATH2601 or MATH2501 (CR), or permission from the Head of Department.|111
+1474|2013|MATH3801|Prerequisite: MATH2501 or MATH2601 and MATH2011 or MATH2111 or MATH2510 or MATH2610 and MATH2801 or MATH2901.|111
+1474|2013|MATH3811|Prerequisite: MATH2831 or MATH2931.|111
+1474|2013|MATH3821|Prerequisite: MATH2831 or MATH2931|000
+1474|2013|MATH3831|Prerequisite: MATH2801 or MATH2901.|000
+1474|2013|MATH3841|Prerequisite: MATH3811 or MATH3911.|000
+1474|2013|MATH3851|Prerequisite: MATH2801 OR MATH2901 AND MATH2831 OR MATH2931.|000
+1474|2013|MATH3871|Prerequisite: MATH2801 or MATH2901|000
+1474|2013|MATH3901|Prerequisite: MATH2901 or MATH2801(DN) and MATH2501 or MATH2601 and MATH2011 or MATH2111 or MATH2510 or MATH2610.|111
+1474|2013|MATH3911|Prerequisite: MATH2931 or MATH2831(DN).|111
+1474|2013|MATH4001||111
+1474|2013|MATH4002||111
+1474|2013|MATH6781||000
+1474|2017|OPTM2133|Prerequisite: VISN1111&VISN1221&VISN1101 Corequisite: VISN2111 Exclusion: OPTM2190|000
+1474|2017|OPTM2233|Prerequisite: VISN1111 and VISN1221 and OPTM2133|000
+1474|2017|OPTM3105|Prerequisite: VISN2111|111
+1474|2017|OPTM3133|Prerequisite: OPTM2133|000
+1474|2017|OPTM3201|Prerequisite: OPTM2133 and OPTM2233 and VISN2111|000
+1474|2017|OPTM3205|Prerequisite: OPTM3105 Exclusion: OPTM3231|000
+1474|2017|OPTM3233|Prerequisite: OPTM3133|000
+1474|2017|VISN1101||111
+1474|2017|VISN1111||000
+1474|2017|VISN1221|Prerequisite: VISN1111|000
+1474|2017|VISN2111|Prerequisite: VISN1211 or VISN1101|000
+1474|2017|VISN2211|Prerequisite: VISN2111|000
+1474|2017|VISN3111|Prerequisite: VISN2211|111
+1474|2017|VISN4003|Prerequisite: Enrolled in VISN Honours|111
+1474|2017|VISN4016||111
+1474|2018|GENS4008||000
+1474|2018|GENS4015||111
+1474|2018|PHYS1110|Exclusion: PHYS1121, PHYS1131, PHYS1221, PHYS1231, PHYS1241, PHYS1211, PHYS1141|111
+1474|2018|PHYS1111|Exclusion: PHYS0001, PHYS1121, PHYS1131, PHYS1141, PHYS1149|111
+1474|2018|PHYS1121|Corequisite: MATH1131 or MATH1141 or MATH1151|111
+1474|2018|PHYS1131|Corequisite: MATH1131 or MATH1141 or MATH1151|111
+1474|2018|PHYS1141|Corequisite: MATH1131 or MATH1141 or MATH1151|111
+1474|2018|PHYS1149||111
+1474|2018|PHYS1160|Exclusion: GENS4001 & GENS4003|111
+1474|2018|PHYS1211||000
+1474|2018|PHYS1221|Prerequisite: PHYS1121 or PHYS1131 or PHYS1141; Corequisite: MATH1231 or MATH1241 or MATH1251|111
+1474|2018|PHYS1231|Prerequisite: PHYS1131 or PHYS1141 or a mark of 65 or above in PHYS1121; Corequisite: MATH1231 or MATH1241 or MATH1251|111
+1474|2018|PHYS1241|Prerequisites: PHYS1131 or PHYS1141; Co-requisites: MATH1231 or MATH1241 or MATH1251|000
+1474|2018|PHYS2111|Prerequisite: (PHYS1221 or PHYS1231 or PHYS1241) and (MATH1231 or MATH1241)|111
+1474|2018|PHYS2113|Prerequisite: (PHYS1221 or PHYS1231 or PHYS1241) and (MATH1231 or MATH1241)|000
+1474|2018|PHYS2114|Prerequisite: (PHYS1221 or PHYS1231 or PHYS1241) and (MATH2069 or MATH2011 or MATH2111)|000
+1474|2018|PHYS2801|(PHYS1111 or PHYS1121 or PHYS1141 or PHYS1211) and (MATH1011 or MATH1031 or MATH1131 or MATH1141 or MATH1151)|111
+1474|2018|PHYS3111|Prerequisite: (MATH2069 or MATH2521 or MATH2621) and (PHYS2111 or PHYS2110)|000
+1474|2018|PHYS3112|Prerequisite: (PHYS2111 or PHYS2113 or PHYS2114 or PHYS2110) and (MATH2089 or (MATH2301 and (MATH2801 or MATH2901)))|111
+1474|2018|PHYS3113|Prerequisite: PHYS2111 or PHYS2110 Exclusion: PHYS2210, PHYS3021|111
+1474|2018|PHYS3114|Prerequisite: (PHYS2114 or PHYS2210) and PHYS2113. Exclusion: PHYS3011|000
+1474|2018|PHYS3115|Prerequisite: (PHYS2111 or PHYS2110) and (PHYS2114 or PHYS2210) and PHYS2113|000
+1474|2018|PHYS3116|Prerequisite: (MATH2069 or MATH2011 or MATH2111) and (PHYS2111 or PHYS2110). Exclusions: PHYS2160, PHYS3160|000
+1474|2018|PHYS3117|Prerequisite: PHYS3112|000
+1474|2018|PHYS3118|Prerequisite: (PHYS2111 or PHYS2110) and PHYS3113. Exclusions: PHYS3021, PHYS3310|000
+1474|2018|PHYS4141||111
+1474|2018|PHYS4142||111
+1474|2018|PHYS4143||000
+1474|2018|PHYS4144||111
+1474|2018|PHYS4145||000
+1474|2018|PHYS4146||000
+1474|2018|PHYS4200||111
+1474|2018|PHYS4210||111
+1474|2018|PHYS6143||000
+1474|2019|PSYC1001||111
+1474|2019|PSYC1011||000
+1474|2019|PSYC1021|Restricted to students currently enrolled in program 3632 Psychology (Honours) or 4721 Bachelor of Psychology (Honours) / Law|111
+1474|2019|PSYC1022||111
+1474|2019|PSYC1023||111
+1474|2019|PSYC1024||000
+1474|2019|PSYC1025||000
+1474|2019|PSYC1027||000
+1474|2019|PSYC1031||000
+1474|2019|PSYC1062||111
+1474|2019|PSYC1111||000
+1474|2019|PSYC2061|Prerequisite: PSYC1001, PSYC1011|111
+1474|2019|PSYC2071|Prerequisite: PSYC1001, PSYC1011|000
+1474|2019|PSYC2081|Prerequisite: PSYC1001, PSYC1011|000
+1474|2019|PSYC2101|Prerequisite: PSYC1001; Exclusion: GENS9003, GENS9004, GENS9005, GENS9007, GENS0005|000
+1474|2019|PSYC3001|Prerequisite: PSYC2001|111
+1474|2019|PSYC3011|Prerequisite: PSYC2001, PSYC2061, PSYC2071, PSYC2081, PSYC2101|000
+1474|2019|PSYC3051|Prerequisites:PSYC2001, PSYC2081|000
+1474|2019|PSYC3121|Prerequisite: PSYC2001 and PSYC2061|000
+1474|2019|PSYC3211|Prerequisite: PSYC2001 , PSYC2071|111
+1474|2019|PSYC3221|Prerequisite: PSYC2001, PSYC2071|111
+1474|2019|PSYC3241|Prerequisites:PSYC2001, PSYC2081|111
+1474|2019|PSYC3301|Prerequisite: PSYC2001 and PSYC2061|000
+1474|2019|PSYC3311|Prerequisite: PSYC2001 , PSYC2071|000
+1474|2019|PSYC3331|Prerequisite: PSYC2001 , PSYC2061 or PSYC2101|000
+1474|2019|PSYC3341|Prerequisite: PSYC2001 and PSYC2061|000
+1474|2019|PSYC3361|Minimum completion of 72 UoC in a declared Psychology major and a current WAM of 75 or above|111
+1474|2019|PSYC3371|Prerequisite: PSYC3001|000
+1474|2019|PSYC4072||111
+1474|2019|PSYC4073||000
+1474|2019|PSYC4093||111
+1474|2019|PSYC4103||000
+1496|1970|ACCT1501||111
+1496|1970|ACCT1511|Prerequisite: ACCT1501|111
+1496|1970|ACCT2101|Prerequisite: Enrolment in Accounting Co-op Major (ACCTB13554)|111
+1496|1970|ACCT2507|Prerequisite:ACCT1511 and a mark of 80 or higher|000
+1496|1970|ACCT2522|Prerequisite: ACCT1511|111
+1496|1970|ACCT2542|Prerequisite: ACCT1511|000
+1496|1970|ACCT3202|Prerequisite: Enrolment in Accounting Co-op Major (ACCTB13554) NB. Scholars must enrol in the course in both T1&T2. Please contact your Co-op Academic Coordinator with any queries|111
+1496|1970|ACCT3303|Prerequisite: Enrolment in Accounting Co-op Major (ACCTB13554) NB. Scholars must enrol in the course in both T2&T3. Please contact your Co-op Academic Coordinator with any queries|000
+1496|1970|ACCT3563|Prerequisite:ACCT2542|111
+1496|1970|ACCT3583|Prerequisite: ACCT2522|111
+1496|1970|ACCT3601|Prerequisite: ACCT2542|000
+1496|1970|ACCT3610|Prerequisite: ACCT2542 and FINS1613|111
+1496|1970|ACCT3625||000
+1496|1970|ACCT3708|Prerequisite: ACCT2542 or approval from the School|111
+1496|1970|ACCT4794|Prerequisite: Must be enrolled in program 4501 (Accounting)|111
+1496|1970|ACCT4809|Prerequisite: Must be enrolled in program 4501 (Accounting)|111
+1496|1970|ACCT4851|Prerequisite: Must be enrolled in program 4501 (Accounting)|000
+1496|1970|ACCT4852|Prerequisite: Must be enrolled in program 4501 (Accounting)|111
+1496|1970|ACCT4897|Prerequisite: Must be enrolled in program 4501 (Accounting)|111
+1496|1970|ACCT8691||111
+1496|1970|FINS3626|Prerequisite: ACCT1511, FINS1613|000
+1496|1975|FINS1612||111
+1496|1975|FINS1613||111
+1496|1975|FINS2622|Prerequisite: FINS1612|000
+1496|1975|FINS2624|Prerequisite: FINS1613|111
+1496|1975|FINS2643|Prerequisite: FINS2624|111
+1496|1975|FINS3616|Prerequisite: FINS2624|111
+1496|1975|FINS3623|Prerequisite: FINS1613|111
+1496|1975|FINS3625|Prerequisite: FINS1613|111
+1496|1975|FINS3630|Prerequisite: FINS1612, FINS1613|111
+1496|1975|FINS3631|Prerequisite: FINS1613|000
+1496|1975|FINS3633|Prerequisite: FINS2624|111
+1496|1975|FINS3634|Prerequisite: FINS2624|000
+1496|1975|FINS3635|Prerequisite: FINS2624|111
+1496|1975|FINS3636|Prerequisite: FINS2624|000
+1496|1975|FINS3637|Prerequisite: FINS2643|111
+1496|1975|FINS3639|Prerequisites: FINS2624 and FINS2643|000
+1496|1975|FINS3640|Prerequisite: FINS2624|111
+1496|1975|FINS3641|Prerequisite: FINS2624|000
+1496|1975|FINS3648||000
+1496|1975|FINS3650|Prerequisite: FINS2624|111
+1496|1975|FINS3655|Prerequisite: FINS1613|111
+1496|1975|FINS3666||000
+1496|1975|FINS3775|Prerequisite:70% or greater in FINS2624 and ECON1203|000
+1496|1975|FINS4774|Prerequisite or Corequisite: FINS3775 or FINS4775 or enrolled in stream FINSAH4501|000
+1496|1975|FINS4775|Prerequisite:70% or greater in FINS2624 and ECON1203|000
+1496|1975|FINS4776|Prerequisite or corequisite: FINS3775 or FINS4775|111
+1496|1975|FINS4777|Prerequisite or corequisite: FINS3775 or FINS4775|111
+1496|1975|FINS4779|Prerequisite or corequisite: FINS3775 or FINS4775|111
+1496|1975|FINS4792|Corequisite: Must be enrolled in program 4501 (Finance) or FINS3775 or FINS4775|111
+1496|1975|GENC3004|Excluded:All UG Business programs|111
+1496|1973|ECON1101||111
+1496|1973|ECON1102|Prerequisite: ECON1101|111
+1496|1973|ECON1107||111
+1496|1973|ECON1202||111
+1496|1973|ECON1203|Excluded: MATH2841, MATH2801, MATH2901, MATH2099, ACTL2002 & ACTL2131. Prerequisite: Must not be enrolled in Program 3715 or 3764|111
+1496|1973|ECON1401|Prerequisite: ECON1101|111
+1496|1973|ECON2101|Prerequisite: ECON1101 and ECON1202|111
+1496|1973|ECON2102|Prerequisite: ECON1102 and ECON1203|111
+1496|1973|ECON2103|Prerequisite: ECON1101|000
+1496|1973|ECON2104|Prerequisite: ECON1102|000
+1496|1973|ECON2107|Prerequisites: ECON 1101 and (ECON1203 or ECON2292 or MATH1041 or MATH2801 or MATH2841 or MATH2901)|000
+1496|1973|ECON2111|Prerequisite: ECON1102|000
+1496|1973|ECON2112|Prerequisite: ECON1101 and ECON1202|111
+1496|1973|ECON2126|Prerequisite: ECON1101|000
+1496|1973|ECON2127|Prerequisite: ECON1101|000
+1496|1973|ECON2206|Prerequisite: (ECON1203 and ECON1202) or (MATH1131 and MATH1231) or (MATH1141 and MATH1241) or (MATH1151 and MATH1251)|111
+1496|1973|ECON2209|Prerequisite: ECON1203|111
+1496|1973|ECON2322|Prerequisite: ECON1101 and ECON1102|000
+1496|1973|ECON3101|Prerequisite: ECON2101|000
+1496|1973|ECON3104|Prerequisite: ECON2102|111
+1496|1973|ECON3106|Prerequisite: ECON2101|000
+1496|1973|ECON3107|Prerequisite: ECON2101|000
+1496|1973|ECON3109|Prerequisite: ECON2101 or ECON2103 or 48uoc in Arts and Social Science;|111
+1496|1973|ECON3110|Prerequisite: ECON2101 and ECON1102|000
+1496|1973|ECON3114|Pre-req : ECON2101 or ACTL2131 or ACTL2111 or (completed at least 84UOC and enrolled in program 3155, 3502, 3554, 4501, 3558, 3593, 3835, 3967, 3568, 3567, 3584, 4733, 3522, 3521, 3462, 3559, 3529, 3764, 3136.|111
+1496|1973|ECON3116|Prerequisite: ECON2101|000
+1496|1973|ECON3117|Pre-req : ECON2101 or ACTL2131 or ACTL2111 or (completed at least 84UOC and enrolled in program 3155, 3502, 3554, 4501, 3558, 3593, 3835, 3967, 3568, 3567, 3584, 4733, 3522, 3521, 3462, 3559, 3529, 3764, 3136.|000
+1496|1973|ECON3119|Prerequisite: ECON2101 or ECON2103 or 48UOC in Arts and Social Science|000
+1496|1973|ECON3121|Prerequisite: ECON2101|111
+1496|1973|ECON3123|Prerequisite: ECON2101 or ECON2112|000
+1496|1973|ECON3124|Prerequisite: ECON2101|111
+1496|1973|ECON3130|Prerequisites: ECON1102 and ECON2101|000
+1496|1973|ECON3202|Prerequisite: ECON1202|111
+1496|1973|ECON3203|ECON3209 or ECON2215 or MATH2801 or MATH2901|000
+1496|1973|ECON3206|Prerequisite: ECON2209|000
+1496|1973|ECON3208|Prerequisite: ECON2206|111
+1496|1973|ECON3209|Prerequisite: ECON2206|111
+1496|1973|ECON4100|Admission to Economics Honours (program 4502 or stream ECONFH4501)|111
+1496|1973|ECON4103|Admission to Economics Honours (program 4502 or stream ECONFH4501)|111
+1496|1973|ECON4106|Admission to Economics Honours (program 4502 or stream ECONFH4501)|000
+1496|1973|ECON4124|Admission to Business Economics Honours stream(ECONFH4501)|111
+1496|1973|ECON4125|Admission to Econometrics Honours stream (ECONEH4502)|111
+1496|1973|ECON4127|Admission to Economics Honours stream (ECONAH4502)|111
+1496|1973|ECON4201|Admission to Economics Honours (program 4502 or stream ECONFH4501)|000
+1496|1973|ECON4202|Admission to Economics Honours (program 4502 or stream ECONFH4501)|111
+1496|1973|ECON4205|Admission to Economics Honours (program 4502 or stream ECONFH4501)|111
+1496|1973|ECON4208|Admission to Economics Honours (program 4502 or stream ECONFH4501)|111
+1496|1973|ECON4301||000
+1496|1973|ECON4302||000
+1496|1973|ECON4303||000
+1496|1973|ECON4307|Admission to Economics Honours (program 4502 or stream ECONFH4501)|000
+1496|1973|ECON4309|Admission to Economics Honours (program 4502 or stream ECONFH4501)|111
+1496|1973|ECON4310|Admission to Economics Honours (program 4502 or stream ECONFH4501)|000
+1496|1976|INFS1602||111
+1496|1976|INFS1603||111
+1496|1976|INFS1609||111
+1496|1976|INFS2101|Enrolled in plan (INFSCH3964 OR INFSCH3971) AND (INFS1609 OR INFS2609) AND INFS 2603; OR Enrolled in plan (INFSB13554) AND INFS2603|111
+1496|1976|INFS2603|Prerequisite: INFS1602 AND INFS1603|000
+1496|1976|INFS2605|Prerequisite: (INFS1603 AND INFS1609) OR (INFS1603 AND INFS2609)|111
+1496|1976|INFS2608|Prerequisite: INFS1603|111
+1496|1976|INFS2609|Prerequisite: INFS1602 AND INFS1603|111
+1496|1976|INFS2621|Prerequisite: INFS1602|000
+1496|1976|INFS2631|Prerequisite: INFS1602|111
+1496|1976|INFS3020|Enrolment in program 3979 or 3971 or 3964 or 3584. Good Academic Standing with a minimum WAM of 60 and completion of 96 UOC, including a minimum of 36 UOC of INFS courses.|000
+1496|1976|INFS3202|Prerequisite: INFS2101 AND in Plan (INFSB13554 OR INFSCH3971 OR INFSCH3964)|111
+1496|1976|INFS3303|Prerequisite: INFS3202 and in (Plan INFSB13554 or INFSCH3964 or INFSCH3971)|000
+1496|1976|INFS3603|Prerequisite: (INFS1602 OR enroled in Program 3959 Data Science and Decisions) AND completion of 72 UOC within that program.|111
+1496|1976|INFS3604|Prerequisite: INFS2603 AND completion of 72 UOC within that program.|000
+1496|1976|INFS3605|Prerequisite: INFS3634 or INFS3611 AND completion of 72 UOC.|111
+1496|1976|INFS3617|Prerequisite:INFS1602 AND completion of 72 UOC within that program.|111
+1496|1976|INFS3632|Prerequisite:INFS1602 AND a minimum of 72 UOC of courses must be completed.|000
+1496|1976|INFS3634|Completion of 72 UOC within that program AND Prerequisite or Co-Requisite of INFS2605 AND INFS2608|111
+1496|1976|INFS3830|Prerequisite: INFS3603 AND completion of 72 UOC within that program.|111
+1496|1976|INFS3873|Prerequisite: INFS3603 AND completion of 72 UOC within that program.|000
+1496|1976|INFS4795|Prerequisite: Enrolled in Honours majoring in Information Systems.|111
+1496|1976|INFS4796|Pre: INFS4795 AND enrolled in plans (INFSCH3971 OR INFSBH3554 OR INFSAH3502 OR INFSAH3979 OR INFSAH3584)|000
+1496|1976|INFS4831|Prerequisite: Enrolled in Honours majoring in Information Systems.|111
+1496|1976|INFS4854|Prerequisite: Enrolled in Honours majoring in Information Systems.|000
+1496|1976|INFS4858|Enrolment in Streams: Enrolled in an Honours Program majoring in Information Systems (INFSAH OR INFSBH OR INFSCH)|111
+1496|1976|INFS4886|Prerequisite: Enrolled in Honours majoring in Information Systems.|000
+1496|1976|INFS4887|Prerequisite: INFS4886 AND enrolled in Honours majoring in Information Systems.|111
+1496|1976|INFS4907|Enrolment in Streams: Enrolled in an Honours Program majoring in Information Systems (INFSAH OR INFSBH OR INFSCH)|000
+1496|1974|MGMT1001||111
+1496|1974|MGMT1002|Prerequisite: MGMT1001|000
+1496|1974|MGMT1101||111
+1496|1974|MGMT2001|Prerequisite: MGMT1001|111
+1496|1974|MGMT2002||000
+1496|1974|MGMT2010||111
+1496|1974|MGMT2101|Prerequisite or corequisite:MGMT1101 Excluded: IBUS2107|111
+1496|1974|MGMT2102|Prerequisite: 48 units of credit|111
+1496|1974|MGMT2105|Prerequisite: MGMT1101 and completed at least 48UOC courses|000
+1496|1974|MGMT2106||000
+1496|1974|MGMT2200||000
+1496|1974|MGMT2705||000
+1496|1974|MGMT2718|Prerequisite: Any first year MGMT course (e.g., MGMT1001, MGMT1002, MGMT1101).|000
+1496|1974|MGMT2721||000
+1496|1974|MGMT2724||111
+1496|1974|MGMT2725||111
+1496|1974|MGMT2726||000
+1496|1974|MGMT3001|Prerequisite: MGMT1001 or 12 units of credit in Business courses|111
+1496|1974|MGMT3003|Prerequisite: Completion of 48 UOC|111
+1496|1974|MGMT3101|Prerequisite: MGMT3001 or MGMT2101|000
+1496|1974|MGMT3102|Prerequisite: MGMT1101|000
+1496|1974|MGMT3110|MGMT2102 and completion of 72 UOC (if you are enrolled the Commerce International [program 3558], completion of the Commerce Overseas Program (Exchange) is also required)|111
+1496|1974|MGMT3701|Prerequisite: MGMT1001|000
+1496|1974|MGMT3702|Prerequisite: MGMT2101 or MGMT2718|111
+1496|1974|MGMT3721||111
+1496|1974|MGMT3724|Prerequisite: MGMT2718|000
+1496|1974|MGMT3728|Prerequisite: Any first year MGMT course.|000
+1496|1974|MGMT3729|Prerequisite: MGMT2718|000
+1496|1977|GENC6007|Excluded:All UG Business programs|000
+1496|1977|MARK1012||111
+1496|1977|MARK2051|Prerequisite:MARK1012|111
+1496|1977|MARK2052|Prerequisite:MARK1012|111
+1496|1977|MARK2053|Prerequisite:MARK1012|000
+1496|1977|MARK2055|Prerequisite: MARK1012|000
+1496|1977|MARK2060|Prerequisite: MARK1012 or GENC6005|000
+1496|1977|MARK2071|Prerequisite:MARK1012|111
+1496|1977|MARK2085|Prerequisite:MARK1012|000
+1496|1977|MARK2101|Enrolled in plan MARKB13554|111
+1496|1977|MARK3054|Prerequisite:ECON1203 or MARK2052|111
+1496|1977|MARK3081|Prerequisite:MARK1012|000
+1496|1977|MARK3082|Prerequisite: MARK1012 AND (MARK2051 OR MARK2151) AND MARK2052|000
+1496|1977|MARK3085|Prerequisite:MARK1012|000
+1496|1977|MARK3090|Prerequisite: ECON1203 (or equivalent statistics course) and MARK2052|111
+1496|1977|MARK3091|Prerequisite:MARK1012|111
+1496|1977|MARK3092|Prerequisite:MARK1012|111
+1496|1977|MARK3202|Prerequisite: MARK2101 and enrolled in plan MARKB13554|000
+1496|1977|MARK3303|Prerequisite: MARK2101 and enrolled in plan MARKB13554|111
+1496|1977|MARK4210|Prerequisite: Admission to BCom Honours in Marketing.|000
+1496|1977|MARK4211|Prerequisite: Admission to Honours in Marketing.|111
+1496|1977|MARK4214||000
+1496|1971|ACTL1101|Prerequisite: MATH1151 AND (Enrolment in Program 3586, 3587, 3588 or 3589)|000
+1496|1971|ACTL2100|Prerequisite: ACTL1001|000
+1496|1971|ACTL2101|Prerequisite:Enrolment in Program 3587|111
+1496|1971|ACTL2102|Prerequisite: ACTL2131 or MATH2901 and (enrolment in 3586, 3587, 3588 or 3589)|000
+1496|1971|ACTL2111|Prerequisite:(ACTL1101 and MATH1251) or (MATH1251 and stream MATHR13986) or (MATH1251 and stream MATHR13523) or (MATH1251 and stream MATHR13564) or (MATH1251 and stream MATHR13956)|111
+1496|1971|ACTL2131|Prerequisite: ACTL1101 AND (MATH1251 or MATH1241 )|111
+1496|1971|ACTL3141|Prerequisite: (ACTL2131 or MATH2901) and (ACTL2102 or school approval)|111
+1496|1971|ACTL3142|Prerequisite: ACTL2131 and ACTL2111|000
+1496|1971|ACTL3151|Prerequisite: ACTL2111 and ACTL2102|111
+1496|1971|ACTL3162|Prerequisite: ACTL2102 or (MATH2901 and in any of the following plans MATHR13986 or MATHR13523 or MATHR13564 or MATHR13956 or MATHR13589 or MATHR13761 or MATHR13946 or MATHR13949 or MATHR13998)|000
+1496|1971|ACTL3182|Prerequisite: ACTL2111 and ACTL2102|000
+1496|1971|ACTL3191|Prerequisites: ACTL2111 or ACTL2131|111
+1496|1971|ACTL3192|Prerequisites: ACTL2111 or ACTL2131|000
+1496|1971|ACTL3202|Prerequisite: ACTL2101 and enrolment in program 3554|111
+1496|1971|ACTL3303|Prerequisite: ACTL3202 and enrolment in program 3554|000
+1496|1971|ACTL4000|Prerequisite: Admission to BCom Hons in Actuarial Studies|111
+1496|1971|ACTL4001|Prerequisite:(ECON1102 and ACCT1511 and FINS1613 and ACTL2102) PLUS (prerequisite 2 courses out of ACTL3141, ACTL3151, ACTL3162 and ACTL3182) PLUS (prerequisite/co-requisite: ACTL3141 and ACTL3151) PLUS program overall WAM of 60.|111
+1496|1971|ACTL4002|Prerequisite: (ACTL4001 and ACTL3162 and ACTL3182) OR (Prerequisite: ACTL4001 and Corequisite : ACTL3162 and ACTL3182)|000
+1496|1971|ACTL4003|Prerequisite: Admission to BCom Hons in Actuarial Studies|000
+1496|1971|ACTL4301|Prerequisites: ACTL2102 and ACTL3162.|000
+1496|1971|ACTL4302|Completed at least two of the following courses ACTL3141, ACTL3162 & ACTL3182.|000
+1496|1971|ACTL4303|Prerequisite: ACTL3141 OR (Prerequisite: ACTL4001 AND Corequisite: ACTL3141)|000
+1496|1971|RISK2001|Prerequisite: ACTL1101 and ACCT1501 and (MATH1241 or MATH1251)|111
+1496|1971|RISK3002|Prerequisite: ACTL1101 and MATH1251 Co-requisite: RISK2001|000
+1496|1971|RISK3003|Prerequisite: RISK2001 and (ACTL2131 or MATH2901)|000
+1496|1971|RISK3009|Prerequisite: RISK2001 and ACTL2111 and (ACTL2131 or MATH2901)|000
+1496|1979|GENC5031|Excluded:All UG Business programs|111
+1496|1979|GENC7002|Excluded:All UG Business programs|111
+1496|1979|TABL1710|Prerequisite: Must not be enrolled in Law single and dual programs.|111
+1496|1979|TABL2712|Prerequisite:LEGT1710 or TABL1710 or 12 UOC offered by the UNSW Business School.|111
+1496|1979|TABL2721|Prerequisite: LEGT1710 or TABL1710|000
+1496|1979|TABL2731|Prerequisite: LEGT1710 or TABL1710 or 12 UOC offered by the ASB.|111
+1496|1979|TABL2741|Prerequisite: (LEGT1710 or TABL1710) and must not be enrolled in Law single and dual programs|111
+1496|1979|TABL2751|Prerequisite: TABL1710 or LAWS1052 or JURD7152|000
+1496|1979|TABL2756|Prerequisite: LEGT1710 or TABL1710 or LAWS1052 or JURD7152|000
+1496|1979|TABL2790|Prerequisite: LEGT1710 or TABL1710|000
+1496|1979|TABL2792||111
+1496|1979|TABL3003|Prerequisite: TABL2751 or LEGT2751 or 48 units of credit completed in BTax.|000
+1496|1979|TABL3005|Prerequisite: TABL2751 or LEGT2751 or 48 units of credit completed in BTax.|111
+1496|1979|TABL3006|Prerequisite: TABL2751 or LEGT2751 or 48 units of credit completed in BTax.|111
+1496|1979|TABL3007|Prerequisite: TABL2751 or LEGT2751 or 48 units of credit completed in BTax.|000
+1496|1979|TABL3010|Prerequisite: TABL2751 or LEGT2751 or 48 UOC completed in program 4620|111
+1496|1979|TABL3016|Prerequisite: TABL2751 or LEGT2751 or 48 units of credit completed in BTax.|111
+1496|1979|TABL3020|Prerequisite: TABL2751 or LEGT2751 or 48 units of credit completed in BTax.|000
+1496|1979|TABL3022|Prerequisite: TABL2751 or LEGT2751 or 48 units of credit completed in BTax.|111
+1496|1979|TABL3023|Prerequisite: ATAX0001 or LEGT2751 or TABL2751 or TABL1001 or 48 units of credit completed in BTax.|000
+1496|1979|TABL3025|Prerequisite: TABL2751 or LEGT2751 or 48 units of credit completed in BTax.|000
+1496|1979|TABL3026|Prerequisite: TABL2751 or LEGT2751 or 48 UOC completed in program 4620|000
+1496|1979|TABL3028|Prerequisite: TABL2751 or LEGT2751 or 48 units of credit completed in BTax.|000
+1496|1979|TABL3040|Prerequisite: TABL2751 or LEGT2751 or 48 units of credit completed in BTax.|000
+1496|1979|TABL3055|(ATAX0611 or TABL3015 or TABL3752) and (ATAX0623 or TABL3023) and (completion of 48 uoc)|000
+1496|1979|TABL3732|Prerequisite: LEGT1710 or TABL1710|000
+1496|1979|TABL3741|Prerequisite: LEGT1710 or TABL1710|111
+1496|1979|TABL3752|Prerequisite: LEGT2751 or TABL2751 or LAWS3147|000
+1496|1979|TABL3755|Prerequisite: LEGT2751 or TABL2751 or LAWS3147|111
+1496|1979|TABL3757|Prerequisite: LEGT2751 or TABL2751 or LAWS3147|000
+1496|1979|TABL3761|Prerequisite: LEGT1710 or TABL1710 or 12 UOC offered by the ASB.|111
+1496|1979|TABL3781|Prerequisite: LEGT1710 or TABL1710 Excluded: TABL3771|000
+1496|1979|TABL3791|Prerequisite: LEGT1710 or TABL1710 or 12 UOC offered by the ASB.|111
+1496|1979|TABL4721|Prerequisite: LEGT1710 or TABL1710|111
+1496|1979|TABL4722|Prerequisite: LEGT2751 or TABL2751 or LAWS3147|111
