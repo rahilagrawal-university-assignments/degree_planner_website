@@ -31,7 +31,13 @@ def index():
 
 @app.route('/completed', methods=["GET", "POST"])
 def completed():
-    return render_template("completed.html")
+    faculty = request.args.get("facultySelected")
+    school = request.args.get("schoolSelected")
+    courseDB = searchCourse(None, faculty, school)
+    courseName = []
+    for c in courseDB:
+        courseName.append(c.course_code)
+    return render_template("completed.html", courses=courseName)
 
 
 @app.route('/plan', methods=["GET", "POST"])
@@ -60,7 +66,10 @@ def plan():
                 t3.append(selectedButtonSplit[0])
                 del courses[selectedButtonSplit[0]]
         return render_template("plan.html", courses=courses, t1=t1, t2=t2, t3=t3)
-    return render_template("plan.html", courses=courses, t1=t1, t2=t2, t3=t3)
+    if faculty == "Faculty Of Engineering" and school == "School Of Computer Science And Engineering":
+        return render_template("plan.html", courses=courses, t1=t1, t2=t2, t3=t3)
+    else:
+        return render_template("plan.html", courses={}, t1=[], t2=[], t3=[])        
 
 def getFacultiesSchool():
     faculty = {}

@@ -6,51 +6,70 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/mycss.css') }}">
+
     <link rel="stylesheet" href="../static/css/mycss.css">
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Completed Courses</title>
+    <title>Course Plan</title>
 </head>
 <body>
     <div class="container">
         <div class="jumbotron jumbotron-fluid">
-            <h1>UNSW Degree Planner</h1> 
-        </div>
-    <div style = "border-color: black; border-style: solid;" >
-        <div class="col-sm-4" style = "border-color: red; border-style: solid;">
-            Test 1
-            <div class="btn-group-toggle" data-toggle="buttons">
-                <label class="btn btn-secondary active">
-                    <input type="checkbox" checked autocomplete="off"> Checked
-                </label>
-            </div>
-        </div>
-        <div class="col-sm-4" style = "border-color: red; border-style: solid;">
-            Test 2
-            <div class="btn-group">
-                <button>T1</button>
-                <button>T2</button>
-                <button>T3</button>
-            </div>
-        </div>
-    </div>
-    <br>
-    <br>
-    <div>
-        <div class="col-sm-4">
-            <H2>Trimester 1</H2>
-        </div>
-    
-        <div class="col-sm-4">
-            <H2>Trimester 2</H2>
-        </div>
-        <div class="col-sm-4">
-            <H2>Trimester 3</H2>
+            <h1>Completed Courses</h1> 
         </div>
 
+  
+        <div>
+        	<ul class="nav nav-tabs">
+                <li class="active"><a data-toggle="tab" href="#home">Home</a></li>
+                <li><a data-toggle="tab" href="#menu1">Menu 1</a></li>
+                <li><a data-toggle="tab" href="#menu2">Menu 2</a></li>
+              </ul>
+              
+              <div class="tab-content">
+                <div id="home" class="tab-pane fade in active">
+                        {% for j in range(8) %}
+                        <div class="row" >
+                                {% for i in range(3) %}
+                                <div class= "card col-sm-3 pull-left">
+                                              <a href="#" class="btn btn-primary"  style="width: 250px;height:80px;">Go somewhere</a>
+                                </div>
+                               {% endfor %}
+                        </div>
+                        {% endfor %}
+                </div>
+                <div id="menu1" class="tab-pane fade">
+                        {% for j in range(8) %}
+                        <div class="row">
+                                {% for i in range(8) %}
+                                <div class= "card col-sm-1">
+                                        <div class="card-body">
+                                              <a href="#" class="btn btn-primary">Go somewhere</a>
+                                        </div>
+                                </div>
+                               {% endfor %}
+                        </div>
+                        {% endfor %}
+                </div>
+                <div id="menu2" class="tab-pane fade">
+                        {% for j in range(8) %}
+                        <div class="row">
+                                {% for i in range(8) %}
+                                <div class= "card col-sm-1">
+                                        <div class="card-body">
+                                              <a href="#" class="btn btn-primary">Go somewhere</a>
+                                        </div>
+                                </div>
+                               {% endfor %}
+                        </div>
+                        {% endfor %}
+                </div>
+              </div>
+</div>
+       </div>
     </div>
-</div>       
+          
 </body>
 </html>
