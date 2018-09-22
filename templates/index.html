@@ -19,7 +19,7 @@
     <div class="dropdown-menu">
     
     </div>
-    <select id="Faculty List" class="dropdown-menu" onchange="getFList()">
+    <select id="Faculty_List" class="dropdown-menu" onchange="getFaculty()">
       <option id="Science" name="Faculty"><a class="dropdown-item" href="#">Science</a></li>
       <option id="Engineering" name="Faculty"><a class="dropdown-item" href="#">Engineering</a></li>
       <option id="Buisness" name="Faculty"><a class="dropdown-item" href="#">Buisness</a></li>
@@ -29,29 +29,36 @@
       </select>
   </div>
 
+  <div class="dropdown">
+      <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+        Schools
+      </button>
+      <div class="dropdown-menu">
+      
+      </div>
+      <select id="School_List" class="dropdown-menu" onchange="getSchool()">
+        <option id="COMPSCI" name="Schools"><a class="dropdown-item" href="#">Computer Science</a></li>
+        <option id="MECHENG" name="Schools"><a class="dropdown-item" href="#"> Mechanical Engineering</a></li>
+        <option id="ELECENG" name="Schools"><a class="dropdown-item" href="#"> Electrical Engineering</a></li>
+        <option id="LEBRONENG" name="Schools"><a class="dropdown-item" href="#"> Lebron Engineering</a></li>
+        </ul>
+      </div>
+
   <script>
-    function getFList(){
-      var e = document.getElementById("Faculty List");
-      var strUser = e.options[e.selectedIndex].id;
-      console.log(strUser);
+    function getFaculty(){
+      var e = document.getElementById("Faculty_List");
+      var faculty = e.options[e.selectedIndex].id;
+      console.log(faculty);
     }
 
+    function getSchool(){
+      var e = document.getElementById("School_List");
+      var school = e.options[e.selectedIndex].id;
+      console.log(school);
+    }
   </script>
 
-  <div class="dropdown">
-    <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
-      Schools
-    </button>
-    <div class="dropdown-menu">
-    
-    </div>
-    <ul class="dropdown-menu">
-      <li><a class="dropdown-item" href="#">Computer Science</a></li>
-      <li><a class="dropdown-item" href="#"> Mechanical Engineering</a></li>
-      <li><a class="dropdown-item" href="#"> Electrical Engineering</a></li>
-      <li><a class="dropdown-item" href="#"> Lebron Engineering</a></li>
-      </ul>
-    </div>
+
 
 </body>
 </html>
