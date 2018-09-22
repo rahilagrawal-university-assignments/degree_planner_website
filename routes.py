@@ -9,7 +9,8 @@ import os
 def index():
     faculties = getFacultiesSchool()
     if request.method == "POST":
-        
+        facultySelected = request.form.get("Faculty")
+        return render_template("index.html", faculties=faculties.keys(), facultySelected=facultySelected, schools=faculties[facultySelected])
 
     return render_template("index.html", faculties=faculties.keys())
 
