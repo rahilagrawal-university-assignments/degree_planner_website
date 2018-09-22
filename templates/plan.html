@@ -22,6 +22,7 @@
                     <br>
                     <p  style="text-align: right;" class="lead">Uni is hard work. Don't let enrolling be.</p> 
             </div>
+<form method="POST">
     <div class="row" style = "border-color: coral; border-style: solid; " >
         {% for c in courses %}
         <div class="card col-sm-3"  style="border-color: grey; border-style: solid; ">
@@ -30,17 +31,17 @@
             </div>
             <div class="btn-group">
                 {% if courses[c][0] == "1" %}
-                <button class="btn btn-info" type="submit" name="selectedButton" id="{{c}}_T1">T1</button>
+                <button class="btn btn-info" type="submit" name="selectedButton" value="{{c}}_T1">T1</button>
                 {% else %}
                 <button class="btn btn-info" type="submit" name="selectedButton" disabled>T1</button>
                 {% endif %}
                 {% if courses[c][1] == "1" %}
-                <button class="btn btn-info" type="submit" name="selectedButton" id="{{c}}_T2">T2</button>
+                <button class="btn btn-info" type="submit" name="selectedButton" value="{{c}}_T2">T2</button>
                 {% else %}
                 <button class="btn btn-info" type="submit" name="selectedButton" disabled>T2</button>
                 {% endif %}
                 {% if courses[c][2] == "1" %}
-                <button class="btn btn-info" type="submit" name="selectedButton" id="{{c}}_T3">T3</button>
+                <button class="btn btn-info" type="submit" name="selectedButton" value="{{c}}_T3">T3</button>
                 {% else %}
                 <button class="btn btn-info" type="submit" name="selectedButton" disabled>T3</button>
                 {% endif %}
@@ -48,6 +49,7 @@
         </div>
         {% endfor %}
     </div>
+</form>
     <br>
     <br>
     <div>
