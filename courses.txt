@@ -1,0 +1,84 @@
+BINF2010|Prerequisite: BABS1201|001
+BINF3010|Prerequisite: BIOC2201.|010
+BINF6111|Prerequisite: BINF9010 and COMP9021|010
+BINF6112||001
+COMP1000||010
+COMP1400|Prerequisite: Enrolment in a non-CSE major (no BINF, COMP, or SENG)|001
+COMP1511||111
+COMP1521|Prerequisite: COMP1511 or COMP1911 or COMP1917|011
+COMP1531|Prerequisite: COMP1511 or COMP1917 or COMP1921|101
+COMP1911|Prerequisite: Enrolment in a non-CSE major (no BINF, COMP, or SENG)|100
+COMP2041|Prerequisite: COMP1511 or COMP1917 or COMP1921|010
+COMP2111|Prerequisite: MATH1081, and COMP1511 or COMP1917 or COMP1921|100
+COMP2121|Prerequisite: COMP1917 or COMP1921 or COMP1511 or COMP1521, or (COMP1911 and MTRN2500)|110
+COMP2511|Prerequisite: COMP1927, or (COMP1531 or SENG1031, and COMP2521)|011
+COMP2521|Prerequisite: COMP1511 or COMP1917 or COMP1921|111
+COMP3121|Prerequisite: COMP1927 or COMP2521|100
+COMP3131|Prerequisite: COMP2511 or COMP2911|100
+COMP3141|Prerequisite: COMP1927 or COMP2521|010
+COMP3151|Prerequisite: COMP1927, or COMP1521 and COMP2521|010
+COMP3153|Prerequisite: A mark of at least 65 in COMP1927 or COMP2521|100
+COMP3161|Prerequisite: COMP2521 or COMP1927|001
+COMP3211|Prerequisite: COMP3222 or ELEC2141.|100
+COMP3222|Prerequisite: COMP2121, or (ELEC1111 or ELEC1112, and COMP1521 or COMP1927)|001
+COMP3231|Prerequisite: COMP1521 or COMP2121, and COMP2521 or COMP1927|100
+COMP3311|Prerequisite: COMP1531 or COMP1927|101
+COMP3331|Prerequisite: COMP1921 or COMP1927 or MTRN3500, or (COMP1521, and COMP2521 or MTRN3500)|111
+COMP3411|Prerequisite: COMP2521 or COMP1927|100
+COMP3421|Prerequisite: COMP2511 or COMP2911|010
+COMP3431|Prerequisite: COMP2521 or COMP1927, and a WAM of at least 70|001
+COMP3511|Prerequisite: Completion of 48 UOC|001
+COMP3601|Prerequisite: COMP2121|001
+COMP3821|Prerequisite: A mark of at least 65 in COMP1927 or COMP2521|010
+COMP3891|Prerequisite: COMP1521 or COMP2121, and COMP2521 or COMP1927, and a WAM of at least 75|100
+COMP3900|Prerequisite: COMP1531, and COMP2521 or COMP1927, and enrolled in a BSc Computer Science major.|111
+COMP3901|Prerequisite: 80+ WAM in COMP, SENG or BINF courses, completion of all first and second year core requirements a CSE program, and agreement from a suitable CSE academic supervisor.|111
+COMP3902|Prerequisite: 80+ WAM in COMP, SENG or BINF courses, completion of all first and second year core requirements a CSE program, and agreement from a suitable CSE academic supervisor.|111
+COMP4121|Prerequisite: COMP9101 or COMP9801.|001
+COMP4128|Co-equisite: COMP3821, or COMP3121 and a 75WAM|001
+COMP4141|Prerequisite: COMP9020 and COMP9024|100
+COMP4161|Prerequisite: Completion of 48 UOC|001
+COMP4336|Prerequisite: COMP3331.|010
+COMP4337|Prerequisite: COMP3331.|100
+COMP4418|Prerequisite: COMP9414 or COMP9814 or COMP4415|001
+COMP4511|Prerequisite: a mark of at least 70 in COMP9511 and a mark of at least 65 in COMP9021|010
+COMP4601|Prerequisite: COMP3222 and COMP3601.|100
+COMP4920|Prerequisite: COMP2511 or COMP2911, and in the final year of the BSc Computer Science or BE / BE (Hons) Bioinformatics Engineering or Computer Engineering.  Software Engineering students enrol in SENG4920.|001
+COMP4930|Prerequisite:  Enrolment in Bachelor of Science (Honours) program 4515, or 126 units of credit completed in BE Computer Engineering, BE Bioinformatics or Bioinformatics Engineering, or BE (Honours) Software Engineering.|111
+COMP4931|Prerequisite: COMP4930.  Excluded: Program 4515.|111
+COMP4941|Prerequisite: COMP4930 and [75 WAM or enrolment in Computer Science Honours]|111
+COMP6324|Prerequisite: COMP9021 and COMP9311|100
+COMP6441|Prerequisite: Completion of 48 UOC|010
+COMP6443|Prerequisite: COMP6441 or COMP6841 or COMP9441|100
+COMP6445|Prerequisite: COMP6441 or COMP6841 or COMP9441, and COMP9201 or COMP9283|001
+COMP6447|Prerequisite: A mark of at least 65 in COMP6841, or a mark of at least 75 in COMP6441 or COMP9441|010
+COMP6714|Prerequisite: COMP9020 and COMP9021|001
+COMP6733|Prerequisite: 65 WAM and COMP9331|001
+COMP6741|Prerequisite: COMP9101 or COMP9801.|001
+COMP6752|Prerequisite: COMP9024.|010
+COMP6771|Prerequisite: COMP9024.|010
+COMP6841|Prerequisite: COMP9024.|010
+COMP6843|Prerequisite: COMP6441 or COMP6841 or COMP9441|100
+COMP6845|Prerequisite: COMP6441 or COMP6841 or COMP9441, and COMP9201 or COMP9283|001
+COMP9242|Prerequisite: a mark of at least 75 in either COMP9201 or COMP9283.|010
+COMP9243|Prerequisite: COMP9201 or COMP9283, and COMP9331.|001
+COMP9313|Prerequisite: COMP9024 and COMP9311|011
+COMP9315|Prerequisite: COMP9024 and COMP9311.|010
+COMP9318|Prerequisite: COMP9020 and COMP9024 and COMP9311|100
+COMP9319|Prerequisite: COMP9024.|010
+COMP9321|Prerequisite: COMP9021 and COMP9311|101
+COMP9322|Prerequisite: COMP9321.|110
+COMP9323|Prerequisite: COMP9021 and COMP9311 and > 65 WAM|001
+COMP9332|Prerequisite: COMP9331.|010
+COMP9334|Prerequisite: COMP9021|100
+COMP9417|Prerequisite: (COMP9020 and COMP9021) or COMP9024|010
+COMP9418|Prerequisite: COMP9417.|001
+COMP9444|Prerequisite: COMP9024.|001
+COMP9517|Prerequisite: COMP9024.|010
+COMP9596||111
+SENG2011|Prerequisite: COMP2111.|001
+SENG2021|Prerequisite:  SENG1031 or COMP1531, and enrolment in a BE or BE(Hons) Software Engineering major.|100
+SENG3011|Prerequisite: SENG2021|100
+SENG4910|Prerequisite: 126 units of credit completed in BE Software Engineering (SENGA1)|111
+SENG4911|Prerequisite: SENG4910.|111
+SENG4920|Prerequisite: SENG3011|001

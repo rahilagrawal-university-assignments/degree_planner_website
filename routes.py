@@ -23,14 +23,21 @@ def index():
 
 @app.route('/completed', methods=["GET", "POST"])
 def completed():
-
     return render_template("completed.html")
 
 
 @app.route('/plan', methods=["GET", "POST"])
 def plan():
-
-    return render_template("plan.html")
+    courses = {
+        "COMP1511" : ["1", "1", "1"],
+        "COMP1521" : ["1", "0", "1"],
+        "COMP2521" : ["0", "0", "1"],
+        "COMP3331" : ["1", "0", "1"]
+    }
+    t1 = ["COMP3141", "COMP1531", "SENG2011"]
+    t2 = ["COMP2111", "COMP2511"]
+    t3 = ["COMP2041"]
+    return render_template("plan.html", courses=courses, t1=t1, t2=t2, t3=t3)
 
 def getFacultiesSchool():
     faculty = {}
@@ -48,4 +55,3 @@ def checkPrereq(course, completed_courses):
         if prereq not in completed_courses:
             return False
     return True
-

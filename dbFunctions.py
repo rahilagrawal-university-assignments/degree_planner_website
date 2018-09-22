@@ -2,7 +2,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from dbMake import Courses, Prereqs
 
-engine = create_engine('sqlite:///movies.db')
+engine = create_engine('sqlite:///courses.db')
 DBSession = sessionmaker(bind=engine)
 session = DBSession()
 
@@ -10,18 +10,18 @@ def searchQuery(searchText):
     searchText = "%" + searchText + "%"
     return session.query(Movie).filter(Movie.name.ilike(searchText)).all()
 
-def addCourse(course_code, offerings):
+def addCourse(course_code, offerings, faculty, school, stage):
     try:
-        newCourse = Course(course_code=course_code, offerings=offerings)
+        newCourse = Course(course_code=course_code, offerings=offerings, faculty=faculty, school=school, stage=stage)
         session.add(newCourse)
         session.commit()
         return True
     except:
         return False
 
-def addPrereq(course_code, prereq_code, faculty, school, stage):
+def addPrereq(course_code, prereq_code):
     try:
-        newPrereq = Course(course_code=course_code, prereq_code=prereq_code, faculty=faculty, school=school, stage=stage)
+        newPrereq = Course(course_code=course_code, prereq_code=prereq_code)
         session.add(newPrereq)
         session.commit()
         return True
@@ -38,3 +38,12 @@ def getPrereqs(course_code):
 
 def searchByFacultySchool(faculty, school, stage):
     return session.query(Courses).filter_by(faculty=faculty, school=school, stage=stage)
+
+
+
+f = open("courses.txt", "r")
+for line in f:
+    line = line.rstrip()
+    splitLine = line.split("|")
+    print(addCourse(splitLine[0], splitLine[2], "Faculty of Engineering", "School of Computer Science and Engineering", "Undergraduate"))
+f.close()
