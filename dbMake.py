@@ -4,89 +4,24 @@ from sqlalchemy.orm import relationship
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from dbFunctions import *
-from showtimeAPI import *
-from imdb import IMDb
-import random
 
 Base = declarative_base()
 
-class Movie(Base):
-    __tablename__ = "movie"
-    imdb_id = Column(Integer, primary_key=True, autoincrement=False)
-    name = Column(String(100), nullable=False)
-    poster = Column(String(250), nullable=True)
-    genres = Column(String(250), nullable=False)
-    is_showing = Column(Boolean, default=True)
+class Courses(Base):
+    __tablename__ = "courses"
+    course_code = Column(String(10), primary_key=True, autoincrement=False)
+    offerings = Column(String(250), nullable=False)
+    faculty = Column(String(250), nullable=False)
+    school = Column(String(250), nullable=False)
+    stage = Column(String(250), nullable=False)
 
-class Cinema(Base):
-    __tablename__ = "cinema"
-    cinema_id = Column(Integer, primary_key=True)
-    name = Column(String(100), nullable=False)
+class Prereqs(Base):
+    __tablename__ = "prereqs"
+    prereq_id = Column(Integer, primary_key=True, autoincrement=True)
+    course_code = Column(String(10), nullable=False)
+    prereq_code = Column(String(10), nullable=False)
 
-class Time(Base):
-    __tablename__ = "time"
-    time_id = Column(Integer, primary_key=True)
-    showtime = Column(String(100), nullable=False)
-    cinema_id = Column(Integer, ForeignKey("cinema.cinema_id"), nullable=False)
-    imdb_id = Column(Integer, ForeignKey("movie.imdb_id"), nullable=False)
-
-class User(Base):
-    __tablename__ = "users"
-    username = Column(String(100), primary_key=True, autoincrement=False)
-    password = Column(String(100), nullable=False)
-    firstName = Column(String(100), nullable=False)
-    lastName = Column(String(100), nullable=False)
-
-def addMovie(session, id, name, poster, is_showing, genres):
-    new_movie = Movie(imdb_id=id, name=name, poster=poster, is_showing=is_showing, genres=genres)
-    session.add(new_movie)
-    session.commit()
-
-def addCinema(session, name):
-    new_cinema = Cinema(name=name)
-    session.add(new_cinema)
-    session.commit()
-
-def addTime(session, imdb_id, cinema_id, show_time):
-    new_time = Time(imdb_id=imdb_id, cinema_id=cinema_id, showtime=show_time)
-    session.add(new_time)
-    session.commit()
-
-def addUser(session, username, password):
-    new_user = User(username=username, password=password)
-    session.add(new_user)
-    session.commit()
-
-# this will add all the theaters supplied using the parameteres into the session 
-# def addall_theaters(session ,listof_theaters):
-#     for i in range(0, len(listof_theaters["cinemas"])):
-#          # print("%s " % (listof_theaters["cinemas"][i]["name"]) , (listof_theaters["cinemas"][i]["id"]))
-#          addCinema(session , listof_theaters["cinemas"][i]["name"] , (listof_theaters["cinemas"][i]["id"]))
-
-# #this will add all the movies supplied into the session depending on if it is upcoming or not 
-# def addall_movies(session , listof_movies , includes_upcoming):
-#     for i in range(0, len(listof_movies["movies"])):
-#         addMovie(session , 
-#         int(get_imdbId(listof_movies["movies"][i]["id"])),
-#         listof_movies["movies"][i]["title"] ,
-#         listof_movies["movies"][i]["poster_image_thumbnail"] , includes_upcoming)
-
-# #this will add all the showtimes and the times of the movies into the session 
-# def addall_times(session , listof_times):
-#     for i in range(0 , len(listof_times)["showtimes"]):
-#         addTime(session , int(get_imdbId(len(listof_times["showtimes"][i]["movie_id"]))),
-#             int(len(listof_times["showtimes"][i]["cinema_id"]))  , len(listof_times["showtimes"][i]["start_at"]))
-# #goes through all the cinemas in the database and 
-# def addall_plays(session):
-#     theaters = session.query(Cinema).filter_by(id>0).all
-#     for Cinema in theaters:
-#        listof_movies =  get_movie(str(Cinema.cinema_id))
-#        for i in range(0,len(listof_movies["movies"])):
-#             addPlays(session ,int(get_imdbId(listof_movies["movies"][i]["movie_id"])) ,Cinema.cinema_id)
-
-
-
-engine = create_engine('sqlite:///movies.db')
+engine = create_engine('sqlite:///courses.db')
 Base.metadata.create_all(engine)
 DBSession = sessionmaker(bind=engine)
 
