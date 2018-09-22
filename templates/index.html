@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/mycss.css') }}">
+    <link rel="stylesheet" type=text/css href="{{ url_for('static', filename='css/mycss.css') }}">
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,8 +22,8 @@
 
 <Form method="POST">
 
-  <div class="custom-select" style="width:200px;">
-    <select id="Faculty_List" name="Faculty" onchange="this.form.submit()" required>
+  <div class="custom-select" style="width:200px">
+    <select id="Faculty_List" name="Faculty" onchange="this.form.submit()">
       {% for i in faculties %}
         {% if i == facultySelected %}
           <option  selected id="{{i}}" name="Faculty"><a href="#">{{i}}</a></option>
@@ -33,24 +33,26 @@
       {% endfor %}
       </select>
     </div>
-    <div class="custom-select" style="width:200px;">
-      <select id="School_List" required>
-        {% if schools %}
-          {% for school in schools %}
-            <option id="{{school}}" name="Schools"><a class="dropdown-item" href="#">{{school}}</a></option>
-          {% endfor %}
-        {% endif %}
-      </select>
-    </div>
-    <div class="custom-select" style="width:200px;">
-      <select id="status" required>
-        <option selected id="Current" name="Schools"><a href="#">Current</a></option>
+
+    <div class="custom-select" style="width:200px">
+        <select id="School_List" name="School">
+            {% for school in schools %}
+              <option id="{{school}}" name="Schools"><a class="dropdown-item" href="#">{{school}}</a></option>
+            {% endfor %}
+        </select>
+      </div>
+      
+    <div class="custom-select" style="width:200px">
+      <select id="status">
+        <option id="Current" name="Schools"><a href="#">Current</a></option>
         <option id="New" name="Schools"><a href="#">Starting 2019</a></option>
       </select>
     </div>
 
     <button type="submit">Confirm</button>
 </Form>
+
+
 </div>
 
 </body>
