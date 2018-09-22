@@ -20,7 +20,7 @@
         <h1>UNSW Degree Planner</h1> 
       </div>
 
-<Form method="POST">
+<form method="POST">
 
   <div class="custom-select" style="width:200px">
     <select id="Faculty_List" name="Faculty" onchange="this.form.submit()">
@@ -34,6 +34,7 @@
       </select>
     </div>
 
+    {% if schools %}
     <div class="custom-select" style="width:200px">
         <select id="School_List" name="School">
             {% for school in schools %}
@@ -41,6 +42,7 @@
             {% endfor %}
         </select>
       </div>
+    {% endif %}
       
     <div class="custom-select" style="width:200px">
       <select id="status">
@@ -50,7 +52,7 @@
     </div>
 
     <button type="submit">Confirm</button>
-</Form>
+</form>
 
 
 </div>

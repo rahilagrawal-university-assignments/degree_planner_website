@@ -10,6 +10,7 @@ def index():
     faculties = getFacultiesSchool()
     if request.method == "POST":
         facultySelected = request.form.get("Faculty")
+        print(facultySelected)
         return render_template("index.html", faculties=faculties.keys(), facultySelected=facultySelected, schools=faculties[facultySelected])
 
     return render_template("index.html", faculties=faculties.keys())
@@ -35,3 +36,11 @@ def getFacultiesSchool():
             schools[i] = schools[i].rstrip()
         faculty[filename] = schools
     return faculty
+
+def checkPrereq(course, completed_courses):
+    prereqs = getPrereqs()
+    for prereq in prereqs:
+        if prereq not in completed_courses:
+            return False
+    return True
+
