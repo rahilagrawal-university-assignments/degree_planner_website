@@ -20,8 +20,9 @@
       <div class="jumbotron jumbotron-fluid">
         <img src="{{ url_for('static', filename='assets/UNSW.png') }}" alt="UNSW Logo" Style="float: left;">
 
-        <h1>                Degree Planner</h1> 
-        <p  class="lead">Uni is hard work. Don't let enrolling be.</p> 
+        <h1 style="text-align: right;">Degree Planner</h1> 
+        <br>
+        <p  style="text-align: right;" class="lead">Uni is hard work. Don't let enrolling be.</p> 
       </div>
     <Form method="POST">
     <div class="styled-select slate" style="width: 250%">
@@ -44,9 +45,10 @@
         <option id="Current" name="Stage"><a href="#">Current</a></option>
         <option id="New" name="Stage"><a href="#">Starting 2019</a></option>
       </select>
-      <button name="send" value="true" type="submit">Confirm</button>
-
     </div>
+
+    <button name="send" value="true" type="submit">Confirm</button>
+
 </form>
 
 
