@@ -30,9 +30,11 @@ def addPrereq(course_code, prereq_code):
     except:
         return False
 
-def searchCourse(course_code):
+def searchCourse(course_code, faculty, school):
     if course_code == None:
         return session.query(Courses).all()
+    elif course_code == None and faculty != None and school != None:
+        return session.query(Courses).filter_by(faculty=faculty, school=school).all() 
     return session.query(Courses).filter_by(course_code=course_code).all()
 
 def getPrereqs(course_code):
