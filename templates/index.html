@@ -18,17 +18,10 @@
 			
       </div>
 
-  <Form method="POST">
+<Form method="POST">
 
-  <div class="dropdown">
-    <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
-      Faculty
-    </button>
-
-    <div class="dropdown-menu">
-    
-    </div>
-    <select id="Faculty_List" class="dropdown-menu" onchange="this.form.submit()">
+  <div>
+    <select id="Faculty_List" onchange="this.form.submit()" required>
       <option id="Science" name="Faculty"><a class="dropdown-item" href="#">Science</a></option>
       <option id="Engineering" name="Faculty"><a class="dropdown-item" href="#">Engineering</a></option>
       <option id="Buisness" name="Faculty"><a class="dropdown-item" href="#">Buisness</a></option>
@@ -38,11 +31,8 @@
       </select>
   </div>
 
-  <div class="dropdown">
-      <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
-        Schools
-      </button>
-      <select id="School_List" class="dropdown-menu" onchange="">
+  <div>
+      <select id="School_List" required>
         <option id="COMPSCI" name="Schools"><a class="dropdown-item" href="#">Computer Science</a></option>
         <option id="MECHENG" name="Schools"><a class="dropdown-item" href="#"> Mechanical Engineering</a></option>
         <option id="ELECENG" name="Schools"><a class="dropdown-item" href="#"> Electrical Engineering</a></option>
@@ -50,19 +40,13 @@
       </select>
   </div>
 
-      <div class="dropdown">
-          <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
-            Schools
-          </button>
-          <div class="dropdown-menu">
-          
-          </div>
-          <select id="status" class="dropdown-menu" onchange="">
-            <option id="Current" name="Schools"><a class="dropdown-item" href="#">Current</a></option>
-            <option id="New" name="Schools"><a class="dropdown-item" href="#">Starting 2019</a></option>
-            </select>
-          </div>
-    </Form>
+      <select id="status" required>
+        <option id="Current" name="Schools"><a class="dropdown-item" href="#">Current</a></option>
+        <option id="New" name="Schools"><a class="dropdown-item" href="#">Starting 2019</a></option>
+      </select>
+
+    <button type="submit">Confirm</button>
+</Form>
 
   <script>
     function getFaculty(){
