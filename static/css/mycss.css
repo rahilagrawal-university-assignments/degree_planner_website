@@ -2,7 +2,11 @@
   position: relative;
   font-family: Arial;
   background-color: DodgerBlue;
-
+  align-self: center;
+  width: 80%;
+  height:30px;
+  color: white;
+  size: 16px;;
 }
 
 .myselect:after {
@@ -16,3 +20,33 @@
   border-color: #fff transparent transparent transparent;
 }
 
+/*the container must be positioned relative:*/
+
+
+.select-selected {
+  background-color: DodgerBlue;
+}
+/*style the arrow inside the select element:*/
+.select-selected:after {
+  position: absolute;
+  content: "";
+  top: 14px;
+  right: 10px;
+  width: 0;
+  height: 0;
+  border: 6px solid transparent;
+  border-color: #fff transparent transparent transparent;
+}
+/*style items (options):*/
+.select-items {
+  position: absolute;
+  background-color: DodgerBlue;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 99;
+}
+
+.select-items div:hover, .same-as-selected {
+  background-color: rgba(0, 0, 0, 0.1);
+}
