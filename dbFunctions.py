@@ -12,12 +12,14 @@ def searchQuery(searchText):
 
 def addCourse(course_code, offerings, faculty, school, stage):
     try:
-        newCourse = Course(course_code=course_code, offerings=offerings, faculty=faculty, school=school, stage=stage)
+        newCourse = Courses(course_code=course_code, offerings=offerings, faculty=faculty, school=school, stage=stage)
         session.add(newCourse)
         session.commit()
         return True
     except:
-        return False
+        pass
+    
+    return False
 
 def addPrereq(course_code, prereq_code):
     try:
@@ -41,9 +43,9 @@ def searchByFacultySchool(faculty, school, stage):
 
 
 
-f = open("courses.txt", "r")
-for line in f:
-    line = line.rstrip()
-    splitLine = line.split("|")
-    print(addCourse(splitLine[0], splitLine[2], "Faculty of Engineering", "School of Computer Science and Engineering", "Undergraduate"))
-f.close()
+# f = open("courses.txt", "r")
+# for line in f:
+#     line = line.rstrip()
+#     splitLine = line.split("|")
+#     print(addCourse(splitLine[0], splitLine[2], "Faculty of Engineering", "School of Computer Science and Engineering", "Undergraduate"))
+# f.close()
