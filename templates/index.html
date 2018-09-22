@@ -23,7 +23,11 @@
     <select id="Faculty_List" name="Faculty" onchange="this.form.submit()" required>
 
       {% for i in faculties %}
-        <option id="{{i}}" name="Faculty"><a class="dropdown-item" href="#">{{i}}</a></option>
+        {% if i == facultySelected %}
+          <option  selected id="{{i}}" name="Faculty"><a class="dropdown-item" href="#">{{i}}</a></option>
+        {% else %}
+          <option id="{{i}}" name="Faculty"><a class="dropdown-item" href="#">{{i}}</a></option>
+        {% endif %}
       {% endfor %}
       </select>
   </div>
@@ -40,7 +44,7 @@
   </div>
 
       <select id="status" required>
-        <option id="Current" name="Schools"><a class="dropdown-item" href="#">Current</a></option>
+        <option selected id="Current" name="Schools"><a class="dropdown-item" href="#">Current</a></option>
         <option id="New" name="Schools"><a class="dropdown-item" href="#">Starting 2019</a></option>
       </select>
 
