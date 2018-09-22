@@ -2,7 +2,11 @@
   position: relative;
   font-family: Arial;
   background-color: DodgerBlue;
-
+  align-self: center;
+  width: 80%;
+  height:30px;
+  color: white;
+  size: 16px;;
 }
 
 .myselect:after {
@@ -19,4 +23,5 @@
 body {
   background-color: gold;
 }
+
 
