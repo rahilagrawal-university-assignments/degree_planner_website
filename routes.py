@@ -14,7 +14,10 @@ def index():
         stage = request.form.get("Stage")
         try:
             if request.form["send"] == "true" and schoolSelected != "None":
-                return redirect(url_for("completed"))
+                if (stage == "Current"):
+                    return redirect(url_for("completed"))
+                else:
+                    return redirect(url_for("plan"))
         except:
             return render_template("index.html", faculties=faculties.keys(), facultySelected=facultySelected, schools=faculties[facultySelected])
 
@@ -28,15 +31,15 @@ def completed():
 
 @app.route('/plan', methods=["GET", "POST"])
 def plan():
-    courses = {
-        "COMP1511" : ["1", "1", "1"],
-        "COMP1521" : ["1", "0", "1"],
-        "COMP2521" : ["0", "0", "1"],
-        "COMP3331" : ["1", "0", "1"]
-    }
-    t1 = ["COMP3141", "COMP1531", "SENG2011"]
-    t2 = ["COMP2111", "COMP2511"]
-    t3 = ["COMP2041"]
+    t1 = []
+    t2 = []
+    t3 = []
+    if request.method == "POST":
+        pass
+    courseDB = searchCourse(None)
+    courses = {}
+    for c in courseDB:
+        courses[c.course_code] = list(c.offerings)
     return render_template("plan.html", courses=courses, t1=t1, t2=t2, t3=t3)
 
 def getFacultiesSchool():

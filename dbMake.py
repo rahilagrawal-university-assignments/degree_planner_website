@@ -9,10 +9,10 @@ Base = declarative_base()
 class Courses(Base):
     __tablename__ = "courses"
     course_code = Column(String(10), primary_key=True, autoincrement=False)
-    offerings = Column(String(250), nullable=True)
-    faculty = Column(String(250), nullable=True)
-    school = Column(String(250), nullable=True)
-    stage = Column(String(250), nullable=True)
+    offerings = Column(String(250), nullable=False)
+    faculty = Column(String(250), nullable=False)
+    school = Column(String(250), nullable=False)
+    stage = Column(String(250), nullable=False)
 
 class Prereqs(Base):
     __tablename__ = "prereqs"
