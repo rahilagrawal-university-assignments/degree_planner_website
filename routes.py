@@ -5,6 +5,11 @@ from sqlite3 import Error
 from dbFunctions import *
 import os
 
+t1 = []
+t2 = []
+t3 = []
+courses = {}
+
 @app.route('/', methods=["GET", "POST"])
 def index():
     faculties = getFacultiesSchool()
@@ -31,18 +36,30 @@ def completed():
 
 @app.route('/plan', methods=["GET", "POST"])
 def plan():
-    t1 = []
-    t2 = []
-    t3 = []
+    global t1, t2, t3, courses
     faculty = request.args.get("facultySelected")
     school = request.args.get("schoolSelected")
-    if request.method == "POST":
-        pass
     courseDB = searchCourse(None, faculty, school)
-    courses = {}
-    for c in courseDB:
-        courses[c.course_code] = list(c.offerings)
-    print(courses)
+    if not courses:
+        for c in courseDB:
+            courses[c.course_code] = list(c.offerings)
+    
+    if request.method == "POST":
+        selectedButton = request.form["selectedButton"]
+        selectedButtonSplit = selectedButton.split("_")
+        if selectedButtonSplit[1].lower() == "t1":
+            if len(t1) < 3:
+                t1.append(selectedButtonSplit[0])
+                del courses[selectedButtonSplit[0]]
+        elif selectedButtonSplit[1].lower() == "t2":
+            if len(t2) < 3:
+                t2.append(selectedButtonSplit[0])
+                del courses[selectedButtonSplit[0]]
+        elif selectedButtonSplit[1].lower() == "t3":
+            if len(t3) < 3:
+                t3.append(selectedButtonSplit[0])
+                del courses[selectedButtonSplit[0]]
+        return render_template("plan.html", courses=courses, t1=t1, t2=t2, t3=t3)
     return render_template("plan.html", courses=courses, t1=t1, t2=t2, t3=t3)
 
 def getFacultiesSchool():
