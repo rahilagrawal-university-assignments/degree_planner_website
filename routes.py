@@ -8,7 +8,6 @@ import os
 @app.route('/', methods=["GET", "POST"])
 def index():
     faculties = getFacultiesSchool()
-    print(request.method)
     if request.method == "POST":
         facultySelected = request.form.get("Faculty")
         return render_template("index.html", faculties=faculties.keys(), facultySelected=facultySelected, schools=faculties[facultySelected])
@@ -25,7 +24,7 @@ def existing():
 @app.route('/current', methods=["GET", "POST"])
 def current():
 
-    return render_template("current.html")
+    return render_template("plan.html")
 
 def getFacultiesSchool():
     faculty = {}

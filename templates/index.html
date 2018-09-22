@@ -9,31 +9,32 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>UNSW Degree Planner</title>
 
 </head>
 
 <body>
     <div class="container">
       <div class="jumbotron jumbotron-fluid">
-        <h1>UNSW Degree Planner</h1> 
+        <img src="{{ url_for('static', filename='assets/UNSW.png') }}" alt="UNSW Logo" Style="float: left;">
+
+        <h1>                Degree Planner</h1> 
       </div>
 
-      <Form method="POST">
-
+    <Form method="POST">
     <select id="Faculty_List" class="myselect" name="Faculty" onchange="this.form.submit()">
       {% for i in faculties %}
         {% if i == facultySelected %}
           <option  selected id="{{i}}" name="Faculty"><a href="#">{{i}}</a></option>
         {% else %}
-          <option id="{{i}}" name="Faculty"><a class="dropdown-item" href="#">{{i}}</a></option>
+          <option id="{{i}}" name="Faculty"><a href="#">{{i}}</a></option>
         {% endif %}
       {% endfor %}
       </select>
       <br />
         <select id="School_List" name="School">
             {% for school in schools %}
-              <option id="{{school}}" name="Schools"><a class="dropdown-item" href="#">{{school}}</a></option>
+              <option id="{{school}}" name="Schools"><a href="#">{{school}}</a></option>
             {% endfor %}
         </select>
         <br />
