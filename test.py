@@ -16,3 +16,10 @@ def checkPrereq(course, completed_courses):
         if prereq not in completed_courses:
             return False
     return True
+
+f = open("courses.txt", "r")
+for line in f:
+    line = line.rstrip()
+    splitLine = line.split("|")
+    print(splitLine[2])
+    
