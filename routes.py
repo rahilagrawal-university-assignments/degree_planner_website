@@ -1,20 +1,36 @@
 from flask import Flask, redirect, render_template, request, url_for
-from flask_login import LoginManager,login_user, current_user, login_required, logout_user
-from login import loginUser
 import sqlite3
 from server import app
 from sqlite3 import Error
-import imdb
 from dbFunctions import *
-import datetime
-
-currentMovie = None
-currentId = 0
+import os
 
 @app.route('/', methods=["GET", "POST"])
 def index():
+    faculties = getFacultiesSchool()
     if request.method == "POST":
-        pass
+        
 
-    return render_template("index.html")
+    return render_template("index.html", faculties=faculties.keys())
 
+
+@app.route('/existing', methods=["GET", "POST"])
+def existing():
+
+    return render_template("existing.html")
+
+
+@app.route('/current', methods=["GET", "POST"])
+def current():
+
+    return render_template("current.html")
+
+def getFacultiesSchool():
+    faculty = {}
+    for filename in os.listdir(os.getcwd() + "/data/undergrad"):
+        f = open(os.getcwd() + "/data/undergrad" + "/" + filename, "r")
+        schools = f.readlines()
+        for i in range(0 , len(schools)):
+            schools[i] = schools[i].rstrip()
+        faculty[filename] = schools
+    return faculty
